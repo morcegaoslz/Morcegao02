@@ -1,78 +1,551 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-name="Stranger Things S01E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/GNAilBpkREoJPoMU75Czo1GL7g.jpg" group-title="Series | Netflix",Stranger Things S01E01
-http://kazzaplay.shop:80/series/645865/645865/2000873.mp4
-#EXTINF:-1 tvg-name="Stranger Things S01E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/GNAilBpkREoJPoMU75Czo1GL7g.jpg" group-title="Series | Netflix",Stranger Things S01E02
-http://kazzaplay.shop:80/series/645865/645865/2000874.mp4
-#EXTINF:-1 tvg-name="Stranger Things S01E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/GNAilBpkREoJPoMU75Czo1GL7g.jpg" group-title="Series | Netflix",Stranger Things S01E03
-http://kazzaplay.shop:80/series/645865/645865/2000875.mp4
-#EXTINF:-1 tvg-name="Stranger Things S01E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/GNAilBpkREoJPoMU75Czo1GL7g.jpg" group-title="Series | Netflix",Stranger Things S01E04
-http://kazzaplay.shop:80/series/645865/645865/2000876.mp4
-#EXTINF:-1 tvg-name="Stranger Things S01E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/GNAilBpkREoJPoMU75Czo1GL7g.jpg" group-title="Series | Netflix",Stranger Things S01E05
-http://kazzaplay.shop:80/series/645865/645865/2000877.mp4
-#EXTINF:-1 tvg-name="Stranger Things S01E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/GNAilBpkREoJPoMU75Czo1GL7g.jpg" group-title="Series | Netflix",Stranger Things S01E06
-http://kazzaplay.shop:80/series/645865/645865/2000878.mp4
-#EXTINF:-1 tvg-name="Stranger Things S01E07" tvg-logo="http://timg.bdta.pro/images/f379958d74633ecdcc11e6a39cab82dc.jpg" group-title="Series | Netflix",Stranger Things S01E07
-http://kazzaplay.shop:80/series/645865/645865/2000879.mp4
-#EXTINF:-1 tvg-name="Stranger Things S01E08" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S01E08
-http://kazzaplay.shop:80/series/645865/645865/2000880.mp4
-#EXTINF:-1 tvg-name="Stranger Things S02E01" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S02E01
-http://kazzaplay.shop:80/series/645865/645865/2000881.mp4
-#EXTINF:-1 tvg-name="Stranger Things S02E02" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S02E02
-http://kazzaplay.shop:80/series/645865/645865/2000882.mp4
-#EXTINF:-1 tvg-name="Stranger Things S02E03" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S02E03
-http://kazzaplay.shop:80/series/645865/645865/2000883.mp4
-#EXTINF:-1 tvg-name="Stranger Things S02E04" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S02E04
-http://kazzaplay.shop:80/series/645865/645865/2000884.mp4
-#EXTINF:-1 tvg-name="Stranger Things S02E05" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S02E05
-http://kazzaplay.shop:80/series/645865/645865/2000885.mp4
-#EXTINF:-1 tvg-name="Stranger Things S02E06" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S02E06
-http://kazzaplay.shop:80/series/645865/645865/2000886.mp4
-#EXTINF:-1 tvg-name="Stranger Things S02E07" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S02E07
-http://kazzaplay.shop:80/series/645865/645865/2000887.mp4
-#EXTINF:-1 tvg-name="Stranger Things S02E08" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S02E08
-http://kazzaplay.shop:80/series/645865/645865/2000888.mp4
-#EXTINF:-1 tvg-name="Stranger Things S02E09" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S02E09
-http://kazzaplay.shop:80/series/645865/645865/2000889.mp4
-#EXTINF:-1 tvg-name="Stranger Things S03E01" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S03E01
-http://kazzaplay.shop:80/series/645865/645865/2000890.mp4
-#EXTINF:-1 tvg-name="Stranger Things S03E02" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S03E02
-http://kazzaplay.shop:80/series/645865/645865/2000891.mp4
-#EXTINF:-1 tvg-name="Stranger Things S03E03" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S03E03
-http://kazzaplay.shop:80/series/645865/645865/2000892.mp4
-#EXTINF:-1 tvg-name="Stranger Things S03E04" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S03E04
-http://kazzaplay.shop:80/series/645865/645865/2000893.mp4
-#EXTINF:-1 tvg-name="Stranger Things S03E05" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S03E05
-http://kazzaplay.shop:80/series/645865/645865/2000894.mp4
-#EXTINF:-1 tvg-name="Stranger Things S03E06" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S03E06
-http://kazzaplay.shop:80/series/645865/645865/2000895.mp4
-#EXTINF:-1 tvg-name="Stranger Things S03E07" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S03E07
-http://kazzaplay.shop:80/series/645865/645865/2000896.mp4
-#EXTINF:-1 tvg-name="Stranger Things S03E08" tvg-logo="http://timg.bdta.pro/images/2fe3ea4c5b0d8e7abfaf0655d58f55a3.jpg" group-title="Series | Netflix",Stranger Things S03E08
-http://kazzaplay.shop:80/series/645865/645865/2000897.mp4
-#EXTINF:-1 tvg-name="Stranger Things S04E01" tvg-logo="http://timg.bdta.pro/images/8fdfe81dc88df3bd73da1e4f59199ec0.jpg" group-title="Series | Netflix",Stranger Things S04E01
-http://kazzaplay.shop:80/series/645865/645865/2000898.mp4
-#EXTINF:-1 tvg-name="Stranger Things S04E02" tvg-logo="http://timg.bdta.pro/images/8eb36971805549c619d264c393188eb8.jpg" group-title="Series | Netflix",Stranger Things S04E02
-http://kazzaplay.shop:80/series/645865/645865/2000899.mp4
-#EXTINF:-1 tvg-name="Stranger Things S04E03" tvg-logo="http://timg.bdta.pro/images/3da419f2060c26e2834695a583aed058.jpg" group-title="Series | Netflix",Stranger Things S04E03
-http://kazzaplay.shop:80/series/645865/645865/2000900.mp4
-#EXTINF:-1 tvg-name="Stranger Things S04E04" tvg-logo="http://timg.bdta.pro/images/2277a8912ae60b7dd7e0d11eba0f435f.jpg" group-title="Series | Netflix",Stranger Things S04E04
-http://kazzaplay.shop:80/series/645865/645865/2000901.mp4
-#EXTINF:-1 tvg-name="Stranger Things S04E05" tvg-logo="http://timg.bdta.pro/images/0d655e9f72c1d32ad568ae6ef2fd0c33.jpg" group-title="Series | Netflix",Stranger Things S04E05
-http://kazzaplay.shop:80/series/645865/645865/2000902.mp4
-#EXTINF:-1 tvg-name="Stranger Things S04E06" tvg-logo="http://timg.bdta.pro/images/8f146994225e69b16163702f766cdcb5.jpg" group-title="Series | Netflix",Stranger Things S04E06
-http://kazzaplay.shop:80/series/645865/645865/2000903.mp4
-#EXTINF:-1 tvg-name="Stranger Things S04E07" tvg-logo="http://timg.bdta.pro/images/a2b97807578ab67b5c980ccf65f4a5e1.jpg" group-title="Series | Netflix",Stranger Things S04E07
-http://kazzaplay.shop:80/series/645865/645865/2000904.mp4
-#EXTINF:-1 tvg-name="Stranger Things S04E08" tvg-logo="http://timg.bdta.pro/images/652536d0dd35a5fd98d937ff9e35027f.jpg" group-title="Series | Netflix",Stranger Things S04E08
-http://kazzaplay.shop:80/series/645865/645865/2000905.mp4
-#EXTINF:-1 tvg-name="Stranger Things S04E09" tvg-logo="http://timg.bdta.pro/images/622ec986942f64f5154659ed48cd8ea3.jpg" group-title="Series | Netflix",Stranger Things S04E09
-http://kazzaplay.shop:80/series/645865/645865/2000906.mp4
-#EXTINF:-1 tvg-name="Stranger Things S05E01" tvg-logo="http://timg.bdta.pro/images/622ec986942f64f5154659ed48cd8ea3.jpg" group-title="Series | Netflix",Stranger Things S05E01
-http://kazzaplay.shop:80/series/645865/645865/2245709.mp4
-#EXTINF:-1 tvg-name="Stranger Things S05E02" tvg-logo="http://timg.bdta.pro/images/622ec986942f64f5154659ed48cd8ea3.jpg" group-title="Series | Netflix",Stranger Things S05E02
-http://kazzaplay.shop:80/series/645865/645865/2245710.mp4
-#EXTINF:-1 tvg-name="Stranger Things S05E03" tvg-logo="http://timg.bdta.pro/images/622ec986942f64f5154659ed48cd8ea3.jpg" group-title="Series | Netflix",Stranger Things S05E03
-http://kazzaplay.shop:80/series/645865/645865/2245711.mp4
-#EXTINF:-1 tvg-name="Stranger Things S05E04" tvg-logo="http://timg.bdta.pro/images/622ec986942f64f5154659ed48cd8ea3.jpg" group-title="Series | Netflix",Stranger Things S05E04
-http://kazzaplay.shop:80/series/645865/645865/2245712.mp4
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="33" tvg-name="AMC FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/0531b1384c3d2760fcef8334066e44a1.png" group-title="CANAIS | FILMES E SERIES",AMC FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313990.ts
+#EXTINF:-1 tvg-id="33" tvg-name="AMC HD" tvg-logo="http://firewallnaousardns.xyz:80/images/0531b1384c3d2760fcef8334066e44a1.png" group-title="CANAIS | FILMES E SERIES",AMC HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313991.ts
+#EXTINF:-1 tvg-id="33" tvg-name="AMC SD" tvg-logo="https://i.postimg.cc/8zvMZfvG/AMC.png" group-title="CANAIS | FILMES E SERIES",AMC SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313992.ts
+#EXTINF:-1 tvg-id="0" tvg-name="AXN FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/c352a321281f7e0e7cd32b87f636d03b.png" group-title="CANAIS | FILMES E SERIES",AXN FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313993.ts
+#EXTINF:-1 tvg-id="0" tvg-name="AXN HD" tvg-logo="http://firewallnaousardns.xyz:80/images/c352a321281f7e0e7cd32b87f636d03b.png" group-title="CANAIS | FILMES E SERIES",AXN HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313994.ts
+#EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN SD" tvg-logo="https://i.postimg.cc/KvRngHvR/AXN.png" group-title="CANAIS | FILMES E SERIES",AXN SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313995.ts
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="Canal Brasil FHD" tvg-logo="https://i.postimg.cc/2yJrJ6WR/Canal-Brasil-logo.png" group-title="CANAIS | FILMES E SERIES",Canal Brasil FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313996.ts
+#EXTINF:-1 tvg-id="104" tvg-name="Canal Brasil HD" tvg-logo="https://i.postimg.cc/2yJrJ6WR/Canal-Brasil-logo.png" group-title="CANAIS | FILMES E SERIES",Canal Brasil HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313997.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Canal Brasil SD" tvg-logo="http://firewallnaousardns.xyz:80/images/c4bc304b7b3a024f336f638792fb4cd7.png" group-title="CANAIS | FILMES E SERIES",Canal Brasil SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313998.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="https://i.postimg.cc/bwWGv6NG/5bd0860659d77d2e76e9d060d7db28bf.jpg" group-title="CANAIS |  CINE SKY",Cine SKY 01
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2750041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02" tvg-logo="http://firewallnaousardns.xyz:80/images/366cac8995745032cdd5cf740074bea7.jpg" group-title="CANAIS |  CINE SKY",Cine SKY 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2750042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03" tvg-logo="http://firewallnaousardns.xyz:80/images/366cac8995745032cdd5cf740074bea7.jpg" group-title="CANAIS |  CINE SKY",Cine SKY 03
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2750043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04" tvg-logo="http://firewallnaousardns.xyz:80/images/366cac8995745032cdd5cf740074bea7.jpg" group-title="CANAIS |  CINE SKY",Cine SKY 04
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2750044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05" tvg-logo="http://firewallnaousardns.xyz:80/images/366cac8995745032cdd5cf740074bea7.jpg" group-title="CANAIS |  CINE SKY",Cine SKY 05
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2750045.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06" tvg-logo="https://i.postimg.cc/bwWGv6NG/5bd0860659d77d2e76e9d060d7db28bf.jpg" group-title="CANAIS |  CINE SKY",Cine SKY 06
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2750046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 07" tvg-logo="http://firewallnaousardns.xyz:80/images/366cac8995745032cdd5cf740074bea7.jpg" group-title="CANAIS |  CINE SKY",Cine SKY 07
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2750047.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 08" tvg-logo="https://i.postimg.cc/bwWGv6NG/5bd0860659d77d2e76e9d060d7db28bf.jpg" group-title="CANAIS |  CINE SKY",Cine SKY 08
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2750048.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 09" tvg-logo="https://i.postimg.cc/bwWGv6NG/5bd0860659d77d2e76e9d060d7db28bf.jpg" group-title="CANAIS |  CINE SKY",Cine SKY 09
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2750049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 10" tvg-logo="http://firewallnaousardns.xyz:80/images/366cac8995745032cdd5cf740074bea7.jpg" group-title="CANAIS |  CINE SKY",Cine SKY 10
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2750050.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Cinemax FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/15052573d1e9eeaf070b1839b7d8ade3.png" group-title="CANAIS | FILMES E SERIES",Cinemax FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313999.ts
+#EXTINF:-1 tvg-id="178" tvg-name="Cinemax HD" tvg-logo="https://i.postimg.cc/85pvky0k/CINEMAX.png" group-title="CANAIS | FILMES E SERIES",Cinemax HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314000.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Cinemax SD" tvg-logo="http://firewallnaousardns.xyz:80/images/15052573d1e9eeaf070b1839b7d8ade3.png" group-title="CANAIS | FILMES E SERIES",Cinemax SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314001.ts
+#EXTINF:-1 tvg-id="51" tvg-name="Film & Arts FHD" tvg-logo="https://i.postimg.cc/nz3DXvy4/Film-Arts.png" group-title="CANAIS | FILMES E SERIES",Film & Arts FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314002.ts
+#EXTINF:-1 tvg-id="51" tvg-name="Film & Arts HD" tvg-logo="https://i.postimg.cc/nz3DXvy4/Film-Arts.png" group-title="CANAIS | FILMES E SERIES",Film & Arts HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314003.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Film & Arts SD" tvg-logo="https://i.postimg.cc/nz3DXvy4/Film-Arts.png" group-title="CANAIS | FILMES E SERIES",Film & Arts SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314004.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Megapix FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/dd22c705fa5dd9eafe1c797e80c7e177.png" group-title="CANAIS | FILMES E SERIES",Megapix FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314008.ts
+#EXTINF:-1 tvg-id="105" tvg-name="Megapix HD" tvg-logo="https://i.postimg.cc/FsyqbzZD/megapix.png" group-title="CANAIS | FILMES E SERIES",Megapix HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314009.ts
+#EXTINF:-1 tvg-id="105" tvg-name="Megapix SD" tvg-logo="http://firewallnaousardns.xyz:80/images/dd22c705fa5dd9eafe1c797e80c7e177.png" group-title="CANAIS | FILMES E SERIES",Megapix SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314010.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Sony Channel FHD" tvg-logo="https://i.postimg.cc/kXzWNvBw/canalsony.png" group-title="CANAIS | FILMES E SERIES",Sony Channel FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314014.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Sony Channel HD" tvg-logo="http://firewallnaousardns.xyz:80/images/78f69cf17d3ea295a2a1dc7866e6514a.png" group-title="CANAIS | FILMES E SERIES",Sony Channel HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314015.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Sony Channel SD" tvg-logo="https://i.postimg.cc/kXzWNvBw/canalsony.png" group-title="CANAIS | FILMES E SERIES",Sony Channel SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314016.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Space FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/adf11cfce0d2e2e0ddb3b95c0429b386.png" group-title="CANAIS | FILMES E SERIES",Space FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314017.ts
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/ZKGyvYMM/space.png" group-title="CANAIS | FILMES E SERIES",Space HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314018.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Space SD" tvg-logo="http://firewallnaousardns.xyz:80/images/adf11cfce0d2e2e0ddb3b95c0429b386.png" group-title="CANAIS | FILMES E SERIES",Space SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314019.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Studio Universal FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/77689b59d146e537b920ed658eb511d5.png" group-title="CANAIS | FILMES E SERIES",Studio Universal FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314023.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Studio Universal HD" tvg-logo="https://i.postimg.cc/mrRzVXR3/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",Studio Universal HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314024.ts
+#EXTINF:-1 tvg-id="Studio Universal SD" tvg-name="Studio Universal SD" tvg-logo="https://i.postimg.cc/mrRzVXR3/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",Studio Universal SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314025.ts
+#EXTINF:-1 tvg-id="0" tvg-name="TCM FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/799f4f1acc1f44445b92db2b572933de.png" group-title="CANAIS | FILMES E SERIES",TCM FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314026.ts
+#EXTINF:-1 tvg-id="0" tvg-name="TCM HD" tvg-logo="http://firewallnaousardns.xyz:80/images/799f4f1acc1f44445b92db2b572933de.png" group-title="CANAIS | FILMES E SERIES",TCM HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314027.ts
+#EXTINF:-1 tvg-id="0" tvg-name="TCM SD" tvg-logo="http://firewallnaousardns.xyz:80/images/799f4f1acc1f44445b92db2b572933de.png" group-title="CANAIS | FILMES E SERIES",TCM SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314028.ts
+#EXTINF:-1 tvg-id="69" tvg-name="Telecine Action FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/f33213aeb83a37e9b3fef3c9089cff6e.png" group-title="CANAIS |  TELECINE",Telecine Action FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836145.ts
+#EXTINF:-1 tvg-id="69" tvg-name="Telecine Action HD" tvg-logo="https://i.postimg.cc/PfmqVb32/telecineaction.png" group-title="CANAIS |  TELECINE",Telecine Action HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836146.ts
+#EXTINF:-1 tvg-id="69" tvg-name="Telecine Action SD" tvg-logo="https://i.postimg.cc/PfmqVb32/telecineaction.png" group-title="CANAIS |  TELECINE",Telecine Action SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836147.ts
+#EXTINF:-1 tvg-id="73" tvg-name="Telecine Cult FHD" tvg-logo="https://i.postimg.cc/rFMwBd7c/telecinecult.png" group-title="CANAIS |  TELECINE",Telecine Cult FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836148.ts
+#EXTINF:-1 tvg-id="73" tvg-name="Telecine Cult HD" tvg-logo="http://firewallnaousardns.xyz:80/images/62cbc7eca0d503d29716615c346632da.png" group-title="CANAIS |  TELECINE",Telecine Cult HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836149.ts
+#EXTINF:-1 tvg-id="73" tvg-name="Telecine Cult SD" tvg-logo="https://i.postimg.cc/rFMwBd7c/telecinecult.png" group-title="CANAIS |  TELECINE",Telecine Cult SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836150.ts
+#EXTINF:-1 tvg-id="71" tvg-name="Telecine Fun FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/55c01f8606ab513243561f50577de2ab.png" group-title="CANAIS |  TELECINE",Telecine Fun FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836151.ts
+#EXTINF:-1 tvg-id="71" tvg-name="Telecine Fun HD" tvg-logo="https://i.postimg.cc/gks2mzPh/telecinefun.png" group-title="CANAIS |  TELECINE",Telecine Fun HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836152.ts
+#EXTINF:-1 tvg-id="71" tvg-name="Telecine Fun SD" tvg-logo="https://i.postimg.cc/gks2mzPh/telecinefun.png" group-title="CANAIS |  TELECINE",Telecine Fun SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836153.ts
+#EXTINF:-1 tvg-id="72" tvg-name="Telecine Pipoca FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/5990cdd5a3eab696714000811fab985f.png" group-title="CANAIS |  TELECINE",Telecine Pipoca FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836154.ts
+#EXTINF:-1 tvg-id="72" tvg-name="Telecine Pipoca HD" tvg-logo="http://firewallnaousardns.xyz:80/images/5990cdd5a3eab696714000811fab985f.png" group-title="CANAIS |  TELECINE",Telecine Pipoca HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836155.ts
+#EXTINF:-1 tvg-id="72" tvg-name="Telecine Pipoca SD" tvg-logo="http://firewallnaousardns.xyz:80/images/5990cdd5a3eab696714000811fab985f.png" group-title="CANAIS |  TELECINE",Telecine Pipoca SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836156.ts
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium FHD" tvg-logo="https://i.postimg.cc/fRbTbGwr/telecinepremium.png" group-title="CANAIS |  TELECINE",Telecine Premium FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836157.ts
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium HD" tvg-logo="https://i.postimg.cc/fRbTbGwr/telecinepremium.png" group-title="CANAIS |  TELECINE",Telecine Premium HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836158.ts
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium SD" tvg-logo="https://i.postimg.cc/fRbTbGwr/telecinepremium.png" group-title="CANAIS |  TELECINE",Telecine Premium SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836159.ts
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/3bb4006c60051e581613639942a2cabf.png" group-title="CANAIS |  TELECINE",Telecine Touch FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836160.ts
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch HD" tvg-logo="https://i.postimg.cc/K8sc30jv/telecinetouch.png" group-title="CANAIS |  TELECINE",Telecine Touch HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836161.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Telecine Touch SD" tvg-logo="https://i.postimg.cc/K8sc30jv/telecinetouch.png" group-title="CANAIS |  TELECINE",Telecine Touch SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2836162.ts
+#EXTINF:-1 tvg-id="0" tvg-name="TNT FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/d33ba0a114ce18b1fe29326263b81e01.png" group-title="CANAIS | FILMES E SERIES",TNT FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314029.ts
+#EXTINF:-1 tvg-id="0" tvg-name="TNT HD" tvg-logo="http://firewallnaousardns.xyz:80/images/d33ba0a114ce18b1fe29326263b81e01.png" group-title="CANAIS | FILMES E SERIES",TNT HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314030.ts
+#EXTINF:-1 tvg-id="9" tvg-name="TNT SD" tvg-logo="http://firewallnaousardns.xyz:80/images/d33ba0a114ce18b1fe29326263b81e01.png" group-title="CANAIS | FILMES E SERIES",TNT SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314031.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Universal TV FHD" tvg-logo="https://i.postimg.cc/G3N46hdm/universalchannel.png" group-title="CANAIS | FILMES E SERIES",Universal TV FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314038.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Universal TV HD" tvg-logo="http://firewallnaousardns.xyz:80/images/9b172b76350fc3a456b17115e185dfbb.png" group-title="CANAIS | FILMES E SERIES",Universal TV HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314039.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Universal TV SD" tvg-logo="http://firewallnaousardns.xyz:80/images/9b172b76350fc3a456b17115e185dfbb.png" group-title="CANAIS | FILMES E SERIES",Universal TV SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314040.ts
+#EXTINF:-1 tvg-id="Example" tvg-name="USA Network FHD" tvg-logo="https://i.postimg.cc/B6Qptb8h/usa.png" group-title="CANAIS | FILMES E SERIES",USA Network FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314046.ts
+#EXTINF:-1 tvg-id="Example" tvg-name="USA Network HD" tvg-logo="https://i.postimg.cc/B6Qptb8h/usa.png" group-title="CANAIS | FILMES E SERIES",USA Network HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314045.ts
+#EXTINF:-1 tvg-id="103" tvg-name="USA Network SD" tvg-logo="https://i.postimg.cc/B6Qptb8h/usa.png" group-title="CANAIS | FILMES E SERIES",USA Network SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314044.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Warner Channel FHD" tvg-logo="https://i.postimg.cc/WbkdVL16/warnerchannel.png" group-title="CANAIS | FILMES E SERIES",Warner Channel FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314041.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Warner Channel HD" tvg-logo="http://firewallnaousardns.xyz:80/images/1cd9699d14f1d823511eb09596ed3624.png" group-title="CANAIS | FILMES E SERIES",Warner Channel HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314042.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Warner Channel SD" tvg-logo="https://i.postimg.cc/WbkdVL16/warnerchannel.png" group-title="CANAIS | FILMES E SERIES",Warner Channel SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2314043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/c73775c8a90b20ea55af7f5cc088c686.png" group-title="CANAIS | FILMES E SERIES",Sony Movies FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/6772872.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="http://firewallnaousardns.xyz:80/images/c73775c8a90b20ea55af7f5cc088c686.png" group-title="CANAIS | FILMES E SERIES",Sony Movies HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/6772873.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies SD" tvg-logo="http://firewallnaousardns.xyz:80/images/c73775c8a90b20ea55af7f5cc088c686.png" group-title="CANAIS | FILMES E SERIES",Sony Movies SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/6772874.ts
+#EXTINF:-1 tvg-id="5" tvg-name="Band Sports FHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/bandsports.png" group-title="CANAIS |  BAND SPORTS",Band Sports FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769429.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports FullHD (ALT)" tvg-logo="http://playfacil.net:80/images/87916f18b7d2ff52778c42ec1fd155ea.png" group-title="CANAIS |  BAND SPORTS",Band Sports FullHD (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770921.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/bandsports.png" group-title="CANAIS |  BAND SPORTS",Band Sports HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769430.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD ( ALT )" tvg-logo="http://firewallnaousardns.xyz:80/images/f9711a66aff3e372134e3c8eef50e445.png" group-title="CANAIS |  BAND SPORTS",Band Sports HD ( ALT )
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770922.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports SD" tvg-logo="http://www.fontedoscanais.com/logos/canais/bandsports.png" group-title="CANAIS |  BAND SPORTS",Band Sports SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769431.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports SD (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/f9711a66aff3e372134e3c8eef50e445.png" group-title="CANAIS |  BAND SPORTS",Band Sports SD (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770923.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/2758a1eee915e43813731f3c6edddf2d.png" group-title="CANAIS | CAZE TV",CAZE TV (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1774119.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 1" tvg-logo="http://firewallnaousardns.xyz:80/images/2758a1eee915e43813731f3c6edddf2d.png" group-title="CANAIS | CAZE TV",CAZE TV 1
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770864.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2" tvg-logo="http://firewallnaousardns.xyz:80/images/2758a1eee915e43813731f3c6edddf2d.png" group-title="CANAIS | CAZE TV",CAZE TV 2
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770865.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 2 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/2758a1eee915e43813731f3c6edddf2d.png" group-title="CANAIS | CAZE TV",CAZE TV 2 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1774120.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 3" tvg-logo="http://firewallnaousardns.xyz:80/images/2758a1eee915e43813731f3c6edddf2d.png" group-title="CANAIS | CAZE TV",CAZE TV 3
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770866.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV 4" tvg-logo="http://firewallnaousardns.xyz:80/images/2758a1eee915e43813731f3c6edddf2d.png" group-title="CANAIS | CAZE TV",CAZE TV 4
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770867.ts
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN  (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/2f11bc101992a471a925411c438054a7.png" group-title="CANAIS | ESPN",ESPN  (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1771151.ts
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/2f11bc101992a471a925411c438054a7.png" group-title="CANAIS | ESPN",ESPN (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1777883.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ESPN 2 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/7c02a2b90db23079123263a866ff436b.png" group-title="CANAIS | ESPN",ESPN 2 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1771152.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ESPN 2 FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/7c02a2b90db23079123263a866ff436b.png" group-title="CANAIS | ESPN",ESPN 2 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769414.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ESPN 2 HD" tvg-logo="http://firewallnaousardns.xyz:80/images/7c02a2b90db23079123263a866ff436b.png" group-title="CANAIS | ESPN",ESPN 2 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769415.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="http://playfacil.net:80/images/17cf72c614ba044fa44c3f303f12d883.png" group-title="CANAIS | ESPN",ESPN 2 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769416.ts
+#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/0094c1054efcbd03e9edd8828efc6526.png" group-title="CANAIS | ESPN",ESPN 3 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1771153.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/0094c1054efcbd03e9edd8828efc6526.png" group-title="CANAIS | ESPN",ESPN 3 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769417.ts
+#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 HD" tvg-logo="http://firewallnaousardns.xyz:80/images/0094c1054efcbd03e9edd8828efc6526.png" group-title="CANAIS | ESPN",ESPN 3 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769418.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="http://firewallnaousardns.xyz:80/images/0094c1054efcbd03e9edd8828efc6526.png" group-title="CANAIS | ESPN",ESPN 3 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769419.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/7dc21b66138ef0b564344020017c284c.png" group-title="CANAIS | ESPN",ESPN 4 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1771154.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD" tvg-logo="http://playfacil.net:80/images/cc19c89bdf6ef6bc08c0a674d3085f7c.png" group-title="CANAIS | ESPN",ESPN 4 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769420.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="http://playfacil.net:80/images/cc19c89bdf6ef6bc08c0a674d3085f7c.png" group-title="CANAIS | ESPN",ESPN 4 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769421.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD" tvg-logo="http://playfacil.net:80/images/cc19c89bdf6ef6bc08c0a674d3085f7c.png" group-title="CANAIS | ESPN",ESPN 4 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769422.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/d326996f73af32f79a0d9d98b5583a22.png" group-title="CANAIS | ESPN",ESPN 5 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1771157.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 FHD" tvg-logo="https://i.postimg.cc/wj12TvvB/ESPN-5-logo-svg.png" group-title="CANAIS | ESPN",ESPN 5 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769423.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/wj12TvvB/ESPN-5-logo-svg.png" group-title="CANAIS | ESPN",ESPN 5 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769424.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 SD" tvg-logo="https://i.postimg.cc/wj12TvvB/ESPN-5-logo-svg.png" group-title="CANAIS | ESPN",ESPN 5 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769425.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 (ALT)" tvg-logo="https://i.postimg.cc/KvKsqJ2k/ESPN-6-logo-svg.png" group-title="CANAIS | ESPN",ESPN 6 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1771158.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 FHD" tvg-logo="https://i.postimg.cc/KvKsqJ2k/ESPN-6-logo-svg.png" group-title="CANAIS | ESPN",ESPN 6 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769426.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/KvKsqJ2k/ESPN-6-logo-svg.png" group-title="CANAIS | ESPN",ESPN 6 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769427.ts
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 SD" tvg-logo="https://i.postimg.cc/KvKsqJ2k/ESPN-6-logo-svg.png" group-title="CANAIS | ESPN",ESPN 6 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769428.ts
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN FHD" tvg-logo="http://playfacil.net:80/images/61f0c3774a1ab401f62618c92c8fa504.png" group-title="CANAIS | ESPN",ESPN FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769411.ts
+#EXTINF:-1 tvg-id="0" tvg-name="ESPN HD" tvg-logo="http://firewallnaousardns.xyz:80/images/2f11bc101992a471a925411c438054a7.png" group-title="CANAIS | ESPN",ESPN HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769412.ts
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN SD" tvg-logo="http://playfacil.net:80/images/61f0c3774a1ab401f62618c92c8fa504.png" group-title="CANAIS | ESPN",ESPN SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769413.ts
+#EXTINF:-1 tvg-id="261" tvg-name="HBO 2 FHD" tvg-logo="https://i.postimg.cc/NMF0PZnX/hbo2.png" group-title="CANAIS | HBO",HBO 2 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313730.ts
+#EXTINF:-1 tvg-id="261" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/NMF0PZnX/hbo2.png" group-title="CANAIS | HBO",HBO 2 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313731.ts
+#EXTINF:-1 tvg-id="261" tvg-name="HBO 2 SD" tvg-logo="https://i.postimg.cc/NMF0PZnX/hbo2.png" group-title="CANAIS | HBO",HBO 2 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313732.ts
+#EXTINF:-1 tvg-id="263" tvg-name="HBO Family FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/5c884c574df2b97133c44d7c5876b2fa.png" group-title="CANAIS | HBO",HBO Family FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313733.ts
+#EXTINF:-1 tvg-id="263" tvg-name="HBO Family HD" tvg-logo="https://i.postimg.cc/0NcQn9Vx/hbofamily.png" group-title="CANAIS | HBO",HBO Family HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313734.ts
+#EXTINF:-1 tvg-id="0" tvg-name="HBO Family SD" tvg-logo="http://firewallnaousardns.xyz:80/images/5c884c574df2b97133c44d7c5876b2fa.png" group-title="CANAIS | HBO",HBO Family SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313735.ts
+#EXTINF:-1 tvg-id="260" tvg-name="HBO FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/ce9d25046a9073fada05d891bcc0a9bf.png" group-title="CANAIS | HBO",HBO FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313736.ts
+#EXTINF:-1 tvg-id="260" tvg-name="HBO HD" tvg-logo="http://firewallnaousardns.xyz:80/images/ce9d25046a9073fada05d891bcc0a9bf.png" group-title="CANAIS | HBO",HBO HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313737.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01" tvg-logo="http://firewallnaousardns.xyz:80/images/3bc632d5de06163b8b2c3780fc074a43.png" group-title="CANAIS | MAX",HBO MAX 01
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1900852.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02" tvg-logo="https://i.postimg.cc/zD0HxRLG/hb.png" group-title="CANAIS | MAX",HBO MAX 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1900853.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="http://firewallnaousardns.xyz:80/images/3bc632d5de06163b8b2c3780fc074a43.png" group-title="CANAIS | MAX",HBO MAX 03
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1900854.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="http://firewallnaousardns.xyz:80/images/3bc632d5de06163b8b2c3780fc074a43.png" group-title="CANAIS | MAX",HBO MAX 04
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1900855.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://i.postimg.cc/zD0HxRLG/hb.png" group-title="CANAIS | MAX",HBO MAX 05
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1900856.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://i.postimg.cc/zD0HxRLG/hb.png" group-title="CANAIS | MAX",HBO MAX 06
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2810685.ts
+#EXTINF:-1 tvg-id="266" tvg-name="HBO Mundi FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/1a6688b80ef32cc85e6a5e526d858766.png" group-title="CANAIS | HBO",HBO Mundi FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313739.ts
+#EXTINF:-1 tvg-id="266" tvg-name="HBO Mundi HD" tvg-logo="http://firewallnaousardns.xyz:80/images/1a6688b80ef32cc85e6a5e526d858766.png" group-title="CANAIS | HBO",HBO Mundi HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313740.ts
+#EXTINF:-1 tvg-id="266" tvg-name="HBO Mundi SD" tvg-logo="http://firewallnaousardns.xyz:80/images/1a6688b80ef32cc85e6a5e526d858766.png" group-title="CANAIS | HBO",HBO Mundi SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313741.ts
+#EXTINF:-1 tvg-id="262" tvg-name="HBO Plus FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/ccb6b1cbfbb3b4d14b6f0baa7ef391e1.png" group-title="CANAIS | HBO",HBO Plus FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313742.ts
+#EXTINF:-1 tvg-id="262" tvg-name="HBO Plus HD" tvg-logo="http://firewallnaousardns.xyz:80/images/ccb6b1cbfbb3b4d14b6f0baa7ef391e1.png" group-title="CANAIS | HBO",HBO Plus HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313743.ts
+#EXTINF:-1 tvg-id="0" tvg-name="HBO Plus SD" tvg-logo="https://i.postimg.cc/hvXkwcBG/hboplus.png" group-title="CANAIS | HBO",HBO Plus SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313744.ts
+#EXTINF:-1 tvg-id="265" tvg-name="HBO Pop FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/27d0f6b31cb66e273ef755f5863a83ab.png" group-title="CANAIS | HBO",HBO Pop FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313745.ts
+#EXTINF:-1 tvg-id="0" tvg-name="HBO Pop HD" tvg-logo="http://firewallnaousardns.xyz:80/images/27d0f6b31cb66e273ef755f5863a83ab.png" group-title="CANAIS | HBO",HBO Pop HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313746.ts
+#EXTINF:-1 tvg-id="0" tvg-name="HBO Pop SD" tvg-logo="https://i.postimg.cc/vT6ZGfbH/hbopop.png" group-title="CANAIS | HBO",HBO Pop SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313747.ts
+#EXTINF:-1 tvg-id="260" tvg-name="HBO SD" tvg-logo="https://i.postimg.cc/d0q3Ghm4/hbo.png" group-title="CANAIS | HBO",HBO SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313738.ts
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature FHD" tvg-logo="https://i.postimg.cc/nVs4XWLM/hbosign.png" group-title="CANAIS | HBO",HBO Signature FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313748.ts
+#EXTINF:-1 tvg-id="264" tvg-name="HBO Signature HD" tvg-logo="http://firewallnaousardns.xyz:80/images/55efeebf9cacdb30ab582044e25ed3ce.png" group-title="CANAIS | HBO",HBO Signature HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313749.ts
+#EXTINF:-1 tvg-id="0" tvg-name="HBO Signature SD" tvg-logo="http://firewallnaousardns.xyz:80/images/55efeebf9cacdb30ab582044e25ed3ce.png" group-title="CANAIS | HBO",HBO Signature SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313750.ts
+#EXTINF:-1 tvg-id="267" tvg-name="HBO Xtreme FHD" tvg-logo="https://i.postimg.cc/23R8yySd/hboextreme.png" group-title="CANAIS | HBO",HBO Xtreme FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313751.ts
+#EXTINF:-1 tvg-id="267" tvg-name="HBO Xtreme HD" tvg-logo="http://firewallnaousardns.xyz:80/images/eaf7c4081d4e0a9912e30b208e342908.png" group-title="CANAIS | HBO",HBO Xtreme HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313752.ts
+#EXTINF:-1 tvg-id="267" tvg-name="HBO Xtreme SD" tvg-logo="http://firewallnaousardns.xyz:80/images/eaf7c4081d4e0a9912e30b208e342908.png" group-title="CANAIS | HBO",HBO Xtreme SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2313753.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 FHD" tvg-logo="https://i.postimg.cc/bNB9CjFx/paramount.png" group-title="CANAIS | PARAMOUNT+",Paramount+ 1 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3314968.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 HD" tvg-logo="https://i.postimg.cc/bNB9CjFx/paramount.png" group-title="CANAIS | PARAMOUNT+",Paramount+ 1 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2840957.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 SD" tvg-logo="https://i.postimg.cc/bNB9CjFx/paramount.png" group-title="CANAIS | PARAMOUNT+",Paramount+ 1 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2840958.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 HD" tvg-logo="https://i.postimg.cc/bNB9CjFx/paramount.png" group-title="CANAIS | PARAMOUNT+",Paramount+ 2 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2840959.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 SD" tvg-logo="http://firewallnaousardns.xyz:80/images/794442a325690b53b10c5699e2d219ec.png" group-title="CANAIS | PARAMOUNT+",Paramount+ 2 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2840960.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 HD" tvg-logo="https://i.postimg.cc/bNB9CjFx/paramount.png" group-title="CANAIS | PARAMOUNT+",Paramount+ 3 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2840961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 SD" tvg-logo="https://i.postimg.cc/bNB9CjFx/paramount.png" group-title="CANAIS | PARAMOUNT+",Paramount+ 3 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2840962.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 HD" tvg-logo="https://i.postimg.cc/bNB9CjFx/paramount.png" group-title="CANAIS | PARAMOUNT+",Paramount+ 4 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2840963.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 SD" tvg-logo="https://i.postimg.cc/bNB9CjFx/paramount.png" group-title="CANAIS | PARAMOUNT+",Paramount+ 4 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/2840964.ts
+#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1  (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 1  (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1771159.ts
+#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1 HD" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 1 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769944.ts
+#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1 SD" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 1 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769945.ts
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 2 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770767.ts
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 2 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769946.ts
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 HD" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 2 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769947.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 2 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769948.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 3 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770768.ts
+#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 3 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769949.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 3 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769950.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 3 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769951.ts
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 (ALT)" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 4 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770769.ts
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 FHD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 4 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769952.ts
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 HD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 4 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769953.ts
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 SD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 4 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769954.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 5 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 5 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769955.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 5 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769956.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 5 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769957.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 (ALT)" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 6 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770771.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 6 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769958.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 6 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769959.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 6 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769960.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 (ALT)" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 7 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770772.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 7 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769961.ts
+#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 HD" tvg-logo="http://firewallnaousardns.xyz:80/images/9cbef44a496429a4c22e27b34ac376a2.png" group-title="CANAIS | PREMIERE",Premiere 7 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769962.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 7 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769963.ts
+#EXTINF:-1 tvg-id="0" tvg-name="Premiere 8 (ALT)" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 8 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770773.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 FHD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 8 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769964.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 8 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769965.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="https://i.postimg.cc/8z1LYC8j/premiere.png" group-title="CANAIS | PREMIERE",Premiere 8 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769966.ts
+#EXTINF:-1 tvg-id="30" tvg-name="SporTV (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/765994096b063a35d9eed4cc8d16d7fd.png" group-title="CANAIS | SPORTV",SporTV (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770863.ts
+#EXTINF:-1 tvg-id="0" tvg-name="SporTV 2 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/4e993fec2a083546a72f672dea6b26d8.png" group-title="CANAIS | SPORTV",SporTV 2 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770861.ts
+#EXTINF:-1 tvg-id="0" tvg-name="SporTV 2 FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/4e993fec2a083546a72f672dea6b26d8.png" group-title="CANAIS | SPORTV",SporTV 2 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770000.ts
+#EXTINF:-1 tvg-id="31" tvg-name="SporTV 2 HD" tvg-logo="http://firewallnaousardns.xyz:80/images/4e993fec2a083546a72f672dea6b26d8.png" group-title="CANAIS | SPORTV",SporTV 2 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770001.ts
+#EXTINF:-1 tvg-id="0" tvg-name="SporTV 2 SD" tvg-logo="http://firewallnaousardns.xyz:80/images/4e993fec2a083546a72f672dea6b26d8.png" group-title="CANAIS | SPORTV",SporTV 2 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770002.ts
+#EXTINF:-1 tvg-id="0" tvg-name="SporTV 3 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/0bbe25b3168b985b557ca45914f737c1.png" group-title="CANAIS | SPORTV",SporTV 3 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770862.ts
+#EXTINF:-1 tvg-id="32" tvg-name="SporTV 3 FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/0bbe25b3168b985b557ca45914f737c1.png" group-title="CANAIS | SPORTV",SporTV 3 FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770003.ts
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SporTV 3 HD" tvg-logo="https://i.postimg.cc/x1fhTY28/SPORTV-3.png" group-title="CANAIS | SPORTV",SporTV 3 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770004.ts
+#EXTINF:-1 tvg-id="32" tvg-name="SporTV 3 SD" tvg-logo="http://firewallnaousardns.xyz:80/images/0bbe25b3168b985b557ca45914f737c1.png" group-title="CANAIS | SPORTV",SporTV 3 SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1770005.ts
+#EXTINF:-1 tvg-id="30" tvg-name="SporTV FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/765994096b063a35d9eed4cc8d16d7fd.png" group-title="CANAIS | SPORTV",SporTV FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769997.ts
+#EXTINF:-1 tvg-id="30" tvg-name="SporTV HD" tvg-logo="http://firewallnaousardns.xyz:80/images/765994096b063a35d9eed4cc8d16d7fd.png" group-title="CANAIS | SPORTV",SporTV HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769998.ts
+#EXTINF:-1 tvg-id="0" tvg-name="SporTV SD" tvg-logo="http://firewallnaousardns.xyz:80/images/765994096b063a35d9eed4cc8d16d7fd.png" group-title="CANAIS | SPORTV",SporTV SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/1769999.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 01" tvg-logo="http://firewallnaousardns.xyz:80/images/87cff9de1159a781ebdd1c45b767008c.png" group-title="CANAIS | PRIME VIDEO",Amazon Prime Video 01
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3801873.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 02" tvg-logo="http://firewallnaousardns.xyz:80/images/87cff9de1159a781ebdd1c45b767008c.png" group-title="CANAIS | PRIME VIDEO",Amazon Prime Video 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3801874.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="http://firewallnaousardns.xyz:80/images/87cff9de1159a781ebdd1c45b767008c.png" group-title="CANAIS | PRIME VIDEO",Amazon Prime Video 03
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3801875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 01 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/87cff9de1159a781ebdd1c45b767008c.png" group-title="CANAIS | PRIME VIDEO",Amazon Prime Video 01 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3801876.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 02 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/87cff9de1159a781ebdd1c45b767008c.png" group-title="CANAIS | PRIME VIDEO",Amazon Prime Video 02 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3801877.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03 (ALT)" tvg-logo="http://firewallnaousardns.xyz:80/images/87cff9de1159a781ebdd1c45b767008c.png" group-title="CANAIS | PRIME VIDEO",Amazon Prime Video 03 (ALT)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3801878.ts
+#EXTINF:-1 tvg-id="" tvg-name="Conteúdos em alta" tvg-logo="https://i.imgur.com/OKRBAjR.png" group-title="CANAIS | C. DO CLIENTE",Conteúdos em alta
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3806231.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 (reprises)" tvg-logo="http://firewallnaousardns.xyz:80/images/df5fe5a16e496ffee9fedaf03c2c62da.png" group-title="CANAIS | COMBATE/UFC",UFC Fight Pass 1 (reprises)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808312.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 2 (ao vivo)" tvg-logo="https://i.postimg.cc/CMvJF05v/UFC-FIGHT-PASS.png" group-title="CANAIS | COMBATE/UFC",UFC Fight Pass 2 (ao vivo)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808313.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 3 (ao vivo)" tvg-logo="https://i.postimg.cc/CMvJF05v/UFC-FIGHT-PASS.png" group-title="CANAIS | COMBATE/UFC",UFC Fight Pass 3 (ao vivo)
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808314.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight 01" tvg-logo="http://firewallnaousardns.xyz:80/images/df5fe5a16e496ffee9fedaf03c2c62da.png" group-title="CANAIS | COMBATE/UFC",UFC Fight 01
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808315.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight 02" tvg-logo="http://firewallnaousardns.xyz:80/images/df5fe5a16e496ffee9fedaf03c2c62da.png" group-title="CANAIS | COMBATE/UFC",UFC Fight 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808316.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight 03" tvg-logo="http://firewallnaousardns.xyz:80/images/df5fe5a16e496ffee9fedaf03c2c62da.png" group-title="CANAIS | COMBATE/UFC",UFC Fight 03
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808317.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate FHD" tvg-logo="https://i.postimg.cc/T2LhJHXC/coma.png" group-title="CANAIS | COMBATE/UFC",Combate FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808318.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="https://i.postimg.cc/T2LhJHXC/coma.png" group-title="CANAIS | COMBATE/UFC",Combate HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808319.ts
+#EXTINF:-1 tvg-id="114" tvg-name="Combate SD" tvg-logo="https://i.postimg.cc/T2LhJHXC/coma.png" group-title="CANAIS | COMBATE/UFC",Combate SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808320.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/e59d91ab7f0852a6ac34f446f5c9bbd4.png" group-title="CANAIS | COMBATE/UFC",Combate FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808321.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://firewallnaousardns.xyz:80/images/e59d91ab7f0852a6ac34f446f5c9bbd4.png" group-title="CANAIS | COMBATE/UFC",Combate HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808322.ts
+#EXTINF:-1 tvg-id="114" tvg-name="Combate SD" tvg-logo="http://firewallnaousardns.xyz:80/images/e59d91ab7f0852a6ac34f446f5c9bbd4.png" group-title="CANAIS | COMBATE/UFC",Combate SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808323.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 02" tvg-logo="http://logos.serveronline.top/amazonprime.png" group-title="CANAIS |  Pay Per View",Amazon Prime Video 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808452.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="http://firewallnaousardns.xyz:80/images/85ca7d0864fa22ed0e6d4ce56f199165.png" group-title="CANAIS |  Pay Per View",Amazon Prime Video 03
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808453.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports FHD" tvg-logo="http://firewallnaousardns.xyz:80/images/a0a97f55b43fdd4a42318d5446f9a3e5.png" group-title="CANAIS |  Pay Per View",Band Sports FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808454.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="http://logos.serveronline.top/bandsports.png" group-title="CANAIS |  Pay Per View",Band Sports HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808455.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports SD" tvg-logo="http://logos.serveronline.top/bandsports.png" group-title="CANAIS |  Pay Per View",Band Sports SD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808456.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 02" tvg-logo="http://firewallnaousardns.xyz:80/images/4058dc08b8ce38cd1658e02b5f12a362.png" group-title="CANAIS |  Pay Per View",CazeTV 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808460.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 03" tvg-logo="http://logos.serveronline.top/cazetv.png" group-title="CANAIS |  Pay Per View",CazeTV 03
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808461.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://logos.serveronline.top/dazn.png" group-title="CANAIS |  Pay Per View",DAZN 1 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808462.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://logos.serveronline.top/dazn.png" group-title="CANAIS |  Pay Per View",DAZN 2 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808463.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://logos.serveronline.top/dazn.png" group-title="CANAIS |  Pay Per View",DAZN 3 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808464.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 1" tvg-logo="http://firewallnaousardns.xyz:80/images/61cedf77a22e9840806ce9a61ee32251.png" group-title="CANAIS |  Pay Per View",Disney+ 1
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808465.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 3" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/636/380/small_2x/disney-logo-disney-icon-transparent-free-png.png" group-title="CANAIS |  Pay Per View",Disney+ 3
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808466.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://logos.serveronline.top/eleven.png" group-title="CANAIS |  Pay Per View",ELEVEN SPORTS 1
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808467.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://logos.serveronline.top/eleven.png" group-title="CANAIS |  Pay Per View",ELEVEN SPORTS 2
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808468.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://logos.serveronline.top/eleven.png" group-title="CANAIS |  Pay Per View",ELEVEN SPORTS 3
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808469.ts
+#EXTINF:-1 tvg-id="" tvg-name="NSports 01" tvg-logo="https://i.imgur.com/dIP8zc4.png" group-title="CANAIS |  Pay Per View",NSports 01
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808474.ts
+#EXTINF:-1 tvg-id="" tvg-name="NSports 02" tvg-logo="https://i.imgur.com/dIP8zc4.png" group-title="CANAIS |  Pay Per View",NSports 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808475.ts
+#EXTINF:-1 tvg-id="" tvg-name="NSports 03" tvg-logo="https://i.imgur.com/dIP8zc4.png" group-title="CANAIS |  Pay Per View",NSports 03
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808476.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4" tvg-logo="https://logospng.org/wp-content/uploads/paramount-plus.png" group-title="CANAIS |  Pay Per View",Paramount+ 4
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808477.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 5" tvg-logo="https://logospng.org/wp-content/uploads/paramount-plus.png" group-title="CANAIS |  Pay Per View",Paramount+ 5
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808478.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 6" tvg-logo="https://logospng.org/wp-content/uploads/paramount-plus.png" group-title="CANAIS |  Pay Per View",Paramount+ 6
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808479.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping Sports 01" tvg-logo="http://firewallnaousardns.xyz:80/images/fd350512471dc4863653911d0630db43.jpg" group-title="CANAIS |  Pay Per View",Zapping Sports 01
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808480.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 01" tvg-logo="http://logos.serveronline.top/appletv.png" group-title="CANAIS |  Pay Per View",Apple TV 01
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808481.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 02" tvg-logo="http://logos.serveronline.top/appletv.png" group-title="CANAIS |  Pay Per View",Apple TV 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808482.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 4" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/636/380/small_2x/disney-logo-disney-icon-transparent-free-png.png" group-title="CANAIS |  Pay Per View",Disney+ 4
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808483.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 5" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/636/380/small_2x/disney-logo-disney-icon-transparent-free-png.png" group-title="CANAIS |  Pay Per View",Disney+ 5
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808484.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia" tvg-logo="http://firewallnaousardns.xyz:80/images/ab56d18c8aa67d778b61a45d9bbd7ca6.png" group-title="CANAIS |  Pay Per View",TVE Bahia
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808485.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 01" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS |  Pay Per View",Apple TV 01
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808486.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 02" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS |  Pay Per View",Apple TV 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808487.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 03" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS |  Pay Per View",Apple TV 03
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808488.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 04" tvg-logo="http://imgs.uptvx.live:80/images/eabff98cd1240ff12e4ce7bfe9c862f1.png" group-title="CANAIS |  Pay Per View",Apple TV 04
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808489.ts
+#EXTINF:-1 tvg-id="" tvg-name="Barça ONE TV" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/barca_one_wide.png" group-title="CANAIS |  Pay Per View",Barça ONE TV
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808490.ts
+#EXTINF:-1 tvg-id="" tvg-name="Coxa Prime | Coritiba" tvg-logo="http://97j91.xyz/images/coxa.png" group-title="CANAIS |  Pay Per View",Coxa Prime | Coritiba
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808491.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://97j91.xyz/images/logos/de3787d3df2994451d30adfc360e7eb5.png" group-title="CANAIS |  Pay Per View",DAZN 1 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808492.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://97j91.xyz/images/logos/de3787d3df2994451d30adfc360e7eb5.png" group-title="CANAIS |  Pay Per View",DAZN 2 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808493.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://97j91.xyz/images/logos/de3787d3df2994451d30adfc360e7eb5.png" group-title="CANAIS |  Pay Per View",DAZN 3 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808494.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://97j91.xyz/images/logos/de3787d3df2994451d30adfc360e7eb5.png" group-title="CANAIS |  Pay Per View",DAZN 4 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808495.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD" tvg-logo="http://97j91.xyz/images/logos/de3787d3df2994451d30adfc360e7eb5.png" group-title="CANAIS |  Pay Per View",DAZN 5 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Desimpedidos" tvg-logo="https://desimpedidos.com.br/assets/logos/LOGO_DESIMPEDIDOS_BRANCO.png" group-title="CANAIS |  Pay Per View",Desimpedidos
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808497.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="CANAIS |  Pay Per View",DSports HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808498.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 01" tvg-logo="https://global-uploads.webflow.com/6061d1d5386765f2f49f33f8/606c5d77b2bd8577a6f34585_Eleven_Logo_Nav.png" group-title="CANAIS |  Pay Per View",Eleven Sports 01
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808499.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 02" tvg-logo="http://97j91.xyz/images/3686534e08726f650c84278fec9b3d27.png" group-title="CANAIS |  Pay Per View",Eleven Sports 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 03" tvg-logo="http://97j91.xyz/images/3686534e08726f650c84278fec9b3d27.png" group-title="CANAIS |  Pay Per View",Eleven Sports 03
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 04" tvg-logo="http://97j91.xyz/images/3686534e08726f650c84278fec9b3d27.png" group-title="CANAIS |  Pay Per View",Eleven Sports 04
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808502.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 05" tvg-logo="http://97j91.xyz/images/3686534e08726f650c84278fec9b3d27.png" group-title="CANAIS |  Pay Per View",Eleven Sports 05
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808503.ts
+#EXTINF:-1 tvg-id="" tvg-name="Flamengo TV" tvg-logo="https://www.flamengo.com.br/img/logos/logo-menu-md.png" group-title="CANAIS |  Pay Per View",Flamengo TV
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808504.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUTSAL 1 HD" tvg-logo="https://cbfs.com.br/site/imagens/CBFS_escudo.png" group-title="CANAIS |  Pay Per View",FUTSAL 1 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808505.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUTSAL 2 HD" tvg-logo="https://cbfs.com.br/site/imagens/CBFS_escudo.png" group-title="CANAIS |  Pay Per View",FUTSAL 2 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808506.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUTSAL 3 HD" tvg-logo="https://cbfs.com.br/site/imagens/CBFS_escudo.png" group-title="CANAIS |  Pay Per View",FUTSAL 3 HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808507.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo+ GE Futebol 1" tvg-logo="http://97j91.xyz/images/globoplayge.png" group-title="CANAIS |  Pay Per View",Globo+ GE Futebol 1
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808508.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo+ GE Futebol 2" tvg-logo="http://97j91.xyz/images/globoplayge.png" group-title="CANAIS |  Pay Per View",Globo+ GE Futebol 2
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808509.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kings League Brazil" tvg-logo="https://kingsleague-cdn.kama.football/account/production/competition/3b29bfbb-1b51-4533-a1b7-03bff79ce3b4/54998955.png" group-title="CANAIS |  Pay Per View",Kings League Brazil
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Manchester MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="CANAIS |  Pay Per View",Manchester MUTV
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mr Olympia" tvg-logo="" group-title="CANAIS |  Pay Per View",Mr Olympia
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808512.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nsports FHD" tvg-logo="http://97j91.xyz:8080/images/NSPORTS.png" group-title="CANAIS |  Pay Per View",Nsports FHD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808517.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nsports HD" tvg-logo="http://97j91.xyz:8080/images/NSPORTS.png" group-title="CANAIS |  Pay Per View",Nsports HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808518.ts
+#EXTINF:-1 tvg-id="" tvg-name="OneFootball 01" tvg-logo="http://firewallnaousardns.xyz:80/images/a99090436250ab6eb7071cc36a63438a.png" group-title="CANAIS |  Pay Per View",OneFootball 01
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808519.ts
+#EXTINF:-1 tvg-id="" tvg-name="OneFootball 02" tvg-logo="http://firewallnaousardns.xyz:80/images/a99090436250ab6eb7071cc36a63438a.png" group-title="CANAIS |  Pay Per View",OneFootball 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808520.ts
+#EXTINF:-1 tvg-id="" tvg-name="OneFootball 03" tvg-logo="https://images.squarespace-cdn.com/content/v1/635ff2d277b4ef053d88cb08/1667232474100-WNUY2917Y4SSA3OL519Q/logo.png" group-title="CANAIS |  Pay Per View",OneFootball 03
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808521.ts
+#EXTINF:-1 tvg-id="" tvg-name="OneFootball 04" tvg-logo="https://images.squarespace-cdn.com/content/v1/635ff2d277b4ef053d88cb08/1667232474100-WNUY2917Y4SSA3OL519Q/logo.png" group-title="CANAIS |  Pay Per View",OneFootball 04
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808522.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Furacão HD" tvg-logo="https://static.redefuracao.com.br/imagens/logoredefuracao.png" group-title="CANAIS |  Pay Per View",Rede Furacão HD
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808523.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping 01" tvg-logo="https://telaviva.com.br/wp-content/uploads/2023/08/Zapping.png" group-title="CANAIS |  Pay Per View",Zapping 01
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808524.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zapping 02" tvg-logo="https://telaviva.com.br/wp-content/uploads/2023/08/Zapping.png" group-title="CANAIS |  Pay Per View",Zapping 02
+http://firewallnaousardns.xyz:80/Ronaldo/Ronaldo/3808525.ts
+
