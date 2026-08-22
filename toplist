@@ -1,312 +1,316 @@
-#EXTM3U x-tvg-url="http://ut.kiwi:80/epg/rogerio55x/24992611250"
+#EXTM3U x-tvg-url="https://iptv-epg.g/files/epg.br.xml"
 #EXT-X-SESSION-DATA:DATA-ID="com.xc_vm.2_1_1"
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/69096.ts
-#EXTINF:-1 tvg-id="a.and.e.br" tvg-name="SPORTV FHD" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/9107.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/9111.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD ¹" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30126.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD ²" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30127.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD H.265" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 2 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81592.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 2
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/13586.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 2 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/9103.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 2 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/9104.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD ¹" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 2 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30122.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD ²" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 2 HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30123.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD H.265" tvg-logo="http://3.bp.blogspot.com/-FUk3-ex0kBg/XmULJDTD3FI/AAAAAAAACVM/mr2-8Jagpj8GeudN3N0mAALQyyI3layTQCK4BGAYYCw/s400/SPORT%2B3.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 3 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81593.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://3.bp.blogspot.com/-FUk3-ex0kBg/XmULJDTD3FI/AAAAAAAACVM/mr2-8Jagpj8GeudN3N0mAALQyyI3layTQCK4BGAYYCw/s400/SPORT%2B3.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 3 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/9106.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://3.bp.blogspot.com/-FUk3-ex0kBg/XmULJDTD3FI/AAAAAAAACVM/mr2-8Jagpj8GeudN3N0mAALQyyI3layTQCK4BGAYYCw/s400/SPORT%2B3.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 3 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/9105.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 3 HD ¹" tvg-logo="http://3.bp.blogspot.com/-FUk3-ex0kBg/XmULJDTD3FI/AAAAAAAACVM/mr2-8Jagpj8GeudN3N0mAALQyyI3layTQCK4BGAYYCw/s400/SPORT%2B3.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 3 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30124.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 3 HD ²" tvg-logo="http://3.bp.blogspot.com/-FUk3-ex0kBg/XmULJDTD3FI/AAAAAAAACVM/mr2-8Jagpj8GeudN3N0mAALQyyI3layTQCK4BGAYYCw/s400/SPORT%2B3.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 3 HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30125.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 FHD" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" tvg-country="Unknown" group-title="CANAIS: SPORTV ⚽" tvg-flag="",SPORTV 4 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/570369.ts
-#EXTINF:-1 tvg-id="29" tvg-name="ESPN" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/598913.ts
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/598914.ts
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/598916.ts
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD ¹" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/598917.ts
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD ²" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/598918.ts
-#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 FHD H.265" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 2 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81587.ts
-#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 2
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/13519.ts
-#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 HD" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 2 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/8786.ts
-#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 FHD" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 2 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/131131.ts
-#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 HD ¹" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 2 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30072.ts
-#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 HD ²" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 2 HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30071.ts
-#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 FHD H.265" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 3 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81588.ts
-#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 3
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/13520.ts
-#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 FHD" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 3 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/8788.ts
-#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 FHD*" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 3 FHD*
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/131132.ts
-#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 HD" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 3 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/8787.ts
-#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 HD ¹" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 3 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30073.ts
-#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 HD ²" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 3 HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30074.ts
-#EXTINF:-1 tvg-id="26" tvg-name="ESPN 4 FHD H.265" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 4 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81578.ts
-#EXTINF:-1 tvg-id="26" tvg-name="ESPN 4" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 4
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/21647.ts
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 4 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/8828.ts
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 4 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/20947.ts
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD ¹" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 4 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30083.ts
-#EXTINF:-1 tvg-id="26" tvg-name="ESPN 4 HD ²" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 4 HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30082.ts
-#EXTINF:-1 tvg-id="50" tvg-name="ESPN 5 FHD H.265" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 5 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81594.ts
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 5
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/20946.ts
-#EXTINF:-1 tvg-id="50" tvg-name="ESPN 5 FHD" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 5 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/8826.ts
-#EXTINF:-1 tvg-id="50" tvg-name="ESPN 5 HD" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 5 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/8827.ts
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="ESPN 5  HD ¹" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 5  HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30081.ts
-#EXTINF:-1 tvg-id="50" tvg-name="ESPN 5 HD ²" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 5 HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30084.ts
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD H.265" tvg-logo="http://i.ibb.co/YN9gDMq/espn6.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 6 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81590.ts
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD" tvg-logo="http://i.ibb.co/YN9gDMq/espn6.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 6 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/131138.ts
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6  HD" tvg-logo="http://i.ibb.co/YN9gDMq/espn6.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 6  HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/8794.ts
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 HD ¹" tvg-logo="http://i.ibb.co/YN9gDMq/espn6.png" tvg-country="Unknown" group-title="CANAIS: ESPN ⚽" tvg-flag="",ESPN 6 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30077.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD H.265" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE CLUBES FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/125438.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE CLUBES FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/9037.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE CLUBES FHD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/54902.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE CLUBES HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/94194.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE CLUBES
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/13583.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD H.265" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 2 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81582.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 2 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/9022.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 2 FHD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/13576.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 2 FHD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/69097.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 2 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/69028.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 2 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/69029.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD H.265" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 3 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81583.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 3 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/13577.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 3 FHD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/69030.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 3 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/69031.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 3 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30051.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 3 HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/9026.ts
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD H.265" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 4 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81616.ts
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 4 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108295.ts
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 4 FHD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108296.ts
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 4 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108297.ts
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 4 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108298.ts
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 4 HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108300.ts
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD H.265" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 5 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/82751.ts
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 5 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108301.ts
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 5 FHD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108302.ts
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 5 FHD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108305.ts
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 5 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108303.ts
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 5 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108304.ts
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 5 HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108306.ts
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD H.265" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 6 FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/82753.ts
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 6 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108307.ts
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 6 FHD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108308.ts
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 6 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108309.ts
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 6 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108310.ts
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 7 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108313.ts
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 7 FHD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108314.ts
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 7 FHD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108317.ts
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 7 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108315.ts
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD ¹" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 7 HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/108316.ts
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 FHD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 8 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/13582.ts
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 FHD MOSAICO" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 8 FHD MOSAICO
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30063.ts
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 HD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" tvg-country="Unknown" group-title="CANAIS: PREMIERE ⚽" tvg-flag="",PREMIERE 8 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/9036.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 01" tvg-logo="http://www.imgu.top/logos/nosso-futebol250.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",NOSSO FUTEBOL 01
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/227505.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 02" tvg-logo="http://www.imgu.top/logos/nosso-futebol250.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",NOSSO FUTEBOL 02
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/227506.ts
-#EXTINF:-1 tvg-id="" tvg-name="GE TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5iHsMMu2hsV2aR_3jsX_nHLrVngc04G4_4Q&s" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",GE TV FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/1139277.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV HD" tvg-logo="http://imgu.top/logos/cazetv.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",CAZÉ TV HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/227520.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV HD ¹" tvg-logo="http://imgu.top/logos/cazetv.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",CAZÉ TV HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/245798.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAZE TV FHD" tvg-logo="http://imgu.top/logos/cazetv.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",CAZE TV FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/245797.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 1" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" tvg-country="Unknown" group-title="CANAIS: PARAMOUNT + LIBERTADORES ⚽" tvg-flag="",PARAMOUNT + 1
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/240737.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 2" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" tvg-country="Unknown" group-title="CANAIS: PARAMOUNT + LIBERTADORES ⚽" tvg-flag="",PARAMOUNT + 2
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/240739.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 3" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" tvg-country="Unknown" group-title="CANAIS: PARAMOUNT + LIBERTADORES ⚽" tvg-flag="",PARAMOUNT + 3
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/295698.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 4" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" tvg-country="Unknown" group-title="CANAIS: PARAMOUNT + LIBERTADORES ⚽" tvg-flag="",PARAMOUNT + 4
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/295699.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 5" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" tvg-country="Unknown" group-title="CANAIS: PARAMOUNT + LIBERTADORES ⚽" tvg-flag="",PARAMOUNT + 5
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/295700.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 6" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" tvg-country="Unknown" group-title="CANAIS: PARAMOUNT + LIBERTADORES ⚽" tvg-flag="",PARAMOUNT + 6
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/295701.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 7" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" tvg-country="Unknown" group-title="CANAIS: PARAMOUNT + LIBERTADORES ⚽" tvg-flag="",PARAMOUNT + 7
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/295702.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 8" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" tvg-country="Unknown" group-title="CANAIS: PARAMOUNT + LIBERTADORES ⚽" tvg-flag="",PARAMOUNT + 8
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/295703.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 9" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" tvg-country="Unknown" group-title="CANAIS: PARAMOUNT + LIBERTADORES ⚽" tvg-flag="",PARAMOUNT + 9
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/295704.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="http://topxz.live/logos/PPV/PrimeVideo.png" tvg-country="Unknown" group-title="CANAIS: PRIME VIDEO ⚽" tvg-flag="",PRIME VIDEO 01
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/292698.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02" tvg-logo="http://topxz.live/logos/PPV/PrimeVideo.png" tvg-country="Unknown" group-title="CANAIS: PRIME VIDEO ⚽" tvg-flag="",PRIME VIDEO 02
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/121180.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 03" tvg-logo="http://topxz.live/logos/PPV/PrimeVideo.png" tvg-country="Unknown" group-title="CANAIS: PRIME VIDEO ⚽" tvg-flag="",PRIME VIDEO 03
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/121216.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 04" tvg-logo="http://topxz.live/logos/PPV/PrimeVideo.png" tvg-country="Unknown" group-title="CANAIS: PRIME VIDEO ⚽" tvg-flag="",PRIME VIDEO 04
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/121217.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 05" tvg-logo="http://topxz.live/logos/PPV/PrimeVideo.png" tvg-country="Unknown" group-title="CANAIS: PRIME VIDEO ⚽" tvg-flag="",PRIME VIDEO 05
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/246819.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 1 FHD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" tvg-country="Unknown" group-title="CANAIS: MAX - CHAMPIONS LEAGUE ⚽" tvg-flag="",MAX 1 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/594007.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 02 HD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" tvg-country="Unknown" group-title="CANAIS: MAX - CHAMPIONS LEAGUE ⚽" tvg-flag="",MAX 02 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/594010.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 3 FHD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" tvg-country="Unknown" group-title="CANAIS: MAX - CHAMPIONS LEAGUE ⚽" tvg-flag="",MAX 3 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/594011.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 4 FHD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" tvg-country="Unknown" group-title="CANAIS: MAX - CHAMPIONS LEAGUE ⚽" tvg-flag="",MAX 4 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/594013.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 5 FHD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" tvg-country="Unknown" group-title="CANAIS: MAX - CHAMPIONS LEAGUE ⚽" tvg-flag="",MAX 5 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/594015.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 6 FHD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" tvg-country="Unknown" group-title="CANAIS: MAX - CHAMPIONS LEAGUE ⚽" tvg-flag="",MAX 6 FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/594017.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 07 HD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" tvg-country="Unknown" group-title="CANAIS: MAX - CHAMPIONS LEAGUE ⚽" tvg-flag="",MAX 07 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/594012.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX 08 HD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" tvg-country="Unknown" group-title="CANAIS: MAX - CHAMPIONS LEAGUE ⚽" tvg-flag="",MAX 08 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/594014.ts
-#EXTINF:-1 tvg-id="" tvg-name="YOUTUBE 01 HD" tvg-logo="http://i.postimg.cc/sX1wLXXQ/youtube.jpg" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",YOUTUBE 01 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/289545.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 01" tvg-logo="http://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/27/983030177-goat.jpg" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",CANAL GOAT 01
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/275100.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 02" tvg-logo="http://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/27/983030177-goat.jpg" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",CANAL GOAT 02
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/289540.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 03" tvg-logo="http://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/27/983030177-goat.jpg" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",CANAL GOAT 03
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/289541.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD H.265" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",BAND SPORTS FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81585.ts
-#EXTINF:-1 tvg-id="a.and.e.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",BAND SPORTS FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/8661.ts
-#EXTINF:-1 tvg-id="a.and.e.br" tvg-name="BAND SPORTS HD" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",BAND SPORTS HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/8662.ts
-#EXTINF:-1 tvg-id="a.and.e.br" tvg-name="BAND SPORTS HD ¹" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",BAND SPORTS HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30064.ts
-#EXTINF:-1 tvg-id="5" tvg-name="BAND SPORTS HD ³" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",BAND SPORTS HD ³
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/26724.ts
-#EXTINF:-1 tvg-id="a.and.e.br" tvg-name="ALEMANHA X CURAÇÃO 01 ÁS: 14:00" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/Sa-sv6UYFtDSedpa_768x432.jpg" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",ALEMANHA X CURAÇÃO 01 ÁS: 14:00
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/161325.ts
-#EXTINF:-1 tvg-id="a.and.e.br" tvg-name="ALEMANHA X CURAÇÃO 02 ÁS: 14:00" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/Sa-sv6UYFtDSedpa_768x432.jpg" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",ALEMANHA X CURAÇÃO 02 ÁS: 14:00
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/161322.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="COPA DO MUNDO 01" tvg-logo="https://i.pinimg.com/736x/2f/3b/60/2f3b607f2525dd613034cd05ef8f53bc.jpg" tvg-country="Unknown" group-title="COPA DO MUNDO 28/06 ⭐" tvg-flag="",COPA DO MUNDO 01
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/1164529.ts
-#EXTINF:-1 tvg-id="espn.4.br" tvg-name="COPA DO MUNDO 02" tvg-logo="https://i.pinimg.com/736x/2f/3b/60/2f3b607f2525dd613034cd05ef8f53bc.jpg" tvg-country="Unknown" group-title="COPA DO MUNDO 28/06 ⭐" tvg-flag="",COPA DO MUNDO 02
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/1164528.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="COPA DO MUNDO 03" tvg-logo="https://i.pinimg.com/736x/2f/3b/60/2f3b607f2525dd613034cd05ef8f53bc.jpg" tvg-country="Unknown" group-title="COPA DO MUNDO 28/06 ⭐" tvg-flag="",COPA DO MUNDO 03
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/1140855.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="COPA DO MUNDO 04" tvg-logo="https://i.pinimg.com/736x/2f/3b/60/2f3b607f2525dd613034cd05ef8f53bc.jpg" tvg-country="Unknown" group-title="COPA DO MUNDO 28/06 ⭐" tvg-flag="",COPA DO MUNDO 04
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/1140854.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="COPA DO MUNDO 05" tvg-logo="https://i.pinimg.com/736x/2f/3b/60/2f3b607f2525dd613034cd05ef8f53bc.jpg" tvg-country="Unknown" group-title="COPA DO MUNDO 28/06 ⭐" tvg-flag="",COPA DO MUNDO 05
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/829548.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="COPA DO MUNDO 06" tvg-logo="https://i.pinimg.com/736x/2f/3b/60/2f3b607f2525dd613034cd05ef8f53bc.jpg" tvg-country="Unknown" group-title="COPA DO MUNDO 28/06 ⭐" tvg-flag="",COPA DO MUNDO 06
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/630868.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="CORINTHIANS X SÃO PAULO 02 ÁS: 18:30" tvg-logo="https://maquinadoesporte.com.br/wp-content/uploads/2026/05/corinthians_x_sao_paulo.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",CORINTHIANS X SÃO PAULO 02 ÁS: 18:30
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/161324.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="MIRASSOL X CHAPECOENSE - SC 01 ÁS: 18:30" tvg-logo="https://maquinadoesporte.com.br/wp-content/uploads/2026/05/mirassol_x_chapecoense.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",MIRASSOL X CHAPECOENSE - SC 01 ÁS: 18:30
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/161323.ts
-#EXTINF:-1 tvg-id="espn.4.br" tvg-name="RIVER PLATE X RB BRAGANTINO 02 ÁS: 21:30" tvg-logo="https://maquinadoesporte.com.br/wp-content/uploads/2026/04/red_bull_bragantino_x_river_plate.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",RIVER PLATE X RB BRAGANTINO 02 ÁS: 21:30
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/257414.ts
-#EXTINF:-1 tvg-id="" tvg-name="X SPORTS HD" tvg-logo="https://i.postimg.cc/RFzPmHS1/xsportes.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",X SPORTS HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/631630.ts
-#EXTINF:-1 tvg-id="" tvg-name="X SPORTS FHD" tvg-logo="https://i.postimg.cc/RFzPmHS1/xsportes.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",X SPORTS FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/631631.ts
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX LUTAS" tvg-logo="http://s2-techtudo.glbimg.com/1PV-HCyKJ4cjdq9c_1Wp7QwU5cE=/0x0:1142x567/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2024/B/G/QOppYiRA21yAyyaFws0w/jake-paul-mike-tyson-3-.jpg" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",NETFLIX LUTAS
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/591951.ts
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN FHD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",DAZN FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/54928.ts
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 2" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",DAZN 2
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/21645.ts
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 3 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",DAZN 3 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/91905.ts
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 4 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" tvg-country="Unknown" group-title="CANAIS: PPV / ESPORTES ⚽" tvg-flag="",DAZN 4 HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/91906.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE  FHD H.265" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",COMBATE  FHD H.265
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/81586.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",COMBATE
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/13506.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",COMBATE FHD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/8714.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",COMBATE HD
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/8716.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD ¹" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",COMBATE HD ¹
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30066.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD ²" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" tvg-country="Unknown" group-title="CANAIS: ESPORTES ⚽" tvg-flag="",COMBATE HD ²
-http://govfederal.org:80/live/3llohwk4g9/kwf099q30o/30067.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 1 FHD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 1 FHD
+http://dnzplay.com:80/a05719514/112233Aa/157407.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 1 HD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 1 HD
+http://dnzplay.com:80/a05719514/112233Aa/157408.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 1 SD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 1 SD
+http://dnzplay.com:80/a05719514/112233Aa/157409.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 2 FHD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 2 FHD
+http://dnzplay.com:80/a05719514/112233Aa/157410.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 2 HD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 2 HD
+http://dnzplay.com:80/a05719514/112233Aa/157411.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 2 SD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 2 SD
+http://dnzplay.com:80/a05719514/112233Aa/157412.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 3 FHD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 3 FHD
+http://dnzplay.com:80/a05719514/112233Aa/157413.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 3 HD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 3 HD
+http://dnzplay.com:80/a05719514/112233Aa/157414.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie C 3 SD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 3 SD
+http://dnzplay.com:80/a05719514/112233Aa/157415.ts
+#EXTINF:-1 tvg-name="Combate 4K" tvg-logo="http://dnzplay.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate 4K
+http://dnzplay.com:80/a05719514/112233Aa/71844.ts
+#EXTINF:-1 tvg-name="Combate FHD" tvg-logo="http://dnzplay.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD
+http://dnzplay.com:80/a05719514/112233Aa/71842.ts
+#EXTINF:-1 tvg-name="Combate FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/71843.ts
+#EXTINF:-1 timeshift="7" tvg-name="Combate HD" tvg-logo="http://dnzplay.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
+http://dnzplay.com:80/a05719514/112233Aa/71845.ts
+#EXTINF:-1 tvg-name="Combate SD" tvg-logo="http://dnzplay.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate SD
+http://dnzplay.com:80/a05719514/112233Aa/71846.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 1 FHD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 FHD
+http://dnzplay.com:80/a05719514/112233Aa/150498.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 1 HD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 HD
+http://dnzplay.com:80/a05719514/112233Aa/150499.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 1 SD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 SD
+http://dnzplay.com:80/a05719514/112233Aa/150500.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 2 FHD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 FHD
+http://dnzplay.com:80/a05719514/112233Aa/150501.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 2 HD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 HD
+http://dnzplay.com:80/a05719514/112233Aa/150502.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 2 SD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 SD
+http://dnzplay.com:80/a05719514/112233Aa/150503.ts
+#EXTINF:-1 tvg-name="DAZN 1 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 1 FHD
+http://dnzplay.com:80/a05719514/112233Aa/184550.ts
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 1 HD
+http://dnzplay.com:80/a05719514/112233Aa/184551.ts
+#EXTINF:-1 tvg-name="DAZN 1 SD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 1 SD
+http://dnzplay.com:80/a05719514/112233Aa/184552.ts
+#EXTINF:-1 tvg-name="DAZN 2 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 FHD
+http://dnzplay.com:80/a05719514/112233Aa/184553.ts
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 HD
+http://dnzplay.com:80/a05719514/112233Aa/184554.ts
+#EXTINF:-1 tvg-name="DAZN 2 SD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 SD
+http://dnzplay.com:80/a05719514/112233Aa/184555.ts
+#EXTINF:-1 tvg-name="ESPN 2 4K" tvg-logo="http://dnzplay.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 4K
+http://dnzplay.com:80/a05719514/112233Aa/71921.ts
+#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
+http://dnzplay.com:80/a05719514/112233Aa/71919.ts
+#EXTINF:-1 tvg-name="ESPN 2 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/71920.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 2 HD" tvg-logo="http://dnzplay.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
+http://dnzplay.com:80/a05719514/112233Aa/71922.ts
+#EXTINF:-1 tvg-name="ESPN 2 SD" tvg-logo="http://dnzplay.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 SD
+http://dnzplay.com:80/a05719514/112233Aa/71923.ts
+#EXTINF:-1 tvg-name="ESPN 3 4K" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 4K
+http://dnzplay.com:80/a05719514/112233Aa/103504.ts
+#EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD
+http://dnzplay.com:80/a05719514/112233Aa/71907.ts
+#EXTINF:-1 tvg-name="ESPN 3 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/71908.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 3 HD" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 HD
+http://dnzplay.com:80/a05719514/112233Aa/71909.ts
+#EXTINF:-1 tvg-name="ESPN 3 SD" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 SD
+http://dnzplay.com:80/a05719514/112233Aa/71910.ts
+#EXTINF:-1 tvg-name="ESPN 4 4K" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 4K
+http://dnzplay.com:80/a05719514/112233Aa/71959.ts
+#EXTINF:-1 tvg-name="ESPN 4 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 FHD
+http://dnzplay.com:80/a05719514/112233Aa/71957.ts
+#EXTINF:-1 tvg-name="ESPN 4 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/71958.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 4 HD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 HD
+http://dnzplay.com:80/a05719514/112233Aa/71960.ts
+#EXTINF:-1 tvg-name="ESPN 4 SD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 SD
+http://dnzplay.com:80/a05719514/112233Aa/71961.ts
+#EXTINF:-1 tvg-name="ESPN 4K" tvg-logo="http://dnzplay.com/static/logos/canais/espnbrasil.png" group-title="Canais | ESPN",ESPN 4K
+http://dnzplay.com:80/a05719514/112233Aa/90640.ts
+#EXTINF:-1 tvg-name="ESPN 6 4K" tvg-logo="http://dnzplay.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 4K
+http://dnzplay.com:80/a05719514/112233Aa/103505.ts
+#EXTINF:-1 tvg-name="ESPN 6 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 FHD
+http://dnzplay.com:80/a05719514/112233Aa/71915.ts
+#EXTINF:-1 tvg-name="ESPN 6 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/71916.ts
+#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="http://dnzplay.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 HD
+http://dnzplay.com:80/a05719514/112233Aa/71917.ts
+#EXTINF:-1 tvg-name="ESPN 6 SD" tvg-logo="http://dnzplay.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 SD
+http://dnzplay.com:80/a05719514/112233Aa/71918.ts
+#EXTINF:-1 tvg-name="ESPN FHD" tvg-logo="http://dnzplay.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN FHD
+http://dnzplay.com:80/a05719514/112233Aa/71911.ts
+#EXTINF:-1 tvg-name="ESPN FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/71912.ts
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://dnzplay.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN HD
+http://dnzplay.com:80/a05719514/112233Aa/71913.ts
+#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="http://dnzplay.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN SD
+http://dnzplay.com:80/a05719514/112233Aa/71914.ts
+#EXTINF:-1 tvg-name="Caze TV FHD" tvg-logo="" group-title="Canais | PPV",Caze TV FHD
+http://dnzplay.com:80/a05719514/112233Aa/76671.ts
+#EXTINF:-1 tvg-name="Formula 1 TV FHD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV FHD
+http://dnzplay.com:80/a05719514/112233Aa/71947.ts
+#EXTINF:-1 tvg-name="Formula 1 TV HD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV HD
+http://dnzplay.com:80/a05719514/112233Aa/71949.ts
+#EXTINF:-1 tvg-name="Formula 1 TV SD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV SD
+http://dnzplay.com:80/a05719514/112233Aa/71950.ts
+#EXTINF:-1 tvg-name="ESPN 5 4K" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 4K
+http://dnzplay.com:80/a05719514/112233Aa/71954.ts
+#EXTINF:-1 tvg-name="ESPN 5 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 FHD
+http://dnzplay.com:80/a05719514/112233Aa/71952.ts
+#EXTINF:-1 tvg-name="ESPN 5 [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 [H265]
+http://dnzplay.com:80/a05719514/112233Aa/71953.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 5 HD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 HD
+http://dnzplay.com:80/a05719514/112233Aa/71955.ts
+#EXTINF:-1 tvg-name="ESPN 5 SD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 SD
+http://dnzplay.com:80/a05719514/112233Aa/71956.ts
+#EXTINF:-1 tvg-name="SportyNet 1 4K" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 1 4K
+http://dnzplay.com:80/a05719514/112233Aa/184572.ts
+#EXTINF:-1 tvg-name="SportyNet 1 FHD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 1 FHD
+http://dnzplay.com:80/a05719514/112233Aa/184569.ts
+#EXTINF:-1 tvg-name="SportyNet 1 FHD [H265]" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 1 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/184573.ts
+#EXTINF:-1 tvg-name="SportyNet 1 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 1 HD
+http://dnzplay.com:80/a05719514/112233Aa/184570.ts
+#EXTINF:-1 tvg-name="SportyNet 1 SD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 1 SD
+http://dnzplay.com:80/a05719514/112233Aa/184571.ts
+#EXTINF:-1 tvg-name="SportyNet 2 4K" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 2 4K
+http://dnzplay.com:80/a05719514/112233Aa/184577.ts
+#EXTINF:-1 tvg-name="SportyNet 2 FHD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 2 FHD
+http://dnzplay.com:80/a05719514/112233Aa/184574.ts
+#EXTINF:-1 tvg-name="SportyNet 2 FHD [H265]" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 2 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/184578.ts
+#EXTINF:-1 tvg-name="SportyNet 2 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 2 HD
+http://dnzplay.com:80/a05719514/112233Aa/184575.ts
+#EXTINF:-1 tvg-name="SportyNet 2 SD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 2 SD
+http://dnzplay.com:80/a05719514/112233Aa/184576.ts
+#EXTINF:-1 tvg-name="SportyNet 3 4K" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 3 4K
+http://dnzplay.com:80/a05719514/112233Aa/184582.ts
+#EXTINF:-1 tvg-name="SportyNet 3 FHD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 3 FHD
+http://dnzplay.com:80/a05719514/112233Aa/184579.ts
+#EXTINF:-1 tvg-name="SportyNet 3 FHD [H265]" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 3 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/184583.ts
+#EXTINF:-1 tvg-name="SportyNet 3 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 3 HD
+http://dnzplay.com:80/a05719514/112233Aa/184580.ts
+#EXTINF:-1 tvg-name="SportyNet 3 SD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 3 SD
+http://dnzplay.com:80/a05719514/112233Aa/184581.ts
+#EXTINF:-1 tvg-name="SportyNet 4 FHD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 4 FHD
+http://dnzplay.com:80/a05719514/112233Aa/184584.ts
+#EXTINF:-1 tvg-name="SportyNet FHD [H265]" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/184587.ts
+#EXTINF:-1 tvg-name="SportyNet 4 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 4 HD
+http://dnzplay.com:80/a05719514/112233Aa/184585.ts
+#EXTINF:-1 tvg-name="SportyNet 4 SD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 4 SD
+http://dnzplay.com:80/a05719514/112233Aa/184586.ts
+#EXTINF:-1 tvg-name="OneFootball 1 FHD" tvg-logo="" group-title="Canais | PPV",OneFootball 1 FHD
+http://dnzplay.com:80/a05719514/112233Aa/185800.ts
+#EXTINF:-1 tvg-name="OneFootball 1 HD" tvg-logo="" group-title="Canais | PPV",OneFootball 1 HD
+http://dnzplay.com:80/a05719514/112233Aa/185801.ts
+#EXTINF:-1 tvg-name="OneFootball 1 SD" tvg-logo="" group-title="Canais | PPV",OneFootball 1 SD
+http://dnzplay.com:80/a05719514/112233Aa/185802.ts
+#EXTINF:-1 tvg-name="Paramount + 1 4K" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 4K
+http://dnzplay.com:80/a05719514/112233Aa/103524.ts
+#EXTINF:-1 tvg-name="Paramount + 1 FHD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72977.ts
+#EXTINF:-1 tvg-name="Paramount + 1 FHD [H265]" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72978.ts
+#EXTINF:-1 tvg-name="Paramount + 1 HD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 HD
+http://dnzplay.com:80/a05719514/112233Aa/72979.ts
+#EXTINF:-1 tvg-name="Paramount + 1 SD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 SD
+http://dnzplay.com:80/a05719514/112233Aa/72980.ts
+#EXTINF:-1 tvg-name="Paramount + 2 4K" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 4K
+http://dnzplay.com:80/a05719514/112233Aa/103523.ts
+#EXTINF:-1 tvg-name="Paramount + 2 FHD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72981.ts
+#EXTINF:-1 tvg-name="Paramount + 2 FHD [H265]" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72982.ts
+#EXTINF:-1 tvg-name="Paramount + 2 HD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 HD
+http://dnzplay.com:80/a05719514/112233Aa/72983.ts
+#EXTINF:-1 tvg-name="Paramount + 2 SD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 SD
+http://dnzplay.com:80/a05719514/112233Aa/72984.ts
+#EXTINF:-1 tvg-name="Paramount + 3 4K" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 4K
+http://dnzplay.com:80/a05719514/112233Aa/103522.ts
+#EXTINF:-1 tvg-name="Paramount + 3 FHD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72985.ts
+#EXTINF:-1 tvg-name="Paramount + 3 FHD [H265]" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72986.ts
+#EXTINF:-1 tvg-name="Paramount + 3 HD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 HD
+http://dnzplay.com:80/a05719514/112233Aa/72987.ts
+#EXTINF:-1 tvg-name="Paramount + 3 SD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 SD
+http://dnzplay.com:80/a05719514/112233Aa/72988.ts
+#EXTINF:-1 tvg-name="Paramount + 4 4K" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 4K
+http://dnzplay.com:80/a05719514/112233Aa/103521.ts
+#EXTINF:-1 tvg-name="Paramount + 4 FHD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72989.ts
+#EXTINF:-1 tvg-name="Paramount + 4 FHD [H265]" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72990.ts
+#EXTINF:-1 tvg-name="Paramount + 4 HD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 HD
+http://dnzplay.com:80/a05719514/112233Aa/72991.ts
+#EXTINF:-1 tvg-name="Paramount + 4 SD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 SD
+http://dnzplay.com:80/a05719514/112233Aa/72992.ts
+#EXTINF:-1 tvg-name="Premiere 2 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 4K
+http://dnzplay.com:80/a05719514/112233Aa/103482.ts
+#EXTINF:-1 tvg-name="Premiere 2 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72237.ts
+#EXTINF:-1 tvg-name="Premiere 2 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72238.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 2 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
+http://dnzplay.com:80/a05719514/112233Aa/72239.ts
+#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
+http://dnzplay.com:80/a05719514/112233Aa/72240.ts
+#EXTINF:-1 tvg-name="Premiere 3 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 4K
+http://dnzplay.com:80/a05719514/112233Aa/103481.ts
+#EXTINF:-1 tvg-name="Premiere 3 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72241.ts
+#EXTINF:-1 tvg-name="Premiere 3 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72242.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 3 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
+http://dnzplay.com:80/a05719514/112233Aa/72243.ts
+#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
+http://dnzplay.com:80/a05719514/112233Aa/72244.ts
+#EXTINF:-1 tvg-name="Premiere 4 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 4K
+http://dnzplay.com:80/a05719514/112233Aa/103480.ts
+#EXTINF:-1 tvg-name="Premiere 4 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72245.ts
+#EXTINF:-1 tvg-name="Premiere 4 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72246.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 4 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
+http://dnzplay.com:80/a05719514/112233Aa/72247.ts
+#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
+http://dnzplay.com:80/a05719514/112233Aa/72248.ts
+#EXTINF:-1 tvg-name="Premiere 5 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 4K
+http://dnzplay.com:80/a05719514/112233Aa/103479.ts
+#EXTINF:-1 tvg-name="Premiere 5 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72249.ts
+#EXTINF:-1 tvg-name="Premiere 5 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72250.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 5 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
+http://dnzplay.com:80/a05719514/112233Aa/72251.ts
+#EXTINF:-1 tvg-name="Premiere 5 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
+http://dnzplay.com:80/a05719514/112233Aa/72252.ts
+#EXTINF:-1 tvg-name="Premiere 6 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 4K
+http://dnzplay.com:80/a05719514/112233Aa/103478.ts
+#EXTINF:-1 tvg-name="Premiere 6 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72253.ts
+#EXTINF:-1 tvg-name="Premiere 6 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72254.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 6 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
+http://dnzplay.com:80/a05719514/112233Aa/72255.ts
+#EXTINF:-1 tvg-name="Premiere 6 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
+http://dnzplay.com:80/a05719514/112233Aa/72256.ts
+#EXTINF:-1 tvg-name="Premiere 7 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 4K
+http://dnzplay.com:80/a05719514/112233Aa/103477.ts
+#EXTINF:-1 tvg-name="Premiere 7 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72257.ts
+#EXTINF:-1 tvg-name="Premiere 7 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72258.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 7 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
+http://dnzplay.com:80/a05719514/112233Aa/72259.ts
+#EXTINF:-1 tvg-name="Premiere 7 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
+http://dnzplay.com:80/a05719514/112233Aa/72260.ts
+#EXTINF:-1 tvg-name="Premiere 8 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 4K
+http://dnzplay.com:80/a05719514/112233Aa/180162.ts
+#EXTINF:-1 tvg-name="Premiere 8 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD
+http://dnzplay.com:80/a05719514/112233Aa/180158.ts
+#EXTINF:-1 tvg-name="Premiere 8 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/180161.ts
+#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
+http://dnzplay.com:80/a05719514/112233Aa/180159.ts
+#EXTINF:-1 tvg-name="Premiere 8 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 SD
+http://dnzplay.com:80/a05719514/112233Aa/180160.ts
+#EXTINF:-1 tvg-name="Premiere Clubes 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes 4K
+http://dnzplay.com:80/a05719514/112233Aa/72264.ts
+#EXTINF:-1 tvg-name="Premiere Clubes FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
+http://dnzplay.com:80/a05719514/112233Aa/72262.ts
+#EXTINF:-1 tvg-name="Premiere Clubes FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72263.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere Clubes HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
+http://dnzplay.com:80/a05719514/112233Aa/72265.ts
+#EXTINF:-1 tvg-name="Premiere Clubes SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
+http://dnzplay.com:80/a05719514/112233Aa/72266.ts
+#EXTINF:-1 tvg-name="SporTV 2 4K" tvg-logo="http://dnzplay.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 4K
+http://dnzplay.com:80/a05719514/112233Aa/103472.ts
+#EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72321.ts
+#EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/131147.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV 2 HD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
+http://dnzplay.com:80/a05719514/112233Aa/131176.ts
+#EXTINF:-1 tvg-name="SporTV 2 SD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
+http://dnzplay.com:80/a05719514/112233Aa/72324.ts
+#EXTINF:-1 tvg-name="SporTV 3 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
+http://dnzplay.com:80/a05719514/112233Aa/72325.ts
+#EXTINF:-1 tvg-name="SporTV 3 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72326.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV 3 HD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
+http://dnzplay.com:80/a05719514/112233Aa/131113.ts
+#EXTINF:-1 tvg-name="SporTV 3 SD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
+http://dnzplay.com:80/a05719514/112233Aa/131108.ts
+#EXTINF:-1 tvg-name="SporTV 4K" tvg-logo="http://dnzplay.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV 4K
+http://dnzplay.com:80/a05719514/112233Aa/131188.ts
+#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
+http://dnzplay.com:80/a05719514/112233Aa/72329.ts
+#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD [H265]
+http://dnzplay.com:80/a05719514/112233Aa/72330.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV HD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
+http://dnzplay.com:80/a05719514/112233Aa/72332.ts
+#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
+http://dnzplay.com:80/a05719514/112233Aa/131132.ts
+#EXTINF:-1 tvg-name="SporTV3 4K" tvg-logo="http://dnzplay.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3 4K
+http://dnzplay.com:80/a05719514/112233Aa/103471.ts
