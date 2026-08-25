@@ -1,316 +1,258 @@
-#EXTM3U x-tvg-url="https://iptv-epg.g/files/epg.br.xml"
-#EXT-X-SESSION-DATA:DATA-ID="com.xc_vm.2_1_1"
-#EXTINF:-1 tvg-name="Brasileirao Serie C 1 FHD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 1 FHD
-http://dnzplay.com:80/a05719514/112233Aa/157407.ts
-#EXTINF:-1 tvg-name="Brasileirao Serie C 1 HD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 1 HD
-http://dnzplay.com:80/a05719514/112233Aa/157408.ts
-#EXTINF:-1 tvg-name="Brasileirao Serie C 1 SD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 1 SD
-http://dnzplay.com:80/a05719514/112233Aa/157409.ts
-#EXTINF:-1 tvg-name="Brasileirao Serie C 2 FHD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 2 FHD
-http://dnzplay.com:80/a05719514/112233Aa/157410.ts
-#EXTINF:-1 tvg-name="Brasileirao Serie C 2 HD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 2 HD
-http://dnzplay.com:80/a05719514/112233Aa/157411.ts
-#EXTINF:-1 tvg-name="Brasileirao Serie C 2 SD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 2 SD
-http://dnzplay.com:80/a05719514/112233Aa/157412.ts
-#EXTINF:-1 tvg-name="Brasileirao Serie C 3 FHD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 3 FHD
-http://dnzplay.com:80/a05719514/112233Aa/157413.ts
-#EXTINF:-1 tvg-name="Brasileirao Serie C 3 HD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 3 HD
-http://dnzplay.com:80/a05719514/112233Aa/157414.ts
-#EXTINF:-1 tvg-name="Brasileirao Serie C 3 SD" tvg-logo="http://dnzplay.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 3 SD
-http://dnzplay.com:80/a05719514/112233Aa/157415.ts
-#EXTINF:-1 tvg-name="Combate 4K" tvg-logo="http://dnzplay.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate 4K
-http://dnzplay.com:80/a05719514/112233Aa/71844.ts
-#EXTINF:-1 tvg-name="Combate FHD" tvg-logo="http://dnzplay.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD
-http://dnzplay.com:80/a05719514/112233Aa/71842.ts
-#EXTINF:-1 tvg-name="Combate FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/71843.ts
-#EXTINF:-1 timeshift="7" tvg-name="Combate HD" tvg-logo="http://dnzplay.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
-http://dnzplay.com:80/a05719514/112233Aa/71845.ts
-#EXTINF:-1 tvg-name="Combate SD" tvg-logo="http://dnzplay.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate SD
-http://dnzplay.com:80/a05719514/112233Aa/71846.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 1 FHD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 FHD
-http://dnzplay.com:80/a05719514/112233Aa/150498.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 1 HD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 HD
-http://dnzplay.com:80/a05719514/112233Aa/150499.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 1 SD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 SD
-http://dnzplay.com:80/a05719514/112233Aa/150500.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 2 FHD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 FHD
-http://dnzplay.com:80/a05719514/112233Aa/150501.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 2 HD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 HD
-http://dnzplay.com:80/a05719514/112233Aa/150502.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 2 SD" tvg-logo="http://dnzplay.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 SD
-http://dnzplay.com:80/a05719514/112233Aa/150503.ts
-#EXTINF:-1 tvg-name="DAZN 1 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 1 FHD
-http://dnzplay.com:80/a05719514/112233Aa/184550.ts
-#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 1 HD
-http://dnzplay.com:80/a05719514/112233Aa/184551.ts
-#EXTINF:-1 tvg-name="DAZN 1 SD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 1 SD
-http://dnzplay.com:80/a05719514/112233Aa/184552.ts
-#EXTINF:-1 tvg-name="DAZN 2 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 FHD
-http://dnzplay.com:80/a05719514/112233Aa/184553.ts
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 HD
-http://dnzplay.com:80/a05719514/112233Aa/184554.ts
-#EXTINF:-1 tvg-name="DAZN 2 SD" tvg-logo="http://dnzplay.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 SD
-http://dnzplay.com:80/a05719514/112233Aa/184555.ts
-#EXTINF:-1 tvg-name="ESPN 2 4K" tvg-logo="http://dnzplay.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 4K
-http://dnzplay.com:80/a05719514/112233Aa/71921.ts
-#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
-http://dnzplay.com:80/a05719514/112233Aa/71919.ts
-#EXTINF:-1 tvg-name="ESPN 2 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/71920.ts
-#EXTINF:-1 timeshift="7" tvg-name="ESPN 2 HD" tvg-logo="http://dnzplay.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
-http://dnzplay.com:80/a05719514/112233Aa/71922.ts
-#EXTINF:-1 tvg-name="ESPN 2 SD" tvg-logo="http://dnzplay.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 SD
-http://dnzplay.com:80/a05719514/112233Aa/71923.ts
-#EXTINF:-1 tvg-name="ESPN 3 4K" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 4K
-http://dnzplay.com:80/a05719514/112233Aa/103504.ts
-#EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD
-http://dnzplay.com:80/a05719514/112233Aa/71907.ts
-#EXTINF:-1 tvg-name="ESPN 3 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/71908.ts
-#EXTINF:-1 timeshift="7" tvg-name="ESPN 3 HD" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 HD
-http://dnzplay.com:80/a05719514/112233Aa/71909.ts
-#EXTINF:-1 tvg-name="ESPN 3 SD" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 SD
-http://dnzplay.com:80/a05719514/112233Aa/71910.ts
-#EXTINF:-1 tvg-name="ESPN 4 4K" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 4K
-http://dnzplay.com:80/a05719514/112233Aa/71959.ts
-#EXTINF:-1 tvg-name="ESPN 4 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 FHD
-http://dnzplay.com:80/a05719514/112233Aa/71957.ts
-#EXTINF:-1 tvg-name="ESPN 4 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/71958.ts
-#EXTINF:-1 timeshift="7" tvg-name="ESPN 4 HD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 HD
-http://dnzplay.com:80/a05719514/112233Aa/71960.ts
-#EXTINF:-1 tvg-name="ESPN 4 SD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 SD
-http://dnzplay.com:80/a05719514/112233Aa/71961.ts
-#EXTINF:-1 tvg-name="ESPN 4K" tvg-logo="http://dnzplay.com/static/logos/canais/espnbrasil.png" group-title="Canais | ESPN",ESPN 4K
-http://dnzplay.com:80/a05719514/112233Aa/90640.ts
-#EXTINF:-1 tvg-name="ESPN 6 4K" tvg-logo="http://dnzplay.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 4K
-http://dnzplay.com:80/a05719514/112233Aa/103505.ts
-#EXTINF:-1 tvg-name="ESPN 6 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 FHD
-http://dnzplay.com:80/a05719514/112233Aa/71915.ts
-#EXTINF:-1 tvg-name="ESPN 6 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/71916.ts
-#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="http://dnzplay.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 HD
-http://dnzplay.com:80/a05719514/112233Aa/71917.ts
-#EXTINF:-1 tvg-name="ESPN 6 SD" tvg-logo="http://dnzplay.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 SD
-http://dnzplay.com:80/a05719514/112233Aa/71918.ts
-#EXTINF:-1 tvg-name="ESPN FHD" tvg-logo="http://dnzplay.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN FHD
-http://dnzplay.com:80/a05719514/112233Aa/71911.ts
-#EXTINF:-1 tvg-name="ESPN FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/71912.ts
-#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://dnzplay.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN HD
-http://dnzplay.com:80/a05719514/112233Aa/71913.ts
-#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="http://dnzplay.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN SD
-http://dnzplay.com:80/a05719514/112233Aa/71914.ts
+#EXTM3U x-tvg-url="http://ztpppyfj.extatlas.com:88/xmltv.php?username=4021376495&password=2501002631"
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-name="Band Sports 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103525.ts
+#EXTINF:-1 tvg-name="Band Sports FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71801.ts
+#EXTINF:-1 tvg-name="Band Sports FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71802.ts
+#EXTINF:-1 timeshift="7" tvg-name="Band Sports HD" tvg-logo="http://playnetclub.vip/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71803.ts
+#EXTINF:-1 tvg-name="Band Sports SD" tvg-logo="http://playnetclub.vip/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71804.ts
+#EXTINF:-1 tvg-name="Combate 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71844.ts
+#EXTINF:-1 tvg-name="Combate FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71842.ts
+#EXTINF:-1 tvg-name="Combate FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71843.ts
+#EXTINF:-1 timeshift="7" tvg-name="Combate HD" tvg-logo="http://playnetclub.vip/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71845.ts
+#EXTINF:-1 tvg-name="Combate SD" tvg-logo="http://playnetclub.vip/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71846.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 1 FHD" tvg-logo="http://playnetclub.vip/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/150498.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 1 HD" tvg-logo="http://playnetclub.vip/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/150499.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 1 SD" tvg-logo="http://playnetclub.vip/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/150500.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 2 FHD" tvg-logo="http://playnetclub.vip/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/150501.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 2 HD" tvg-logo="http://playnetclub.vip/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/150502.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 2 SD" tvg-logo="http://playnetclub.vip/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/150503.ts
+#EXTINF:-1 tvg-name="ESPN 2 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71921.ts
+#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71919.ts
+#EXTINF:-1 tvg-name="ESPN 2 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71920.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 2 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71922.ts
+#EXTINF:-1 tvg-name="ESPN 2 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71923.ts
+#EXTINF:-1 tvg-name="ESPN 3 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103504.ts
+#EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71907.ts
+#EXTINF:-1 tvg-name="ESPN 3 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71908.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 3 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71909.ts
+#EXTINF:-1 tvg-name="ESPN 3 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71910.ts
+#EXTINF:-1 tvg-name="ESPN 4 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71959.ts
+#EXTINF:-1 tvg-name="ESPN 4 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71957.ts
+#EXTINF:-1 tvg-name="ESPN 4 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71958.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 4 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71960.ts
+#EXTINF:-1 tvg-name="ESPN 4 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71961.ts
+#EXTINF:-1 tvg-name="ESPN 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/espnbrasil.png" group-title="Canais | ESPN",ESPN 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/90640.ts
+#EXTINF:-1 tvg-name="ESPN 6 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103505.ts
+#EXTINF:-1 tvg-name="ESPN 6 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71915.ts
+#EXTINF:-1 tvg-name="ESPN 6 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71916.ts
+#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71917.ts
+#EXTINF:-1 tvg-name="ESPN 6 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71918.ts
+#EXTINF:-1 tvg-name="ESPN FHD" tvg-logo="http://playnetclub.vip/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71911.ts
+#EXTINF:-1 tvg-name="ESPN FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71912.ts
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://playnetclub.vip/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71913.ts
+#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="http://playnetclub.vip/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71914.ts
 #EXTINF:-1 tvg-name="Caze TV FHD" tvg-logo="" group-title="Canais | PPV",Caze TV FHD
-http://dnzplay.com:80/a05719514/112233Aa/76671.ts
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/76671.ts
 #EXTINF:-1 tvg-name="Formula 1 TV FHD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV FHD
-http://dnzplay.com:80/a05719514/112233Aa/71947.ts
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71947.ts
 #EXTINF:-1 tvg-name="Formula 1 TV HD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV HD
-http://dnzplay.com:80/a05719514/112233Aa/71949.ts
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71949.ts
 #EXTINF:-1 tvg-name="Formula 1 TV SD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV SD
-http://dnzplay.com:80/a05719514/112233Aa/71950.ts
-#EXTINF:-1 tvg-name="ESPN 5 4K" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 4K
-http://dnzplay.com:80/a05719514/112233Aa/71954.ts
-#EXTINF:-1 tvg-name="ESPN 5 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 FHD
-http://dnzplay.com:80/a05719514/112233Aa/71952.ts
-#EXTINF:-1 tvg-name="ESPN 5 [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 [H265]
-http://dnzplay.com:80/a05719514/112233Aa/71953.ts
-#EXTINF:-1 timeshift="7" tvg-name="ESPN 5 HD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 HD
-http://dnzplay.com:80/a05719514/112233Aa/71955.ts
-#EXTINF:-1 tvg-name="ESPN 5 SD" tvg-logo="http://dnzplay.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 SD
-http://dnzplay.com:80/a05719514/112233Aa/71956.ts
-#EXTINF:-1 tvg-name="SportyNet 1 4K" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 1 4K
-http://dnzplay.com:80/a05719514/112233Aa/184572.ts
-#EXTINF:-1 tvg-name="SportyNet 1 FHD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 1 FHD
-http://dnzplay.com:80/a05719514/112233Aa/184569.ts
-#EXTINF:-1 tvg-name="SportyNet 1 FHD [H265]" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 1 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/184573.ts
-#EXTINF:-1 tvg-name="SportyNet 1 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 1 HD
-http://dnzplay.com:80/a05719514/112233Aa/184570.ts
-#EXTINF:-1 tvg-name="SportyNet 1 SD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 1 SD
-http://dnzplay.com:80/a05719514/112233Aa/184571.ts
-#EXTINF:-1 tvg-name="SportyNet 2 4K" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 2 4K
-http://dnzplay.com:80/a05719514/112233Aa/184577.ts
-#EXTINF:-1 tvg-name="SportyNet 2 FHD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 2 FHD
-http://dnzplay.com:80/a05719514/112233Aa/184574.ts
-#EXTINF:-1 tvg-name="SportyNet 2 FHD [H265]" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 2 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/184578.ts
-#EXTINF:-1 tvg-name="SportyNet 2 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 2 HD
-http://dnzplay.com:80/a05719514/112233Aa/184575.ts
-#EXTINF:-1 tvg-name="SportyNet 2 SD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 2 SD
-http://dnzplay.com:80/a05719514/112233Aa/184576.ts
-#EXTINF:-1 tvg-name="SportyNet 3 4K" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 3 4K
-http://dnzplay.com:80/a05719514/112233Aa/184582.ts
-#EXTINF:-1 tvg-name="SportyNet 3 FHD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 3 FHD
-http://dnzplay.com:80/a05719514/112233Aa/184579.ts
-#EXTINF:-1 tvg-name="SportyNet 3 FHD [H265]" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 3 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/184583.ts
-#EXTINF:-1 tvg-name="SportyNet 3 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 3 HD
-http://dnzplay.com:80/a05719514/112233Aa/184580.ts
-#EXTINF:-1 tvg-name="SportyNet 3 SD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 3 SD
-http://dnzplay.com:80/a05719514/112233Aa/184581.ts
-#EXTINF:-1 tvg-name="SportyNet 4 FHD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 4 FHD
-http://dnzplay.com:80/a05719514/112233Aa/184584.ts
-#EXTINF:-1 tvg-name="SportyNet FHD [H265]" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/184587.ts
-#EXTINF:-1 tvg-name="SportyNet 4 HD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 4 HD
-http://dnzplay.com:80/a05719514/112233Aa/184585.ts
-#EXTINF:-1 tvg-name="SportyNet 4 SD" tvg-logo="" group-title="Canais | Campeonatos Estaduais",SportyNet 4 SD
-http://dnzplay.com:80/a05719514/112233Aa/184586.ts
-#EXTINF:-1 tvg-name="OneFootball 1 FHD" tvg-logo="" group-title="Canais | PPV",OneFootball 1 FHD
-http://dnzplay.com:80/a05719514/112233Aa/185800.ts
-#EXTINF:-1 tvg-name="OneFootball 1 HD" tvg-logo="" group-title="Canais | PPV",OneFootball 1 HD
-http://dnzplay.com:80/a05719514/112233Aa/185801.ts
-#EXTINF:-1 tvg-name="OneFootball 1 SD" tvg-logo="" group-title="Canais | PPV",OneFootball 1 SD
-http://dnzplay.com:80/a05719514/112233Aa/185802.ts
-#EXTINF:-1 tvg-name="Paramount + 1 4K" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 4K
-http://dnzplay.com:80/a05719514/112233Aa/103524.ts
-#EXTINF:-1 tvg-name="Paramount + 1 FHD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72977.ts
-#EXTINF:-1 tvg-name="Paramount + 1 FHD [H265]" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72978.ts
-#EXTINF:-1 tvg-name="Paramount + 1 HD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 HD
-http://dnzplay.com:80/a05719514/112233Aa/72979.ts
-#EXTINF:-1 tvg-name="Paramount + 1 SD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 SD
-http://dnzplay.com:80/a05719514/112233Aa/72980.ts
-#EXTINF:-1 tvg-name="Paramount + 2 4K" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 4K
-http://dnzplay.com:80/a05719514/112233Aa/103523.ts
-#EXTINF:-1 tvg-name="Paramount + 2 FHD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72981.ts
-#EXTINF:-1 tvg-name="Paramount + 2 FHD [H265]" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72982.ts
-#EXTINF:-1 tvg-name="Paramount + 2 HD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 HD
-http://dnzplay.com:80/a05719514/112233Aa/72983.ts
-#EXTINF:-1 tvg-name="Paramount + 2 SD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 SD
-http://dnzplay.com:80/a05719514/112233Aa/72984.ts
-#EXTINF:-1 tvg-name="Paramount + 3 4K" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 4K
-http://dnzplay.com:80/a05719514/112233Aa/103522.ts
-#EXTINF:-1 tvg-name="Paramount + 3 FHD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72985.ts
-#EXTINF:-1 tvg-name="Paramount + 3 FHD [H265]" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72986.ts
-#EXTINF:-1 tvg-name="Paramount + 3 HD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 HD
-http://dnzplay.com:80/a05719514/112233Aa/72987.ts
-#EXTINF:-1 tvg-name="Paramount + 3 SD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 SD
-http://dnzplay.com:80/a05719514/112233Aa/72988.ts
-#EXTINF:-1 tvg-name="Paramount + 4 4K" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 4K
-http://dnzplay.com:80/a05719514/112233Aa/103521.ts
-#EXTINF:-1 tvg-name="Paramount + 4 FHD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72989.ts
-#EXTINF:-1 tvg-name="Paramount + 4 FHD [H265]" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72990.ts
-#EXTINF:-1 tvg-name="Paramount + 4 HD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 HD
-http://dnzplay.com:80/a05719514/112233Aa/72991.ts
-#EXTINF:-1 tvg-name="Paramount + 4 SD" tvg-logo="http://dnzplay.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 SD
-http://dnzplay.com:80/a05719514/112233Aa/72992.ts
-#EXTINF:-1 tvg-name="Premiere 2 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 4K
-http://dnzplay.com:80/a05719514/112233Aa/103482.ts
-#EXTINF:-1 tvg-name="Premiere 2 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72237.ts
-#EXTINF:-1 tvg-name="Premiere 2 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72238.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 2 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
-http://dnzplay.com:80/a05719514/112233Aa/72239.ts
-#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
-http://dnzplay.com:80/a05719514/112233Aa/72240.ts
-#EXTINF:-1 tvg-name="Premiere 3 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 4K
-http://dnzplay.com:80/a05719514/112233Aa/103481.ts
-#EXTINF:-1 tvg-name="Premiere 3 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72241.ts
-#EXTINF:-1 tvg-name="Premiere 3 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72242.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 3 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
-http://dnzplay.com:80/a05719514/112233Aa/72243.ts
-#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
-http://dnzplay.com:80/a05719514/112233Aa/72244.ts
-#EXTINF:-1 tvg-name="Premiere 4 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 4K
-http://dnzplay.com:80/a05719514/112233Aa/103480.ts
-#EXTINF:-1 tvg-name="Premiere 4 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72245.ts
-#EXTINF:-1 tvg-name="Premiere 4 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72246.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 4 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
-http://dnzplay.com:80/a05719514/112233Aa/72247.ts
-#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
-http://dnzplay.com:80/a05719514/112233Aa/72248.ts
-#EXTINF:-1 tvg-name="Premiere 5 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 4K
-http://dnzplay.com:80/a05719514/112233Aa/103479.ts
-#EXTINF:-1 tvg-name="Premiere 5 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72249.ts
-#EXTINF:-1 tvg-name="Premiere 5 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72250.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 5 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
-http://dnzplay.com:80/a05719514/112233Aa/72251.ts
-#EXTINF:-1 tvg-name="Premiere 5 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
-http://dnzplay.com:80/a05719514/112233Aa/72252.ts
-#EXTINF:-1 tvg-name="Premiere 6 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 4K
-http://dnzplay.com:80/a05719514/112233Aa/103478.ts
-#EXTINF:-1 tvg-name="Premiere 6 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72253.ts
-#EXTINF:-1 tvg-name="Premiere 6 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72254.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 6 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
-http://dnzplay.com:80/a05719514/112233Aa/72255.ts
-#EXTINF:-1 tvg-name="Premiere 6 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
-http://dnzplay.com:80/a05719514/112233Aa/72256.ts
-#EXTINF:-1 tvg-name="Premiere 7 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 4K
-http://dnzplay.com:80/a05719514/112233Aa/103477.ts
-#EXTINF:-1 tvg-name="Premiere 7 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72257.ts
-#EXTINF:-1 tvg-name="Premiere 7 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72258.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 7 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
-http://dnzplay.com:80/a05719514/112233Aa/72259.ts
-#EXTINF:-1 tvg-name="Premiere 7 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
-http://dnzplay.com:80/a05719514/112233Aa/72260.ts
-#EXTINF:-1 tvg-name="Premiere 8 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 4K
-http://dnzplay.com:80/a05719514/112233Aa/180162.ts
-#EXTINF:-1 tvg-name="Premiere 8 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD
-http://dnzplay.com:80/a05719514/112233Aa/180158.ts
-#EXTINF:-1 tvg-name="Premiere 8 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/180161.ts
-#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
-http://dnzplay.com:80/a05719514/112233Aa/180159.ts
-#EXTINF:-1 tvg-name="Premiere 8 SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 SD
-http://dnzplay.com:80/a05719514/112233Aa/180160.ts
-#EXTINF:-1 tvg-name="Premiere Clubes 4K" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes 4K
-http://dnzplay.com:80/a05719514/112233Aa/72264.ts
-#EXTINF:-1 tvg-name="Premiere Clubes FHD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
-http://dnzplay.com:80/a05719514/112233Aa/72262.ts
-#EXTINF:-1 tvg-name="Premiere Clubes FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72263.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere Clubes HD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
-http://dnzplay.com:80/a05719514/112233Aa/72265.ts
-#EXTINF:-1 tvg-name="Premiere Clubes SD" tvg-logo="http://dnzplay.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
-http://dnzplay.com:80/a05719514/112233Aa/72266.ts
-#EXTINF:-1 tvg-name="SporTV 2 4K" tvg-logo="http://dnzplay.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 4K
-http://dnzplay.com:80/a05719514/112233Aa/103472.ts
-#EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72321.ts
-#EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/131147.ts
-#EXTINF:-1 timeshift="7" tvg-name="SporTV 2 HD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
-http://dnzplay.com:80/a05719514/112233Aa/131176.ts
-#EXTINF:-1 tvg-name="SporTV 2 SD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
-http://dnzplay.com:80/a05719514/112233Aa/72324.ts
-#EXTINF:-1 tvg-name="SporTV 3 FHD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
-http://dnzplay.com:80/a05719514/112233Aa/72325.ts
-#EXTINF:-1 tvg-name="SporTV 3 FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72326.ts
-#EXTINF:-1 timeshift="7" tvg-name="SporTV 3 HD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
-http://dnzplay.com:80/a05719514/112233Aa/131113.ts
-#EXTINF:-1 tvg-name="SporTV 3 SD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
-http://dnzplay.com:80/a05719514/112233Aa/131108.ts
-#EXTINF:-1 tvg-name="SporTV 4K" tvg-logo="http://dnzplay.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV 4K
-http://dnzplay.com:80/a05719514/112233Aa/131188.ts
-#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
-http://dnzplay.com:80/a05719514/112233Aa/72329.ts
-#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="http://dnzplay.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD [H265]
-http://dnzplay.com:80/a05719514/112233Aa/72330.ts
-#EXTINF:-1 timeshift="7" tvg-name="SporTV HD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
-http://dnzplay.com:80/a05719514/112233Aa/72332.ts
-#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="http://dnzplay.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
-http://dnzplay.com:80/a05719514/112233Aa/131132.ts
-#EXTINF:-1 tvg-name="SporTV3 4K" tvg-logo="http://dnzplay.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3 4K
-http://dnzplay.com:80/a05719514/112233Aa/103471.ts
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71950.ts
+#EXTINF:-1 tvg-name="ESPN 5 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71954.ts
+#EXTINF:-1 tvg-name="ESPN 5 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71952.ts
+#EXTINF:-1 tvg-name="ESPN 5 [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71953.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 5 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71955.ts
+#EXTINF:-1 tvg-name="ESPN 5 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/71956.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 3 FHD" tvg-logo="" group-title="Canais | Prime Video",Copa do Brasil 3 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/142040.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 3 HD" tvg-logo="" group-title="Canais | Prime Video",Copa do Brasil 3 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/105789.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 3 SD" tvg-logo="" group-title="Canais | Prime Video",Copa do Brasil 3 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/142041.ts
+#EXTINF:-1 tvg-name="Paramount + 1 4K" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103524.ts
+#EXTINF:-1 tvg-name="Paramount + 1 FHD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72977.ts
+#EXTINF:-1 tvg-name="Paramount + 1 FHD [H265]" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72978.ts
+#EXTINF:-1 tvg-name="Paramount + 1 HD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72979.ts
+#EXTINF:-1 tvg-name="Paramount + 1 SD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72980.ts
+#EXTINF:-1 tvg-name="Paramount + 2 4K" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103523.ts
+#EXTINF:-1 tvg-name="Paramount + 2 FHD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72981.ts
+#EXTINF:-1 tvg-name="Paramount + 2 FHD [H265]" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72982.ts
+#EXTINF:-1 tvg-name="Paramount + 2 HD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72983.ts
+#EXTINF:-1 tvg-name="Paramount + 2 SD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72984.ts
+#EXTINF:-1 tvg-name="Paramount + 3 4K" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103522.ts
+#EXTINF:-1 tvg-name="Paramount + 3 FHD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72985.ts
+#EXTINF:-1 tvg-name="Paramount + 3 FHD [H265]" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72986.ts
+#EXTINF:-1 tvg-name="Paramount + 3 HD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72987.ts
+#EXTINF:-1 tvg-name="Paramount + 3 SD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72988.ts
+#EXTINF:-1 tvg-name="Paramount + 4 4K" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103521.ts
+#EXTINF:-1 tvg-name="Paramount + 4 FHD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72989.ts
+#EXTINF:-1 tvg-name="Paramount + 4 FHD [H265]" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72990.ts
+#EXTINF:-1 tvg-name="Paramount + 4 HD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72991.ts
+#EXTINF:-1 tvg-name="Paramount + 4 SD" tvg-logo="http://playnetclub.vip/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72992.ts
+#EXTINF:-1 tvg-name="Premiere 2 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103482.ts
+#EXTINF:-1 tvg-name="Premiere 2 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72237.ts
+#EXTINF:-1 tvg-name="Premiere 2 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72238.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 2 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72239.ts
+#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72240.ts
+#EXTINF:-1 tvg-name="Premiere 3 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103481.ts
+#EXTINF:-1 tvg-name="Premiere 3 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72241.ts
+#EXTINF:-1 tvg-name="Premiere 3 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72242.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 3 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72243.ts
+#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72244.ts
+#EXTINF:-1 tvg-name="Premiere 4 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103480.ts
+#EXTINF:-1 tvg-name="Premiere 4 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72245.ts
+#EXTINF:-1 tvg-name="Premiere 4 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72246.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 4 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72247.ts
+#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72248.ts
+#EXTINF:-1 tvg-name="Premiere 5 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103479.ts
+#EXTINF:-1 tvg-name="Premiere 5 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72249.ts
+#EXTINF:-1 tvg-name="Premiere 5 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72250.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 5 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72251.ts
+#EXTINF:-1 tvg-name="Premiere 5 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72252.ts
+#EXTINF:-1 tvg-name="Premiere 6 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103478.ts
+#EXTINF:-1 tvg-name="Premiere 6 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72253.ts
+#EXTINF:-1 tvg-name="Premiere 6 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72254.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 6 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72255.ts
+#EXTINF:-1 tvg-name="Premiere 6 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72256.ts
+#EXTINF:-1 tvg-name="Premiere 7 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103477.ts
+#EXTINF:-1 tvg-name="Premiere 7 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72257.ts
+#EXTINF:-1 tvg-name="Premiere 7 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72258.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 7 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72259.ts
+#EXTINF:-1 tvg-name="Premiere 7 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72260.ts
+#EXTINF:-1 tvg-name="Premiere 8 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/180162.ts
+#EXTINF:-1 tvg-name="Premiere 8 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/180158.ts
+#EXTINF:-1 tvg-name="Premiere 8 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/180161.ts
+#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/180159.ts
+#EXTINF:-1 tvg-name="Premiere 8 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/180160.ts
+#EXTINF:-1 tvg-name="Premiere Clubes 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72264.ts
+#EXTINF:-1 tvg-name="Premiere Clubes FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72262.ts
+#EXTINF:-1 tvg-name="Premiere Clubes FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72263.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere Clubes HD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72265.ts
+#EXTINF:-1 tvg-name="Premiere Clubes SD" tvg-logo="http://playnetclub.vip/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72266.ts
+#EXTINF:-1 tvg-name="SporTV 2 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103472.ts
+#EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72321.ts
+#EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/131147.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV 2 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/131176.ts
+#EXTINF:-1 tvg-name="SporTV 2 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72324.ts
+#EXTINF:-1 tvg-name="SporTV 3 FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72325.ts
+#EXTINF:-1 tvg-name="SporTV 3 FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72326.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV 3 HD" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/131113.ts
+#EXTINF:-1 tvg-name="SporTV 3 SD" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/131108.ts
+#EXTINF:-1 tvg-name="SporTV 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/131188.ts
+#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72329.ts
+#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD [H265]
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72330.ts
+#EXTINF:-1 timeshift="7" tvg-name="SporTV HD" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/72332.ts
+#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/131132.ts
+#EXTINF:-1 tvg-name="SporTV3 4K" tvg-logo="http://playnetclub.vip/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 4K
+http://playnetclub.vip:80/Eliroberto10/HRTv12345/103471.ts
