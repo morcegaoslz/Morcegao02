@@ -1,293 +1,267 @@
-#EXTM3U x-tvg-url="http://ztpppyfj.extatlas.com:88/xmltv.php?username=4021376495&password=2501002631"
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-name="Band SP FHD" tvg-logo="http://easytv17.pro/static/logos/canais/band.png" group-title="Canais | Abertos",Band SP FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/79311.ts
-#EXTINF:-1 tvg-name="Band SP FHD [H265]" tvg-logo="http://easytv17.pro/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="Canais | Abertos",Band SP FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/104943.ts
-#EXTINF:-1 timeshift="7" tvg-name="Band SP HD" tvg-logo="http://easytv17.pro/static/logos/canais/band.png" group-title="Canais | Abertos",Band SP HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72597.ts
-#EXTINF:-1 tvg-name="Band SP SD" tvg-logo="http://easytv17.pro/static/logos/canais/band.png" group-title="Canais | Abertos",Band SP SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/79312.ts
-#EXTINF:-1 tvg-name="Band Sports 4K" tvg-logo="http://easytv17.pro/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103525.ts
-#EXTINF:-1 tvg-name="Band Sports FHD" tvg-logo="http://easytv17.pro/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71801.ts
-#EXTINF:-1 tvg-name="Band Sports FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/71802.ts
-#EXTINF:-1 timeshift="7" tvg-name="Band Sports HD" tvg-logo="http://easytv17.pro/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71803.ts
-#EXTINF:-1 tvg-name="Band Sports SD" tvg-logo="http://easytv17.pro/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71804.ts
-#EXTINF:-1 tvg-name="Combate 4K" tvg-logo="http://easytv17.pro/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/71844.ts
-#EXTINF:-1 tvg-name="Combate FHD" tvg-logo="http://easytv17.pro/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71842.ts
-#EXTINF:-1 tvg-name="Combate FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/71843.ts
-#EXTINF:-1 timeshift="7" tvg-name="Combate HD" tvg-logo="http://easytv17.pro/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71845.ts
-#EXTINF:-1 tvg-name="Combate SD" tvg-logo="http://easytv17.pro/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71846.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 1 FHD" tvg-logo="http://easytv17.pro/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/150498.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 1 HD" tvg-logo="http://easytv17.pro/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/150499.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 1 SD" tvg-logo="http://easytv17.pro/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/150500.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 2 FHD" tvg-logo="http://easytv17.pro/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/150501.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 2 HD" tvg-logo="http://easytv17.pro/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/150502.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 2 SD" tvg-logo="http://easytv17.pro/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/150503.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 3 FHD" tvg-logo="" group-title="Canais | Prime Video",Copa do Brasil 3 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/142040.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 3 HD" tvg-logo="" group-title="Canais | Prime Video",Copa do Brasil 3 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/105789.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 3 SD" tvg-logo="" group-title="Canais | Prime Video",Copa do Brasil 3 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/142041.ts
-#EXTINF:-1 tvg-name="ESPN FHD" tvg-logo="http://easytv17.pro/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71911.ts
-#EXTINF:-1 tvg-name="ESPN FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/71912.ts
-#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://easytv17.pro/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71913.ts
-#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="http://easytv17.pro/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71914.ts
-#EXTINF:-1 tvg-name="ESPN 2 4K" tvg-logo="http://easytv17.pro/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/71921.ts
-#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71919.ts
-#EXTINF:-1 tvg-name="ESPN 2 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/71920.ts
-#EXTINF:-1 timeshift="7" tvg-name="ESPN 2 HD" tvg-logo="http://easytv17.pro/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71922.ts
-#EXTINF:-1 tvg-name="ESPN 2 SD" tvg-logo="http://easytv17.pro/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71923.ts
-#EXTINF:-1 tvg-name="ESPN 3 4K" tvg-logo="http://easytv17.pro/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103504.ts
-#EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71907.ts
-#EXTINF:-1 tvg-name="ESPN 3 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/71908.ts
-#EXTINF:-1 timeshift="7" tvg-name="ESPN 3 HD" tvg-logo="http://easytv17.pro/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71909.ts
-#EXTINF:-1 tvg-name="ESPN 3 SD" tvg-logo="http://easytv17.pro/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71910.ts
-#EXTINF:-1 tvg-name="ESPN 4 4K" tvg-logo="http://easytv17.pro/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/71959.ts
-#EXTINF:-1 tvg-name="ESPN 4 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71957.ts
-#EXTINF:-1 tvg-name="ESPN 4 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/71958.ts
-#EXTINF:-1 timeshift="7" tvg-name="ESPN 4 HD" tvg-logo="http://easytv17.pro/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71960.ts
-#EXTINF:-1 tvg-name="ESPN 4 SD" tvg-logo="http://easytv17.pro/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71961.ts
-#EXTINF:-1 tvg-name="ESPN 4K" tvg-logo="http://easytv17.pro/static/logos/canais/espnbrasil.png" group-title="Canais | ESPN",ESPN 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/90640.ts
-#EXTINF:-1 tvg-name="ESPN 5 4K" tvg-logo="http://easytv17.pro/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/71954.ts
-#EXTINF:-1 tvg-name="ESPN 5 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71952.ts
-#EXTINF:-1 tvg-name="ESPN 5 [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/71953.ts
-#EXTINF:-1 timeshift="7" tvg-name="ESPN 5 HD" tvg-logo="http://easytv17.pro/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71955.ts
-#EXTINF:-1 tvg-name="ESPN 5 SD" tvg-logo="http://easytv17.pro/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71956.ts
-#EXTINF:-1 tvg-name="ESPN 6 4K" tvg-logo="http://easytv17.pro/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103505.ts
-#EXTINF:-1 tvg-name="ESPN 6 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71915.ts
-#EXTINF:-1 tvg-name="ESPN 6 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/71916.ts
-#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="http://easytv17.pro/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71917.ts
-#EXTINF:-1 tvg-name="ESPN 6 SD" tvg-logo="http://easytv17.pro/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71918.ts
-#EXTINF:-1 tvg-name="Caze TV FHD" tvg-logo="" group-title="Canais | PPV",Caze TV FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/76671.ts
-#EXTINF:-1 tvg-name="Formula 1 TV FHD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71947.ts
-#EXTINF:-1 tvg-name="Formula 1 TV HD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71949.ts
-#EXTINF:-1 tvg-name="Formula 1 TV SD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/71950.ts
-#EXTINF:-1 tvg-name="Paramount + 1 4K" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103524.ts
-#EXTINF:-1 tvg-name="Paramount + 1 FHD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72977.ts
-#EXTINF:-1 tvg-name="Paramount + 1 FHD [H265]" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72978.ts
-#EXTINF:-1 tvg-name="Paramount + 1 HD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72979.ts
-#EXTINF:-1 tvg-name="Paramount + 1 SD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72980.ts
-#EXTINF:-1 tvg-name="Paramount + 2 4K" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103523.ts
-#EXTINF:-1 tvg-name="Paramount + 2 FHD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72981.ts
-#EXTINF:-1 tvg-name="Paramount + 2 FHD [H265]" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72982.ts
-#EXTINF:-1 tvg-name="Paramount + 2 HD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72983.ts
-#EXTINF:-1 tvg-name="Paramount + 2 SD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72984.ts
-#EXTINF:-1 tvg-name="Paramount + 3 4K" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103522.ts
-#EXTINF:-1 tvg-name="Paramount + 3 FHD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72985.ts
-#EXTINF:-1 tvg-name="Paramount + 3 FHD [H265]" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72986.ts
-#EXTINF:-1 tvg-name="Paramount + 3 HD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72987.ts
-#EXTINF:-1 tvg-name="Paramount + 3 SD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72988.ts
-#EXTINF:-1 tvg-name="Paramount + 4 4K" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103521.ts
-#EXTINF:-1 tvg-name="Paramount + 4 FHD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72989.ts
-#EXTINF:-1 tvg-name="Paramount + 4 FHD [H265]" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72990.ts
-#EXTINF:-1 tvg-name="Paramount + 4 HD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72991.ts
-#EXTINF:-1 tvg-name="Paramount + 4 SD" tvg-logo="http://easytv17.pro/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72992.ts
-#EXTINF:-1 tvg-name="Premiere Clubes 4K" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/72264.ts
-#EXTINF:-1 tvg-name="Premiere Clubes FHD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72262.ts
-#EXTINF:-1 tvg-name="Premiere Clubes FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72263.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere Clubes HD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72265.ts
-#EXTINF:-1 tvg-name="Premiere Clubes SD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72266.ts
-#EXTINF:-1 tvg-name="Premiere 2 4K" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103482.ts
-#EXTINF:-1 tvg-name="Premiere 2 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72237.ts
-#EXTINF:-1 tvg-name="Premiere 2 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72238.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 2 HD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72239.ts
-#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72240.ts
-#EXTINF:-1 tvg-name="Premiere 3 4K" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103481.ts
-#EXTINF:-1 tvg-name="Premiere 3 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72241.ts
-#EXTINF:-1 tvg-name="Premiere 3 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72242.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 3 HD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72243.ts
-#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72244.ts
-#EXTINF:-1 tvg-name="Premiere 4 4K" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103480.ts
-#EXTINF:-1 tvg-name="Premiere 4 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72245.ts
-#EXTINF:-1 tvg-name="Premiere 4 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72246.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 4 HD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72247.ts
-#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72248.ts
-#EXTINF:-1 tvg-name="Premiere 5 4K" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103479.ts
-#EXTINF:-1 tvg-name="Premiere 5 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72249.ts
-#EXTINF:-1 tvg-name="Premiere 5 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72250.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 5 HD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72251.ts
-#EXTINF:-1 tvg-name="Premiere 5 SD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72252.ts
-#EXTINF:-1 tvg-name="Premiere 6 4K" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103478.ts
-#EXTINF:-1 tvg-name="Premiere 6 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72253.ts
-#EXTINF:-1 tvg-name="Premiere 6 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72254.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 6 HD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72255.ts
-#EXTINF:-1 tvg-name="Premiere 6 SD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72256.ts
-#EXTINF:-1 tvg-name="Premiere 7 4K" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103477.ts
-#EXTINF:-1 tvg-name="Premiere 7 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72257.ts
-#EXTINF:-1 tvg-name="Premiere 7 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72258.ts
-#EXTINF:-1 timeshift="7" tvg-name="Premiere 7 HD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72259.ts
-#EXTINF:-1 tvg-name="Premiere 7 SD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72260.ts
-#EXTINF:-1 tvg-name="Premiere 8 4K" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/180162.ts
-#EXTINF:-1 tvg-name="Premiere 8 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/180158.ts
-#EXTINF:-1 tvg-name="Premiere 8 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/180161.ts
-#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/180159.ts
-#EXTINF:-1 tvg-name="Premiere 8 SD" tvg-logo="http://easytv17.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/180160.ts
-#EXTINF:-1 tvg-name="SporTV 4K" tvg-logo="http://easytv17.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/131188.ts
-#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="http://easytv17.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72329.ts
-#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72330.ts
-#EXTINF:-1 timeshift="7" tvg-name="SporTV HD" tvg-logo="http://easytv17.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72332.ts
-#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="http://easytv17.pro/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/131132.ts
-#EXTINF:-1 tvg-name="SporTV 2 4K" tvg-logo="http://easytv17.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103472.ts
-#EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72321.ts
-#EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/131147.ts
-#EXTINF:-1 timeshift="7" tvg-name="SporTV 2 HD" tvg-logo="http://easytv17.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/131176.ts
-#EXTINF:-1 tvg-name="SporTV 2 SD" tvg-logo="http://easytv17.pro/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72324.ts
-#EXTINF:-1 tvg-name="SporTV3 4K" tvg-logo="http://easytv17.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3 4K
-http://easytv17.pro:80/pablo1879b/Refeito1a/103471.ts
-#EXTINF:-1 tvg-name="SporTV 3 FHD" tvg-logo="http://easytv17.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/72325.ts
-#EXTINF:-1 tvg-name="SporTV 3 FHD [H265]" tvg-logo="http://easytv17.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [H265]
-http://easytv17.pro:80/pablo1879b/Refeito1a/72326.ts
-#EXTINF:-1 timeshift="7" tvg-name="SporTV 3 HD" tvg-logo="http://easytv17.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/131113.ts
-#EXTINF:-1 tvg-name="SporTV 3 SD" tvg-logo="http://easytv17.pro/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/131108.ts
-#EXTINF:-1 tvg-name="Disney + 1 FHD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 1 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/142032.ts
-#EXTINF:-1 tvg-name="Disney + 1 HD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 1 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/128347.ts
-#EXTINF:-1 tvg-name="Disney + 1 SD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 1 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/142033.ts
-#EXTINF:-1 tvg-name="Disney + 2 FHD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 2 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/142034.ts
-#EXTINF:-1 tvg-name="Disney + 2 HD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 2 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/129345.ts
-#EXTINF:-1 tvg-name="Disney + 2 SD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 2 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/142035.ts
-#EXTINF:-1 tvg-name="Disney + 3 FHD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 3 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/142036.ts
-#EXTINF:-1 tvg-name="Disney + 3 HD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 3 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/129346.ts
-#EXTINF:-1 tvg-name="Disney + 3 SD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 3 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/142037.ts
-#EXTINF:-1 tvg-name="Disney + 4 FHD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 4 FHD
-http://easytv17.pro:80/pablo1879b/Refeito1a/142038.ts
-#EXTINF:-1 tvg-name="Disney + 4 HD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 4 HD
-http://easytv17.pro:80/pablo1879b/Refeito1a/129347.ts
-#EXTINF:-1 tvg-name="Disney + 4 SD" tvg-logo="http://easytv17.pro/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 4 SD
-http://easytv17.pro:80/pablo1879b/Refeito1a/142039.ts
-
-
-
+#EXTM3U
+#EXTINF:-1 tvg-id="53" tvg-name="CazeTV" tvg-logo="http://plexys.top/logos/canais/cazetv.png" tvg-country="Unknown" group-title="C ⚽ CAZE TV" tvg-flag="",CazeTV
+http://homestreaming.click:80/live/04060957/71666352/7774700.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 01 (Eventos)" tvg-logo="http://plexys.top/logos/canais/cazetv.png" tvg-country="Unknown" group-title="C ⚽ CAZE TV" tvg-flag="",CazeTV 01 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7774701.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 02 (Eventos)" tvg-logo="http://plexys.top/logos/canais/cazetv.png" tvg-country="Unknown" group-title="C ⚽ CAZE TV" tvg-flag="",CazeTV 02 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7774702.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 03 (Eventos)" tvg-logo="http://plexys.top/logos/canais/cazetv.png" tvg-country="Unknown" group-title="C ⚽ CAZE TV" tvg-flag="",CazeTV 03 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7774703.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazéTV 4K" tvg-logo="http://plexys.top/logos/canais/cazetv.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",CazéTV 4K
+http://homestreaming.click:80/live/04060957/71666352/7774704.ts
+#EXTINF:-1 tvg-id="Combate 4K" tvg-name="Combate FHD" tvg-logo="https://nicnet.com.br/media/aplicativo/icon%20combate.png" tvg-country="Unknown" group-title="C • COMBATE" tvg-flag="",Combate FHD
+http://homestreaming.click:80/live/04060957/71666352/7774723.ts
+#EXTINF:-1 tvg-id="Combate 4K" tvg-name="Combate HD" tvg-logo="https://nicnet.com.br/media/aplicativo/icon%20combate.png" tvg-country="Unknown" group-title="C • COMBATE" tvg-flag="",Combate HD
+http://homestreaming.click:80/live/04060957/71666352/7774724.ts
+#EXTINF:-1 tvg-id="Combate 4K" tvg-name="Combate SD" tvg-logo="https://nicnet.com.br/media/aplicativo/icon%20combate.png" tvg-country="Unknown" group-title="C • COMBATE" tvg-flag="",Combate SD
+http://homestreaming.click:80/live/04060957/71666352/7774725.ts
+#EXTINF:-1 tvg-id="Dazn 1 HD" tvg-name="DAZN 1 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/dazn.png" tvg-country="Unknown" group-title="C ⚽ESPORTES" tvg-flag="",DAZN 1 HD
+http://homestreaming.click:80/live/04060957/71666352/7774743.ts
+#EXTINF:-1 tvg-id="Dazn 2 HD" tvg-name="DAZN 2 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/dazn.png" tvg-country="Unknown" group-title="C ⚽ESPORTES" tvg-flag="",DAZN 2 HD
+http://homestreaming.click:80/live/04060957/71666352/7774744.ts
+#EXTINF:-1 tvg-id="Dazn 3 HD" tvg-name="DAZN 3 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/dazn.png" tvg-country="Unknown" group-title="C ⚽ESPORTES" tvg-flag="",DAZN 3 HD
+http://homestreaming.click:80/live/04060957/71666352/7774745.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 01" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 01
+http://homestreaming.click:80/live/04060957/71666352/7774780.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 02" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 02
+http://homestreaming.click:80/live/04060957/71666352/7774781.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 03" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 03
+http://homestreaming.click:80/live/04060957/71666352/7774782.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 04" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 04
+http://homestreaming.click:80/live/04060957/71666352/7774783.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 05" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 05
+http://homestreaming.click:80/live/04060957/71666352/7774784.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 06" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 06
+http://homestreaming.click:80/live/04060957/71666352/7774785.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 07" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 07
+http://homestreaming.click:80/live/04060957/71666352/7774786.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 08" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 08
+http://homestreaming.click:80/live/04060957/71666352/7774787.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 09" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 09
+http://homestreaming.click:80/live/04060957/71666352/7774788.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 10" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 10
+http://homestreaming.click:80/live/04060957/71666352/7774789.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 11" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 11
+http://homestreaming.click:80/live/04060957/71666352/7774790.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 12" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 12
+http://homestreaming.click:80/live/04060957/71666352/7774791.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 13" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 13
+http://homestreaming.click:80/live/04060957/71666352/7774792.ts
+#EXTINF:-1 tvg-id="Disney HD.br" tvg-name="Disney+ 14" tvg-logo="https://store-images.s-microsoft.com/image/apps.14187.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.2e474878-acb7-4afb-a503-c2a1a32feaa8" tvg-country="Unknown" group-title="C • ⚽ DISNEY PLUS" tvg-flag="",Disney+ 14
+http://homestreaming.click:80/live/04060957/71666352/7774793.ts
+#EXTINF:-1 tvg-id="329" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://play-lh.googleusercontent.com/yDoQHXRk8hZN5ebQUl47bxkIrqllQs7AOjui5TcC_RpJEsPaLIurXOEkMJmXHY0rzT8" tvg-country="Unknown" group-title="C ⚽ESPORTES" tvg-flag="",ELEVEN SPORTS 1
+http://homestreaming.click:80/live/04060957/71666352/7774800.ts
+#EXTINF:-1 tvg-id="329" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://play-lh.googleusercontent.com/yDoQHXRk8hZN5ebQUl47bxkIrqllQs7AOjui5TcC_RpJEsPaLIurXOEkMJmXHY0rzT8" tvg-country="Unknown" group-title="C ⚽ESPORTES" tvg-flag="",ELEVEN SPORTS 3
+http://homestreaming.click:80/live/04060957/71666352/7774801.ts
+#EXTINF:-1 tvg-id="ESPN 4k" tvg-name="ESPN FHD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN FHD
+http://homestreaming.click:80/live/04060957/71666352/7774835.ts
+#EXTINF:-1 tvg-id="ESPN 4k" tvg-name="ESPN HD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN HD
+http://homestreaming.click:80/live/04060957/71666352/7774836.ts
+#EXTINF:-1 tvg-id="ESPN 4k" tvg-name="ESPN SD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN SD
+http://homestreaming.click:80/live/04060957/71666352/7774837.ts
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 4K" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",ESPN 2 4K
+http://homestreaming.click:80/live/04060957/71666352/7774815.ts
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 FHD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 2 FHD
+http://homestreaming.click:80/live/04060957/71666352/7774816.ts
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 2 HD
+http://homestreaming.click:80/live/04060957/71666352/7774817.ts
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 SD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 2 SD
+http://homestreaming.click:80/live/04060957/71666352/7774818.ts
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 4K" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",ESPN 3 4K
+http://homestreaming.click:80/live/04060957/71666352/7774819.ts
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 FHD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 3 FHD
+http://homestreaming.click:80/live/04060957/71666352/7774820.ts
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 3 HD
+http://homestreaming.click:80/live/04060957/71666352/7774821.ts
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 SD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 3 SD
+http://homestreaming.click:80/live/04060957/71666352/7774822.ts
+#EXTINF:-1 tvg-id="ESPN 4 4K" tvg-name="ESPN 4 4K" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",ESPN 4 4K
+http://homestreaming.click:80/live/04060957/71666352/7774823.ts
+#EXTINF:-1 tvg-id="ESPN 4 4K" tvg-name="ESPN 4 FHD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 4 FHD
+http://homestreaming.click:80/live/04060957/71666352/7774824.ts
+#EXTINF:-1 tvg-id="ESPN 4 4K" tvg-name="ESPN 4 HD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 4 HD
+http://homestreaming.click:80/live/04060957/71666352/7774825.ts
+#EXTINF:-1 tvg-id="ESPN 4 4K" tvg-name="ESPN 4 SD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 4 SD
+http://homestreaming.click:80/live/04060957/71666352/7774826.ts
+#EXTINF:-1 tvg-id="ESPN 4k" tvg-name="ESPN 4K" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",ESPN 4K
+http://homestreaming.click:80/live/04060957/71666352/7774827.ts
+#EXTINF:-1 tvg-id="ESPN 4k" tvg-name="ESPN 5 4K" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",ESPN 5 4K
+http://homestreaming.click:80/live/04060957/71666352/7774828.ts
+#EXTINF:-1 tvg-id="ESPN 4k" tvg-name="ESPN 5 FHD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 5 FHD
+http://homestreaming.click:80/live/04060957/71666352/7774829.ts
+#EXTINF:-1 tvg-id="ESPN 4k" tvg-name="ESPN 5 HD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 5 HD
+http://homestreaming.click:80/live/04060957/71666352/7774830.ts
+#EXTINF:-1 tvg-id="ESPN 4k" tvg-name="ESPN 5 SD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 5 SD
+http://homestreaming.click:80/live/04060957/71666352/7774831.ts
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 FHD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 6 FHD
+http://homestreaming.click:80/live/04060957/71666352/7774832.ts
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 HD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 6 HD
+http://homestreaming.click:80/live/04060957/71666352/7774833.ts
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 SD" tvg-logo="https://logo.xtvplus.top/esportes/espn.png" tvg-country="Unknown" group-title="C ⚽ ESPN" tvg-flag="",ESPN 6 SD
+http://homestreaming.click:80/live/04060957/71666352/7774834.ts
+#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1 (Conmebol)" tvg-logo="https://www.fontedoscanais.com/logos/canais/paramountplus.png" tvg-country="Unknown" group-title="C • ⚽ PARAMOUNT +" tvg-flag="",Paramount+ 1 (Conmebol)
+http://homestreaming.click:80/live/04060957/71666352/7775074.ts
+#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2 (Conmebol)" tvg-logo="https://www.fontedoscanais.com/logos/canais/paramountplus.png" tvg-country="Unknown" group-title="C • ⚽ PARAMOUNT +" tvg-flag="",Paramount+ 2 (Conmebol)
+http://homestreaming.click:80/live/04060957/71666352/7775075.ts
+#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3 (Conmebol)" tvg-logo="https://www.fontedoscanais.com/logos/canais/paramountplus.png" tvg-country="Unknown" group-title="C • ⚽ PARAMOUNT +" tvg-flag="",Paramount+ 3 (Conmebol)
+http://homestreaming.click:80/live/04060957/71666352/7775076.ts
+#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4 (Conmebol)" tvg-logo="https://www.fontedoscanais.com/logos/canais/paramountplus.png" tvg-country="Unknown" group-title="C • ⚽ PARAMOUNT +" tvg-flag="",Paramount+ 4 (Conmebol)
+http://homestreaming.click:80/live/04060957/71666352/7775077.ts
+#EXTINF:-1 tvg-id="Paramount FHD" tvg-name="Paramount+ 5 (Eventos)" tvg-logo="https://www.fontedoscanais.com/logos/canais/paramountplus.png" tvg-country="Unknown" group-title="C • ⚽ PARAMOUNT +" tvg-flag="",Paramount+ 5 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775078.ts
+#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 6 (Eventos)" tvg-logo="https://www.fontedoscanais.com/logos/canais/paramountplus.png" tvg-country="Unknown" group-title="C • ⚽ PARAMOUNT +" tvg-flag="",Paramount+ 6 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775079.ts
+#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 7 (Eventos)" tvg-logo="" tvg-country="Unknown" group-title="C • ⚽ PARAMOUNT +" tvg-flag="",Paramount+ 7 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775080.ts
+#EXTINF:-1 tvg-id="Premiere Clubes 4K" tvg-name="Premiere Clubes 4K" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",Premiere Clubes 4K
+http://homestreaming.click:80/live/04060957/71666352/7775087.ts
+#EXTINF:-1 tvg-id="Premiere Clubes 4K" tvg-name="Premiere Clube FHD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere Clube FHD
+http://homestreaming.click:80/live/04060957/71666352/7775088.ts
+#EXTINF:-1 tvg-id="Premiere Clubes 4K" tvg-name="Premiere Clube HD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere Clube HD
+http://homestreaming.click:80/live/04060957/71666352/7775089.ts
+#EXTINF:-1 tvg-id="Premiere Clubes 4K" tvg-name="Premiere Clube SD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere Clube SD
+http://homestreaming.click:80/live/04060957/71666352/7775090.ts
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 4K" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",Premiere 2 4K
+http://homestreaming.click:80/live/04060957/71666352/7775091.ts
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 FHD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 2 FHD
+http://homestreaming.click:80/live/04060957/71666352/7775092.ts
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 2 HD
+http://homestreaming.click:80/live/04060957/71666352/7775093.ts
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 SD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 2 SD
+http://homestreaming.click:80/live/04060957/71666352/7775094.ts
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 4K" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",Premiere 3 4K
+http://homestreaming.click:80/live/04060957/71666352/7775095.ts
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 FHD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 3 FHD
+http://homestreaming.click:80/live/04060957/71666352/7775096.ts
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 3 HD
+http://homestreaming.click:80/live/04060957/71666352/7775097.ts
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 SD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 3 SD
+http://homestreaming.click:80/live/04060957/71666352/7775098.ts
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 4K" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",Premiere 4 4K
+http://homestreaming.click:80/live/04060957/71666352/7775099.ts
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 FHD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 4 FHD
+http://homestreaming.click:80/live/04060957/71666352/7775100.ts
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 4 HD
+http://homestreaming.click:80/live/04060957/71666352/7775101.ts
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 SD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 4 SD
+http://homestreaming.click:80/live/04060957/71666352/7775102.ts
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 4K" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",Premiere 5 4K
+http://homestreaming.click:80/live/04060957/71666352/7775103.ts
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 FHD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 5 FHD
+http://homestreaming.click:80/live/04060957/71666352/7775104.ts
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 5 HD
+http://homestreaming.click:80/live/04060957/71666352/7775105.ts
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 SD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 5 SD
+http://homestreaming.click:80/live/04060957/71666352/7775106.ts
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 4K" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",Premiere 6 4K
+http://homestreaming.click:80/live/04060957/71666352/7775107.ts
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 FHD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 6 FHD
+http://homestreaming.click:80/live/04060957/71666352/7775108.ts
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 6 HD
+http://homestreaming.click:80/live/04060957/71666352/7775109.ts
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 SD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 6 SD
+http://homestreaming.click:80/live/04060957/71666352/7775110.ts
+#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-name="Premiere 7 4K" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",Premiere 7 4K
+http://homestreaming.click:80/live/04060957/71666352/7775111.ts
+#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-name="Premiere 7 FHD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 7 FHD
+http://homestreaming.click:80/live/04060957/71666352/7775112.ts
+#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-name="Premiere 7 HD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 7 HD
+http://homestreaming.click:80/live/04060957/71666352/7775113.ts
+#EXTINF:-1 tvg-id="Premiere 7 SD" tvg-name="Premiere 7 SD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 7 SD
+http://homestreaming.click:80/live/04060957/71666352/7775114.ts
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 4K" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",Premiere 8 4K
+http://homestreaming.click:80/live/04060957/71666352/7775115.ts
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 FHD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 8 FHD
+http://homestreaming.click:80/live/04060957/71666352/7775116.ts
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 HD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 8 HD
+http://homestreaming.click:80/live/04060957/71666352/7775117.ts
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="http://plexys.top/logos/canais/premiere.png" tvg-country="Unknown" group-title="C ⚽PREMIERE CLUBE" tvg-flag="",Premiere 8 SD
+http://homestreaming.click:80/live/04060957/71666352/7775118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 01 (Eventos)" tvg-logo="https://img.icons8.com/fluent/1200/amazon-prime-video.jpg" tvg-country="Unknown" group-title="C • ⚽ PRIME VIDEO" tvg-flag="",Prime Video 01 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775119.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 02 (Eventos)" tvg-logo="https://img.icons8.com/fluent/1200/amazon-prime-video.jpg" tvg-country="Unknown" group-title="C • ⚽ PRIME VIDEO" tvg-flag="",Prime Video 02 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 03 (Eventos)" tvg-logo="https://img.icons8.com/fluent/1200/amazon-prime-video.jpg" tvg-country="Unknown" group-title="C • ⚽ PRIME VIDEO" tvg-flag="",Prime Video 03 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 04 (Eventos)" tvg-logo="https://img.icons8.com/fluent/1200/amazon-prime-video.jpg" tvg-country="Unknown" group-title="C • ⚽ PRIME VIDEO" tvg-flag="",Prime Video 04 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 05 (Eventos)" tvg-logo="https://img.icons8.com/fluent/1200/amazon-prime-video.jpg" tvg-country="Unknown" group-title="C • ⚽ PRIME VIDEO" tvg-flag="",Prime Video 05 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775123.ts
+#EXTINF:-1 tvg-id="SporTV 4K" tvg-name="Sportv 4K" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",Sportv 4K
+http://homestreaming.click:80/live/04060957/71666352/7775447.ts
+#EXTINF:-1 tvg-id="SporTV 4K" tvg-name="SporTV FHD" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="C ⚽SPORTV" tvg-flag="",SporTV FHD
+http://homestreaming.click:80/live/04060957/71666352/7775448.ts
+#EXTINF:-1 tvg-id="SporTV 4K" tvg-name="SporTV HD" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="C ⚽SPORTV" tvg-flag="",SporTV HD
+http://homestreaming.click:80/live/04060957/71666352/7775449.ts
+#EXTINF:-1 tvg-id="SporTV 4K" tvg-name="SporTV SD" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="C ⚽SPORTV" tvg-flag="",SporTV SD
+http://homestreaming.click:80/live/04060957/71666352/7775450.ts
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv 2 4K" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",Sportv 2 4K
+http://homestreaming.click:80/live/04060957/71666352/7775439.ts
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 FHD" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="C ⚽SPORTV" tvg-flag="",SporTV 2 FHD
+http://homestreaming.click:80/live/04060957/71666352/7775440.ts
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 HD" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="C ⚽SPORTV" tvg-flag="",SporTV 2 HD
+http://homestreaming.click:80/live/04060957/71666352/7775441.ts
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SporTV 2 SD" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="C ⚽SPORTV" tvg-flag="",SporTV 2 SD
+http://homestreaming.click:80/live/04060957/71666352/7775442.ts
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="Sportv 3 4K" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="✨ 4K" tvg-flag="",Sportv 3 4K
+http://homestreaming.click:80/live/04060957/71666352/7775443.ts
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SporTV 3 FHD" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="C ⚽SPORTV" tvg-flag="",SporTV 3 FHD
+http://homestreaming.click:80/live/04060957/71666352/7775444.ts
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SporTV 3 HD" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="C ⚽SPORTV" tvg-flag="",SporTV 3 HD
+http://homestreaming.click:80/live/04060957/71666352/7775445.ts
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SporTV 3 SD" tvg-logo="https://logo.xtvplus.top/esportes/sportv.png" tvg-country="Unknown" group-title="C ⚽SPORTV" tvg-flag="",SporTV 3 SD
+http://homestreaming.click:80/live/04060957/71666352/7775446.ts
+#EXTINF:-1 tvg-id="296" tvg-name="SportyNet" tvg-logo="http://canais.is/imgs/sporty-net-1-channel-min.png" tvg-country="Unknown" group-title="C • ⚽ SPORTYNET" tvg-flag="",SportyNet
+http://homestreaming.click:80/live/04060957/71666352/7775451.ts
+#EXTINF:-1 tvg-id="296" tvg-name="SportyNet +01" tvg-logo="http://canais.is/imgs/sporty-net-1-channel-min.png" tvg-country="Unknown" group-title="C • ⚽ SPORTYNET" tvg-flag="",SportyNet +01
+http://homestreaming.click:80/live/04060957/71666352/7775452.ts
+#EXTINF:-1 tvg-id="297" tvg-name="SportyNet +02" tvg-logo="http://canais.is/imgs/sporty-net-1-channel-min.png" tvg-country="Unknown" group-title="C • ⚽ SPORTYNET" tvg-flag="",SportyNet +02
+http://homestreaming.click:80/live/04060957/71666352/7775453.ts
+#EXTINF:-1 tvg-id="298" tvg-name="SportyNet +03" tvg-logo="http://canais.is/imgs/sporty-net-1-channel-min.png" tvg-country="Unknown" group-title="C • ⚽ SPORTYNET" tvg-flag="",SportyNet +03
+http://homestreaming.click:80/live/04060957/71666352/7775454.ts
+#EXTINF:-1 tvg-id="439" tvg-name="XSPORTS FHD" tvg-logo="" tvg-country="Unknown" group-title="C • ⚽ XSPORTS" tvg-flag="",XSPORTS FHD
+http://homestreaming.click:80/live/04060957/71666352/7775693.ts
+#EXTINF:-1 tvg-id="439" tvg-name="XSPORTS HD" tvg-logo="" tvg-country="Unknown" group-title="C • ⚽ XSPORTS" tvg-flag="",XSPORTS HD
+http://homestreaming.click:80/live/04060957/71666352/7775694.ts
+#EXTINF:-1 tvg-id="439" tvg-name="XSPORTS SD" tvg-logo="" tvg-country="Unknown" group-title="C • ⚽ XSPORTS" tvg-flag="",XSPORTS SD
+http://homestreaming.click:80/live/04060957/71666352/7775695.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZUMBA" tvg-logo="http://24h.fontx.top:8081/thumbnails/24h.png" tvg-country="Unknown" group-title="C • 24H Musicas" tvg-flag="",ZUMBA
+http://homestreaming.click:80/live/04060957/71666352/7775696.ts
+#EXTINF:-1 tvg-id="466" tvg-name="GE TV HD" tvg-logo="https://s04.video.glbimg.com/x720/11134179.jpg" tvg-country="Unknown" group-title="C ⚽ESPORTES" tvg-flag="",GE TV HD
+http://homestreaming.click:80/live/04060957/71666352/7775698.ts
+#EXTINF:-1 tvg-id="466" tvg-name="GE TV SD" tvg-logo="https://s04.video.glbimg.com/x720/11134179.jpg" tvg-country="Unknown" group-title="C ⚽ESPORTES" tvg-flag="",GE TV SD
+http://homestreaming.click:80/live/04060957/71666352/7775699.ts
+#EXTINF:-1 tvg-id="329" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://play-lh.googleusercontent.com/yDoQHXRk8hZN5ebQUl47bxkIrqllQs7AOjui5TcC_RpJEsPaLIurXOEkMJmXHY0rzT8" tvg-country="Unknown" group-title="C ⚽ESPORTES" tvg-flag="",ELEVEN SPORTS 2
+http://homestreaming.click:80/live/04060957/71666352/7775700.ts
+#EXTINF:-1 tvg-id="439" tvg-name="XSPORTS FHD ²" tvg-logo="" tvg-country="Unknown" group-title="C • ⚽ XSPORTS" tvg-flag="",XSPORTS FHD ²
+http://homestreaming.click:80/live/04060957/71666352/7775701.ts
+#EXTINF:-1 tvg-id="439" tvg-name="XSPORTS HD ²" tvg-logo="" tvg-country="Unknown" group-title="C • ⚽ XSPORTS" tvg-flag="",XSPORTS HD ²
+http://homestreaming.click:80/live/04060957/71666352/7775702.ts
+#EXTINF:-1 tvg-id="439" tvg-name="XSPORTS SD ²" tvg-logo="" tvg-country="Unknown" group-title="C • ⚽ XSPORTS" tvg-flag="",XSPORTS SD ²
+http://homestreaming.click:80/live/04060957/71666352/7775703.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 08 (Eventos)" tvg-logo="http://plexys.top/logos/canais/cazetv.png" tvg-country="Unknown" group-title="C ⚽ CAZE TV" tvg-flag="",CazeTV 08 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775704.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 07 (Eventos)" tvg-logo="http://plexys.top/logos/canais/cazetv.png" tvg-country="Unknown" group-title="C ⚽ CAZE TV" tvg-flag="",CazeTV 07 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775705.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 06 (Eventos)" tvg-logo="http://plexys.top/logos/canais/cazetv.png" tvg-country="Unknown" group-title="C ⚽ CAZE TV" tvg-flag="",CazeTV 06 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775706.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 05 (Eventos)" tvg-logo="http://plexys.top/logos/canais/cazetv.png" tvg-country="Unknown" group-title="C ⚽ CAZE TV" tvg-flag="",CazeTV 05 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775707.ts
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 04 (Eventos)" tvg-logo="http://plexys.top/logos/canais/cazetv.png" tvg-country="Unknown" group-title="C ⚽ CAZE TV" tvg-flag="",CazeTV 04 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775708.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA 06 (Eventos)" tvg-logo="https://i.postimg.cc/MTWTygnM/nbapass.png" tvg-country="Unknown" group-title="C • NBA" tvg-flag="",NBA 06 (Eventos)
+http://homestreaming.click:80/live/04060957/71666352/7775709.ts
+#EXTINF:-1 tvg-id="" tvg-name="APPLE  01" tvg-logo="https://logo.fontx.top/esportes/apple.png" tvg-country="Unknown" group-title="C • ⚽ APPLE" tvg-flag="",APPLE  01
+http://homestreaming.click:80/live/04060957/71666352/7775710.ts
+#EXTINF:-1 tvg-id="" tvg-name="APPLE 02" tvg-logo="https://logo.fontx.top/esportes/apple.png" tvg-country="Unknown" group-title="C • ⚽ APPLE" tvg-flag="",APPLE 02
+http://homestreaming.click:80/live/04060957/71666352/7775711.ts
+#EXTINF:-1 tvg-id="" tvg-name="APPLE 03" tvg-logo="https://logo.fontx.top/esportes/apple.png" tvg-country="Unknown" group-title="C • ⚽ APPLE" tvg-flag="",APPLE 03
+http://homestreaming.click:80/live/04060957/71666352/7775712.ts
+#EXTINF:-1 tvg-id="" tvg-name="APPLE 03" tvg-logo="https://logo.fontx.top/esportes/apple.png" tvg-country="Unknown" group-title="C • ⚽ APPLE" tvg-flag="",APPLE 03
+http://homestreaming.click:80/live/04060957/71666352/7775713.ts
+#EXTINF:-1 tvg-id="" tvg-name="APPLE 04" tvg-logo="https://logo.fontx.top/esportes/apple.png" tvg-country="Unknown" group-title="C • ⚽ APPLE" tvg-flag="",APPLE 04
+http://homestreaming.click:80/live/04060957/71666352/7775714.ts
+#EXTINF:-1 tvg-id="" tvg-name="APPLE 05" tvg-logo="https://logo.fontx.top/esportes/apple.png" tvg-country="Unknown" group-title="C • ⚽ APPLE" tvg-flag="",APPLE 05
+http://homestreaming.click:80/live/04060957/71666352/7775715.ts
+#EXTINF:-1 tvg-id="" tvg-name="APPLE 06" tvg-logo="https://logo.fontx.top/esportes/apple.png" tvg-country="Unknown" group-title="C • ⚽ APPLE" tvg-flag="",APPLE 06
+http://homestreaming.click:80/live/04060957/71666352/7775716.ts
