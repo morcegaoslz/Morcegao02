@@ -1,809 +1,202 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="JOGOS DE HOJE" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/rAOrWxU.png" group-title="Jogos de Hoje",Jogos de Hoje
-http://torrestv.online/live/18997653214/g3eua8zn9q/194567.ts
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 01 (A)" tvg-logo="https://i.imgur.com/Mf5rO6u.png" group-title="Canais | Esportes",Apple TV+ 01 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1029633.ts
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 01 (B)" tvg-logo="https://i.imgur.com/Mf5rO6u.png" group-title="Canais | Esportes",Apple TV+ 01 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/131927.ts
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 02 (B)" tvg-logo="https://i.imgur.com/Mf5rO6u.png" group-title="Canais | Esportes",Apple TV+ 02 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/131928.ts
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 03 (B)" tvg-logo="https://i.imgur.com/Mf5rO6u.png" group-title="Canais | Esportes",Apple TV+ 03 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952176.ts
-#EXTINF:-1 tvg-id="" tvg-name="BJJ STARS" tvg-logo="https://i.imgur.com/mtypMWf.png" group-title="Canais | Esportes",BJJ STARS
-http://torrestv.online/live/18997653214/g3eua8zn9q/91708.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRTVMAX 01 (B)" tvg-logo="https://i.imgur.com/G9l0GKU.png" group-title="Canais | Esportes",BRTVMAX 01 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/63401.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRTVMAX 02 (B)" tvg-logo="https://i.imgur.com/G9l0GKU.png" group-title="Canais | Esportes",BRTVMAX 02 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952175.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRTVMAX HD (A)" tvg-logo="https://i.imgur.com/G9l0GKU.png" group-title="Canais | Esportes",BRTVMAX HD (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/80922.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports" tvg-logo="https://i.imgur.com/EjpU9TY.png" group-title="Canais | Esportes",BandSports
-http://torrestv.online/live/18997653214/g3eua8zn9q/37125.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://i.imgur.com/EjpU9TY.png" group-title="Canais | Esportes",BandSports FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/42900.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Esportes",BandSports H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/62798.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports HD" tvg-logo="https://i.imgur.com/EjpU9TY.png" group-title="Canais | Esportes",BandSports HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36989.ts
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports [4K]" tvg-logo="https://i.imgur.com/EjpU9TY.png" group-title="Canais | Esportes",BandSports [4K]
-http://torrestv.online/live/18997653214/g3eua8zn9q/215407.ts
-#EXTINF:-1 tvg-id="" tvg-name="CONCACAF 01 (YOUTUBE)" tvg-logo="https://i.imgur.com/pQ7v10d.png" group-title="Canais | Esportes",CONCACAF 01 (YOUTUBE)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1032625.ts
-#EXTINF:-1 tvg-id="" tvg-name="CONCACAF 02 (YOUTUBE)" tvg-logo="https://i.imgur.com/pQ7v10d.png" group-title="Canais | Esportes",CONCACAF 02 (YOUTUBE)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1032626.ts
-#EXTINF:-1 tvg-id="" tvg-name="CONCACAF 03 (YOUTUBE)" tvg-logo="https://i.imgur.com/pQ7v10d.png" group-title="Canais | Esportes",CONCACAF 03 (YOUTUBE)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1032627.ts
-#EXTINF:-1 tvg-id="" tvg-name="CONCACAF 04 (YOUTUBE)" tvg-logo="https://i.imgur.com/pQ7v10d.png" group-title="Canais | Esportes",CONCACAF 04 (YOUTUBE)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1032628.ts
-#EXTINF:-1 tvg-id="[PE] TV Perú" tvg-name="CONCACAF TV" tvg-logo="https://i.imgur.com/aF69hBb.png" group-title="Canais | Esportes",CONCACAF TV
-http://torrestv.online/live/18997653214/g3eua8zn9q/931360.ts
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Alemão 1 (B)" tvg-logo="https://i.imgur.com/QUX3tNU.png" group-title="Canais | Esportes",Campeonato Alemão 1 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87603.ts
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Alemão 2 (B)" tvg-logo="https://i.imgur.com/QUX3tNU.png" group-title="Canais | Esportes",Campeonato Alemão 2 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87604.ts
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Alemão 3 (B)" tvg-logo="https://i.imgur.com/QUX3tNU.png" group-title="Canais | Esportes",Campeonato Alemão 3 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87605.ts
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Alemão 4 (B)" tvg-logo="https://i.imgur.com/QUX3tNU.png" group-title="Canais | Esportes",Campeonato Alemão 4 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87606.ts
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Alemão 5 (B)" tvg-logo="https://i.imgur.com/QUX3tNU.png" group-title="Canais | Esportes",Campeonato Alemão 5 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87607.ts
-#EXTINF:-1 tvg-id="Canal Goat (A)" tvg-name="Canal Goat 01 (A)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 01 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/133438.ts
-#EXTINF:-1 tvg-id="Canal Goat" tvg-name="Canal Goat 01 (B)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 01 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/133396.ts
-#EXTINF:-1 tvg-id="Canal Goat 2 (A)" tvg-name="Canal Goat 02 (A)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 02 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/169669.ts
-#EXTINF:-1 tvg-id="Canal Goat 02 (B)" tvg-name="Canal Goat 02 (B)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 02 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176674.ts
-#EXTINF:-1 tvg-id="Canal Goat 3 (A)" tvg-name="Canal Goat 03 (A)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 03 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/169670.ts
-#EXTINF:-1 tvg-id="Canal Goat 03 (B)" tvg-name="Canal Goat 03 (B)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 03 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176675.ts
-#EXTINF:-1 tvg-id="Canal Goat 4 (A)" tvg-name="Canal Goat 04 (A)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 04 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/169671.ts
-#EXTINF:-1 tvg-id="Canal de Carros (Evento)" tvg-name="Canal de Carros (Eventos)" tvg-logo="https://i.imgur.com/e6rjfCG.png" group-title="Canais | Esportes",Canal de Carros (Eventos)
-http://torrestv.online/live/18997653214/g3eua8zn9q/168142.ts
-#EXTINF:-1 tvg-id="Barretos 2023" tvg-name="Canal de Rodeios e Vaquejadas (Eventos)" tvg-logo="https://i.imgur.com/LAvZQIr.png" group-title="Canais | Esportes",Canal de Rodeios e Vaquejadas (Eventos)
-http://torrestv.online/live/18997653214/g3eua8zn9q/133435.ts
-#EXTINF:-1 tvg-id="Canal do Poker" tvg-name="Canal do Poker" tvg-logo="https://i.imgur.com/MtDBDSW.png" group-title="Canais | Esportes",Canal do Poker
-http://torrestv.online/live/18997653214/g3eua8zn9q/111284.ts
-#EXTINF:-1 tvg-id="World Surf (WSL) HD" tvg-name="Canal do Surf (Eventos)" tvg-logo="https://i.imgur.com/gjwZQZa.png" group-title="Canais | Esportes",Canal do Surf (Eventos)
-http://torrestv.online/live/18997653214/g3eua8zn9q/121562.ts
-#EXTINF:-1 tvg-id="Canal do Volei (Evento)" tvg-name="Canal do Volei (Eventos)" tvg-logo="https://i.imgur.com/4M3ZSeN.png" group-title="Canais | Esportes",Canal do Volei (Eventos)
-http://torrestv.online/live/18997653214/g3eua8zn9q/168143.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo="https://i.imgur.com/YTCL5so.png" group-title="Canais | Esportes",Combate
-http://torrestv.online/live/18997653214/g3eua8zn9q/37119.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://i.imgur.com/YTCL5so.png" group-title="Canais | Esportes",Combate FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38428.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Esportes",Combate H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/50536.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/YTCL5so.png" group-title="Canais | Esportes",Combate HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36986.ts
-#EXTINF:-1 tvg-id="" tvg-name="DSports HD" tvg-logo="https://i.imgur.com/Z44q0M1.png" group-title="Canais | Esportes",DSports HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/963775.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Eleven Sports Channel 1 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 1 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/81007.ts
-#EXTINF:-1 tvg-id="Eleven Sports Channel 10 (S)" tvg-name="Eleven Sports Channel 10 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 10 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/81016.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Eleven Sports Channel 2 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 2 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/81008.ts
-#EXTINF:-1 tvg-id="Eleven Sports Channel 5 (S)" tvg-name="Eleven Sports Channel 5 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 5 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/81011.ts
-#EXTINF:-1 tvg-id="Eleven Sports Channel 6 (S)" tvg-name="Eleven Sports Channel 6 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 6 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/81012.ts
-#EXTINF:-1 tvg-id="Eleven Sports Channel 7 (S)" tvg-name="Eleven Sports Channel 7 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 7 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/81013.ts
-#EXTINF:-1 tvg-id="Eleven Sports Channel 8 (S)" tvg-name="Eleven Sports Channel 8 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 8 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/81014.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Eleven Sports Channel 9 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 9 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/81015.ts
-#EXTINF:-1 tvg-id="esporte.interativo.br" tvg-name="Esporte Interativo HD" tvg-logo="https://i.imgur.com/7RZoyMq.png" group-title="Canais | Esportes",Esporte Interativo HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/61879.ts
-#EXTINF:-1 tvg-id="Promessas FHD" tvg-name="FIFA+ 01  (B)" tvg-logo="https://i.imgur.com/BAfXB86.png" group-title="Canais | Esportes",FIFA+ 01  (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/121569.ts
-#EXTINF:-1 tvg-id="FIFA+ 01 (A)" tvg-name="FIFA+ 01 (A)" tvg-logo="https://i.imgur.com/BAfXB86.png" group-title="Canais | Esportes",FIFA+ 01 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/216773.ts
-#EXTINF:-1 tvg-id="Hello FHD" tvg-name="FIFA+ 02  (B)" tvg-logo="https://i.imgur.com/BAfXB86.png" group-title="Canais | Esportes",FIFA+ 02  (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/121568.ts
-#EXTINF:-1 tvg-id="FIFA+ 02 (A)" tvg-name="FIFA+ 02 (A)" tvg-logo="https://i.imgur.com/BAfXB86.png" group-title="Canais | Esportes",FIFA+ 02 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/216774.ts
-#EXTINF:-1 tvg-id="Entrentendo FHD" tvg-name="FIFA+ 03  (B)" tvg-logo="https://i.imgur.com/BAfXB86.png" group-title="Canais | Esportes",FIFA+ 03  (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/121567.ts
-#EXTINF:-1 tvg-id="[PT] Now" tvg-name="FIFA+ 03 (A)" tvg-logo="https://i.imgur.com/BAfXB86.png" group-title="Canais | Esportes",FIFA+ 03 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/215594.ts
-#EXTINF:-1 tvg-id="FITE+ Lutas" tvg-name="FITE+ Lutas" tvg-logo="https://i.imgur.com/BXdXYED.png" group-title="Canais | Esportes",FITE+ Lutas
-http://torrestv.online/live/18997653214/g3eua8zn9q/162989.ts
-#EXTINF:-1 tvg-id="Fanatiz" tvg-name="Fanatiz" tvg-logo="https://i.imgur.com/mD9JwtZ.png" group-title="Canais | Esportes",Fanatiz
-http://torrestv.online/live/18997653214/g3eua8zn9q/931460.ts
-#EXTINF:-1 tvg-id="La Casa de Papel 4 24h" tvg-name="Festa do Peão de Barretos" tvg-logo="https://i.imgur.com/zuh9hml.png" group-title="Canais | Esportes",Festa do Peão de Barretos
-http://torrestv.online/live/18997653214/g3eua8zn9q/81847.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Fight Box HD" tvg-logo="https://i.imgur.com/W8GoVrw.png" group-title="Canais | Esportes",Fight Box HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/89971.ts
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV" tvg-logo="https://i.imgur.com/ovFL7wa.png" group-title="Canais | Esportes",Fish TV
-http://torrestv.online/live/18997653214/g3eua8zn9q/37103.ts
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="https://i.imgur.com/ovFL7wa.png" group-title="Canais | Esportes",Fish TV FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/41478.ts
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Esportes",Fish TV FHD H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/986828.ts
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD" tvg-logo="https://i.imgur.com/ovFL7wa.png" group-title="Canais | Esportes",Fish TV HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/42911.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="FlaTV" tvg-logo="https://i.imgur.com/vNeHjWF.png" group-title="Canais | Esportes",FlaTV
-http://torrestv.online/live/18997653214/g3eua8zn9q/78160.ts
-#EXTINF:-1 tvg-id="Flograppling (Jiu-Jitsu)" tvg-name="Flograppling (Jiu-Jitsu)" tvg-logo="https://i.imgur.com/Bx0rL4y.png" group-title="Canais | Esportes",Flograppling (Jiu-Jitsu)
-http://torrestv.online/live/18997653214/g3eua8zn9q/112050.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Flograppling 1 (B)" tvg-logo="https://i.imgur.com/Bx0rL4y.png" group-title="Canais | Esportes",Flograppling 1 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/91491.ts
-#EXTINF:-1 tvg-id="Clubinho FHD" tvg-name="Flograppling 2 (B)" tvg-logo="https://i.imgur.com/Bx0rL4y.png" group-title="Canais | Esportes",Flograppling 2 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/121566.ts
-#EXTINF:-1 tvg-id="Rede Mosaico FHD" tvg-name="Flograppling 3 (B)" tvg-logo="https://i.imgur.com/Bx0rL4y.png" group-title="Canais | Esportes",Flograppling 3 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/121570.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Furacão TV (A)" tvg-logo="https://i.imgur.com/mluoXeO.png" group-title="Canais | Esportes",Furacão TV (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87413.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Furacão TV (B)" tvg-logo="https://i.imgur.com/mluoXeO.png" group-title="Canais | Esportes",Furacão TV (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87415.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GE Fast" tvg-logo="https://i.imgur.com/AOIG30M.png" group-title="Canais | Esportes",GE Fast
-http://torrestv.online/live/18997653214/g3eua8zn9q/100712.ts
-#EXTINF:-1 tvg-id="GE TV FHD" tvg-name="GE TV FHD" tvg-logo="https://i.imgur.com/OALlIWf.png" group-title="Canais | Esportes",GE TV FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/956910.ts
-#EXTINF:-1 tvg-id="GE TV" tvg-name="GE TV HD" tvg-logo="https://i.imgur.com/OALlIWf.png" group-title="Canais | Esportes",GE TV HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/956406.ts
-#EXTINF:-1 tvg-id="GE TV SD" tvg-name="GE TV SD" tvg-logo="https://i.imgur.com/OALlIWf.png" group-title="Canais | Esportes",GE TV SD
-http://torrestv.online/live/18997653214/g3eua8zn9q/956912.ts
-#EXTINF:-1 tvg-id="GE TV [4K]" tvg-name="GE TV [4K]" tvg-logo="https://i.imgur.com/OALlIWf.png" group-title="Canais | Esportes",GE TV [4K]
-http://torrestv.online/live/18997653214/g3eua8zn9q/956911.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gol Brasil 01 (A)" tvg-logo="https://i.imgur.com/ozsfMLI.png" group-title="Canais | Esportes",Gol Brasil 01 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1022725.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gol Brasil 02 (A)" tvg-logo="https://i.imgur.com/ozsfMLI.png" group-title="Canais | Esportes",Gol Brasil 02 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1022726.ts
-#EXTINF:-1 tvg-id="Luta Whindersson Nunes" tvg-name="Kingpyn Boxing" tvg-logo="https://i.imgur.com/DnaB6XK.png" group-title="Canais | Esportes",Kingpyn Boxing
-http://torrestv.online/live/18997653214/g3eua8zn9q/115355.ts
-#EXTINF:-1 tvg-id="Rakuten Família" tvg-name="Kings League Brasil" tvg-logo="https://i.imgur.com/JJBxlmG.png" group-title="Canais | Esportes",Kings League Brasil
-http://torrestv.online/live/18997653214/g3eua8zn9q/935081.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="LNF - Liga Futsal 1 (A)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Esportes",LNF - Liga Futsal 1 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87189.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="LNF - Liga Futsal 1 (B)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Esportes",LNF - Liga Futsal 1 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/111278.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="LNF - Liga Futsal 2 (A)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Esportes",LNF - Liga Futsal 2 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87190.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="LNF - Liga Futsal 2 (B)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Esportes",LNF - Liga Futsal 2 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/111279.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="LNF - Liga Futsal 3 (A)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Esportes",LNF - Liga Futsal 3 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/111276.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="LNF - Liga Futsal 3 (B)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Esportes",LNF - Liga Futsal 3 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/111280.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="LNF - Liga Futsal 4 (A)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Esportes",LNF - Liga Futsal 4 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/111277.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="LNF - Liga Futsal 4 (B)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Esportes",LNF - Liga Futsal 4 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/111281.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lutas Netflix (A)" tvg-logo="https://i.imgur.com/C87o0qz.png" group-title="Canais | Esportes",Lutas Netflix (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1012304.ts
-#EXTINF:-1 tvg-id="Luta Whindersson Nunes 2" tvg-name="Lutas Netflix (B)" tvg-logo="https://i.imgur.com/C87o0qz.png" group-title="Canais | Esportes",Lutas Netflix (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/115356.ts
-#EXTINF:-1 tvg-id="MMA TV" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/KmXbAnO.png" group-title="Canais | Esportes",MMA TV
-http://torrestv.online/live/18997653214/g3eua8zn9q/132016.ts
-#EXTINF:-1 tvg-id="Mr. Olympia 2025" tvg-name="Mr. Olympia 2026" tvg-logo="https://i.imgur.com/FGKqAe1.png" group-title="Canais | Esportes",Mr. Olympia 2026
-http://torrestv.online/live/18997653214/g3eua8zn9q/959425.ts
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="NFL TV" tvg-logo="https://i.imgur.com/3e5poo9.png" group-title="Canais | Esportes",NFL TV
-http://torrestv.online/live/18997653214/g3eua8zn9q/93096.ts
-#EXTINF:-1 tvg-id="Power Slap" tvg-name="Power Slap" tvg-logo="https://i.imgur.com/tsJFtlb.png" group-title="Canais | Esportes",Power Slap
-http://torrestv.online/live/18997653214/g3eua8zn9q/121564.ts
-#EXTINF:-1 tvg-id="" tvg-name="Racer Brasil" tvg-logo="https://i.imgur.com/V4Im0ID.png" group-title="Canais | Esportes",Racer Brasil
-http://torrestv.online/live/18997653214/g3eua8zn9q/1019488.ts
-#EXTINF:-1 tvg-id="Wandinha " tvg-name="Rodeio PBR Brasil (Evento)" tvg-logo="https://i.imgur.com/WFScywp.png" group-title="Canais | Esportes",Rodeio PBR Brasil (Evento)
-http://torrestv.online/live/18997653214/g3eua8zn9q/217880.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="SK Fight" tvg-logo="https://i.imgur.com/QX4n82z.png" group-title="Canais | Esportes",SK Fight
-http://torrestv.online/live/18997653214/g3eua8zn9q/92273.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV Coxa HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo.png" group-title="Canais | Esportes",TV Coxa HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/80215.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV NSPORTS 1 (A)" tvg-logo="https://i.imgur.com/voSakBr.png" group-title="Canais | Esportes",TV NSPORTS 1 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/81004.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV NSPORTS 2 (A)" tvg-logo="https://i.imgur.com/voSakBr.png" group-title="Canais | Esportes",TV NSPORTS 2 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/81005.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="TV NSPORTS 3 (A)" tvg-logo="https://i.imgur.com/voSakBr.png" group-title="Canais | Esportes",TV NSPORTS 3 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/81006.ts
-#EXTINF:-1 tvg-id="Urban Sports HD" tvg-name="Urban Sports HD" tvg-logo="https://i.imgur.com/dT43QaY.png" group-title="Canais | Esportes",Urban Sports HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/121557.ts
-#EXTINF:-1 tvg-id="VOLLEY (JOGO 1)" tvg-name="VOLLEY (JOGO 1)" tvg-logo="https://i.imgur.com/zFSvvdV.png" group-title="Canais | Esportes",VOLLEY (JOGO 1)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1014630.ts
-#EXTINF:-1 tvg-id="VOLLEY (JOGO 2)" tvg-name="VOLLEY (JOGO 2)" tvg-logo="https://i.imgur.com/4M3ZSeN.png" group-title="Canais | Esportes",VOLLEY (JOGO 2)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1014631.ts
-#EXTINF:-1 tvg-id="VOLLEY (JOGO 3)" tvg-name="VOLLEY (JOGO 3)" tvg-logo="https://i.imgur.com/4M3ZSeN.png" group-title="Canais | Esportes",VOLLEY (JOGO 3)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1014632.ts
-#EXTINF:-1 tvg-id="VOLLEY (JOGO 4)" tvg-name="VOLLEY (JOGO 4)" tvg-logo="https://i.imgur.com/4M3ZSeN.png" group-title="Canais | Esportes",VOLLEY (JOGO 4)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1014633.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Vôlei Brasil" tvg-logo="https://i.imgur.com/zFSvvdV.png" group-title="Canais | Esportes",Vôlei Brasil
-http://torrestv.online/live/18997653214/g3eua8zn9q/91906.ts
-#EXTINF:-1 tvg-id="WWE Raw" tvg-name="WWE Raw (A)" tvg-logo="https://i.imgur.com/CFpAJYE.png" group-title="Canais | Esportes",WWE Raw (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931422.ts
-#EXTINF:-1 tvg-id="WWE Raw (B)" tvg-name="WWE Raw (B)" tvg-logo="https://i.imgur.com/CFpAJYE.png" group-title="Canais | Esportes",WWE Raw (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931457.ts
-#EXTINF:-1 tvg-id="[SHOW] The Offspring Rock in Rio 2013" tvg-name="Woohoo Esportes FHD" tvg-logo="https://i.imgur.com/6C087m6.png" group-title="Canais | Esportes",Woohoo Esportes FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/139185.ts
-#EXTINF:-1 tvg-id="[SHOW] The Offspring 2021" tvg-name="Woohoo Esportes HD" tvg-logo="https://i.imgur.com/6C087m6.png" group-title="Canais | Esportes",Woohoo Esportes HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/139184.ts
-#EXTINF:-1 tvg-id="X-Sports FHD" tvg-name="X-Sports FHD" tvg-logo="https://i.imgur.com/TgXwrdD.png" group-title="Canais | Esportes",X-Sports FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/953318.ts
-#EXTINF:-1 tvg-id="X-Sports HD" tvg-name="X-Sports HD" tvg-logo="https://i.imgur.com/TgXwrdD.png" group-title="Canais | Esportes",X-Sports HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/953317.ts
-#EXTINF:-1 tvg-id="Zapping Mix Esportes" tvg-name="Zapping Mix Esportes" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Esportes",Zapping Mix Esportes
-http://torrestv.online/live/18997653214/g3eua8zn9q/960719.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zapping Sports HD" tvg-logo="https://i.imgur.com/CoOokWM.png" group-title="Canais | Esportes",Zapping Sports HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36999.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="Mosaico Premiere FHD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Mosaico Premiere FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/74668.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="Mosaico Premiere HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Mosaico Premiere HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/74669.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 2
-http://torrestv.online/live/18997653214/g3eua8zn9q/37060.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 2 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38410.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Premiere",Premiere 2 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/51259.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Premiere",Premiere 2 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/62895.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 2 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36952.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 [4K]" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 2 [4K]
-http://torrestv.online/live/18997653214/g3eua8zn9q/215405.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 3
-http://torrestv.online/live/18997653214/g3eua8zn9q/37059.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 FHD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 3 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38409.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Premiere",Premiere 3 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/51260.ts
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 3 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36951.ts
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 4
-http://torrestv.online/live/18997653214/g3eua8zn9q/37058.ts
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 FHD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 4 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38408.ts
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Premiere",Premiere 4 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/51261.ts
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 4 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36950.ts
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 5
-http://torrestv.online/live/18997653214/g3eua8zn9q/37057.ts
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 FHD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 5 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38407.ts
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Premiere",Premiere 5 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/51262.ts
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 5 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36949.ts
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 6
-http://torrestv.online/live/18997653214/g3eua8zn9q/37056.ts
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 6 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38406.ts
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Premiere",Premiere 6 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/51263.ts
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 6 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36906.ts
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 7
-http://torrestv.online/live/18997653214/g3eua8zn9q/37017.ts
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 7 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38405.ts
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Premiere",Premiere 7 FHD H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/91502.ts
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 7 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36905.ts
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 8
-http://torrestv.online/live/18997653214/g3eua8zn9q/54120.ts
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8 FHD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 8 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/931355.ts
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 8 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/64657.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere Clubes
-http://torrestv.online/live/18997653214/g3eua8zn9q/37016.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere Clubes FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38411.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Premiere",Premiere Clubes H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/51265.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere Clubes HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36948.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes [4K]" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere Clubes [4K]
-http://torrestv.online/live/18997653214/g3eua8zn9q/40783.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN
-http://torrestv.online/live/18997653214/g3eua8zn9q/37104.ts
-#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2
-http://torrestv.online/live/18997653214/g3eua8zn9q/37105.ts
-#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2  [4K]" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2  [4K]
-http://torrestv.online/live/18997653214/g3eua8zn9q/215399.ts
-#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38401.ts
-#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | ESPN",ESPN 2 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/62869.ts
-#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36977.ts
-#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 3
-http://torrestv.online/live/18997653214/g3eua8zn9q/62745.ts
-#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3 FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 3 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/41477.ts
-#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | ESPN",ESPN 3 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/62817.ts
-#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 3 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36976.ts
-#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3 [4K]" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 3 [4K]
-http://torrestv.online/live/18997653214/g3eua8zn9q/215400.ts
-#EXTINF:-1 tvg-id="espn.4.br" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 4
-http://torrestv.online/live/18997653214/g3eua8zn9q/85335.ts
-#EXTINF:-1 tvg-id="espn.4.br" tvg-name="ESPN 4 FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 4 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/63306.ts
-#EXTINF:-1 tvg-id="espn.4.br" tvg-name="ESPN 4 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png " group-title="Canais | ESPN",ESPN 4 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/51241.ts
-#EXTINF:-1 tvg-id="espn.4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 4 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36970.ts
-#EXTINF:-1 tvg-id="espn.4.br" tvg-name="ESPN 4 [4K]" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 4 [4K]
-http://torrestv.online/live/18997653214/g3eua8zn9q/215401.ts
-#EXTINF:-1 tvg-id="espn.5.br" tvg-name="ESPN 5" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 5
-http://torrestv.online/live/18997653214/g3eua8zn9q/37098.ts
-#EXTINF:-1 tvg-id="espn.5.br" tvg-name="ESPN 5 FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 5 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38398.ts
-#EXTINF:-1 tvg-id="espn.5.br" tvg-name="ESPN 5 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | ESPN",ESPN 5 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/50545.ts
-#EXTINF:-1 tvg-id="espn.5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 5 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36971.ts
-#EXTINF:-1 tvg-id="espn.6.br" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 6
-http://torrestv.online/live/18997653214/g3eua8zn9q/129622.ts
-#EXTINF:-1 tvg-id="espn.6.br" tvg-name="ESPN 6 FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 6 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/129624.ts
-#EXTINF:-1 tvg-id="espn.6.br" tvg-name="ESPN 6 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | ESPN",ESPN 6 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/62818.ts
-#EXTINF:-1 tvg-id="espn.6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 6 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/129623.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38413.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | ESPN",ESPN FHD H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/59096.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | ESPN",ESPN H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/62870.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD " tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN HD 
-http://torrestv.online/live/18997653214/g3eua8zn9q/73051.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN [4K]" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN [4K]
-http://torrestv.online/live/18997653214/g3eua8zn9q/215398.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="https://i.imgur.com/G9nCuZT.png" group-title="Canais | SporTV",SporTV
-http://torrestv.online/live/18997653214/g3eua8zn9q/37256.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/wINVzUp.png" group-title="Canais | SporTV",SporTV 2
-http://torrestv.online/live/18997653214/g3eua8zn9q/37044.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://i.imgur.com/wINVzUp.png" group-title="Canais | SporTV",SporTV 2 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38395.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png " group-title="Canais | SporTV",SporTV 2 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/51268.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | SporTV",SporTV 2 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/62914.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://i.imgur.com/wINVzUp.png" group-title="Canais | SporTV",SporTV 2 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36943.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 [4K]" tvg-logo="https://i.imgur.com/wINVzUp.png" group-title="Canais | SporTV",SporTV 2 [4K]
-http://torrestv.online/live/18997653214/g3eua8zn9q/215402.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 [ALT]" tvg-logo="https://i.imgur.com/wINVzUp.png" group-title="Canais | SporTV",SporTV 2 [ALT]
-http://torrestv.online/live/18997653214/g3eua8zn9q/51052.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/Srf3e8w.png" group-title="Canais | SporTV",SporTV 3
-http://torrestv.online/live/18997653214/g3eua8zn9q/37006.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://i.imgur.com/Srf3e8w.png" group-title="Canais | SporTV",SporTV 3 FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38394.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | SporTV",SporTV 3 H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/62916.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://i.imgur.com/Srf3e8w.png" group-title="Canais | SporTV",SporTV 3 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/36942.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="SporTV 4 HD" tvg-logo="https://i.imgur.com/SMrn7Gf.png" group-title="Canais | SporTV",SporTV 4 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/127664.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="SporTV 5 HD" tvg-logo="https://i.imgur.com/SMrn7Gf.png" group-title="Canais | SporTV",SporTV 5 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/956438.ts
-#EXTINF:-1 tvg-id="semepg" tvg-name="SporTV 6 HD" tvg-logo="https://i.imgur.com/SMrn7Gf.png" group-title="Canais | SporTV",SporTV 6 HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/956439.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="https://i.imgur.com/G9nCuZT.png" group-title="Canais | SporTV",SporTV FHD
-http://torrestv.online/live/18997653214/g3eua8zn9q/38419.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD H265 " tvg-logo="https://i.imgur.com/1pnZ4MD.png " group-title="Canais | SporTV",SporTV FHD H265 
-http://torrestv.online/live/18997653214/g3eua8zn9q/51270.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | SporTV",SporTV H265
-http://torrestv.online/live/18997653214/g3eua8zn9q/62918.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://i.imgur.com/G9nCuZT.png" group-title="Canais | SporTV",SporTV HD
-http://torrestv.online/live/18997653214/g3eua8zn9q/37255.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV [4K]" tvg-logo="https://i.imgur.com/G9nCuZT.png" group-title="Canais | SporTV",SporTV [4K]
-http://torrestv.online/live/18997653214/g3eua8zn9q/40785.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Amazon Prime 01" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Amazon Prime 01
-http://torrestv.online/live/18997653214/g3eua8zn9q/939690.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Amazon Prime 02" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Amazon Prime 02
-http://torrestv.online/live/18997653214/g3eua8zn9q/939691.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Amazon Prime 03" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Amazon Prime 03
-http://torrestv.online/live/18997653214/g3eua8zn9q/939692.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Copa do Brasil Prime Video 1 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 1 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/107423.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Copa do Brasil Prime Video 2 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 2 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/107424.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Copa do Brasil Prime Video 3 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 3 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/112425.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Copa do Brasil Prime Video 4 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 4 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/112426.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Copa do Brasil Prime Video 5 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 5 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/112427.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 01 FHD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 01 FHD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952374.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 01 HD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 01 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/86455.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 01 SD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 01 SD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952371.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 02 FHD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 02 FHD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952375.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 02 HD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 02 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/86456.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 02 SD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 02 SD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952372.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 03 FHD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 03 FHD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952376.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 03 HD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 03 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87777.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 03 SD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 03 SD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952373.ts
-#EXTINF:-1 tvg-id="prime.video.br" tvg-name="Prime Video 04 HD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 04 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87778.ts
-#EXTINF:-1 tvg-id="Disney+ 1 (B)" tvg-name="Disney+ 1 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952472.ts
-#EXTINF:-1 tvg-id="Disney+ 1 SD (B)" tvg-name="Disney+ 1 Alt (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 Alt (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952474.ts
-#EXTINF:-1 tvg-id="Star+ HD 11 (B)" tvg-name="Disney+ 1 HD (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176744.ts
-#EXTINF:-1 tvg-id="Disney+ 9 (B)" tvg-name="Disney+ 10 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 10 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/91275.ts
-#EXTINF:-1 tvg-id="Disney+ Mosaico (B)" tvg-name="Disney+ 11 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 11 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952476.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 12 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 12 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1012429.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 13 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 13 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1012430.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 14 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 14 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1012431.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 15 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 15 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1012432.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 16 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 16 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1012433.ts
-#EXTINF:-1 tvg-id="Disney+ 2 (B)" tvg-name="Disney+ 2 Alt (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 Alt (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952473.ts
-#EXTINF:-1 tvg-id="Star+ HD 10 (B)" tvg-name="Disney+ 2 HD (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176743.ts
-#EXTINF:-1 tvg-id="Star+ HD 9 (B)" tvg-name="Disney+ 3 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 3 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176742.ts
-#EXTINF:-1 tvg-id="Star+ HD 8 (B)" tvg-name="Disney+ 4 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 4 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176741.ts
-#EXTINF:-1 tvg-id="Star+ HD 7 (B)" tvg-name="Disney+ 5 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 5 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176740.ts
-#EXTINF:-1 tvg-id="Disney+ 9 (B)" tvg-name="Disney+ 6 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 6 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/91276.ts
-#EXTINF:-1 tvg-id="Disney+ 7 (B)" tvg-name="Disney+ 7 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 7 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931356.ts
-#EXTINF:-1 tvg-id="Disney+ 8 (B)" tvg-name="Disney+ 8 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 8 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931357.ts
-#EXTINF:-1 tvg-id="Disney+ 9 (B)" tvg-name="Disney+ 9 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 9 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931358.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/82245.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 2 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 2 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/82510.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 3 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 3 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/82512.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 4 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 4 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/85329.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 5 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 5 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/85330.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 6 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 6 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89548.ts
-#EXTINF:-1 tvg-id="Disney+ HD 7 (A)" tvg-name="Disney+ HD 7 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 7 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931459.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 01 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 01 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/90555.ts
-#EXTINF:-1 tvg-id="MAX 01 FHD (B)" tvg-name="MAX 01 FHD (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 01 FHD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952477.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 02 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 02 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/90556.ts
-#EXTINF:-1 tvg-id="MAX 02 FHD (B)" tvg-name="MAX 02 FHD (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 02 FHD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952478.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 03 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 03 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/90557.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 04 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 04 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/90558.ts
-#EXTINF:-1 tvg-id="MAX 05 (B)" tvg-name="MAX 05 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 05 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952365.ts
-#EXTINF:-1 tvg-id="MAX 06 (B)" tvg-name="MAX 06 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 06 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952366.ts
-#EXTINF:-1 tvg-id="MAX 07 (B)" tvg-name="MAX 07 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 07 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952367.ts
-#EXTINF:-1 tvg-id="MAX 08 (B)" tvg-name="MAX 08 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 08 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952368.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 1 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 1 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/82375.ts
-#EXTINF:-1 tvg-id="MAX 10 (A)" tvg-name="MAX 10 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 10 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/933926.ts
-#EXTINF:-1 tvg-id="MAX 11 (A)" tvg-name="MAX 11 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 11 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/933927.ts
-#EXTINF:-1 tvg-id="MAX 12 (A)" tvg-name="MAX 12 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 12 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/933928.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 2 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 2 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/82373.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 3 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 3 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89556.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 4 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 4 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89557.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 5 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 5 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/91220.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 6 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 6 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/91221.ts
-#EXTINF:-1 tvg-id="MAX 7 (A)" tvg-name="MAX 7 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 7 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/933923.ts
-#EXTINF:-1 tvg-id="MAX 8 (A)" tvg-name="MAX 8 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 8 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/933924.ts
-#EXTINF:-1 tvg-id="MAX 9 (A)" tvg-name="MAX 9 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 9 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/933925.ts
-#EXTINF:-1 tvg-id="MAX Mosaico (A)" tvg-name="MAX Mosaico (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX Mosaico (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/933929.ts
-#EXTINF:-1 tvg-id="MAX Mosaico (B)" tvg-name="MAX Mosaico (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX Mosaico (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952369.ts
-#EXTINF:-1 tvg-id="Brasileirão Feminino 01 (C)" tvg-name="Brasileirão Feminino 01 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 01 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/187118.ts
-#EXTINF:-1 tvg-id="Brasileirão Feminino 02 (C)" tvg-name="Brasileirão Feminino 02 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 02 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/187119.ts
-#EXTINF:-1 tvg-id="Brasileirão Feminino 03 (B)" tvg-name="Brasileirão Feminino 03 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 03 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952180.ts
-#EXTINF:-1 tvg-id="Brasileirão Feminino 04 (B)" tvg-name="Brasileirão Feminino 04 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 04 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952181.ts
-#EXTINF:-1 tvg-id="Brasileirão Serie D 3 (J)" tvg-name="Brasileirão Serie D 03 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 03 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/122904.ts
-#EXTINF:-1 tvg-id="Brasileirão Serie D 4 (J)" tvg-name="Brasileirão Serie D 04 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 04 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/122905.ts
-#EXTINF:-1 tvg-id="Brasileirão Serie D 5 (J)" tvg-name="Brasileirão Serie D 05 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 05 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/122906.ts
-#EXTINF:-1 tvg-id="Brasileirão Serie D 6 (J)" tvg-name="Brasileirão Serie D 06 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 06 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/122907.ts
-#EXTINF:-1 tvg-id="Brasileirão Serie D 1 (S)" tvg-name="Brasileirão Serie D 1 (A)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 1 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/122902.ts
-#EXTINF:-1 tvg-id="Brasileirão Sub-20 1 (J)" tvg-name="Brasileirão Sub-20 1 (B)" tvg-logo="https://i.imgur.com/sCOmEC1.png" group-title="Canais | Brasileirão",Brasileirão Sub-20 1 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/112048.ts
-#EXTINF:-1 tvg-id="Brasileirão Sub-20 2 (J)" tvg-name="Brasileirão Sub-20 2 (B)" tvg-logo="https://i.imgur.com/sCOmEC1.png" group-title="Canais | Brasileirão",Brasileirão Sub-20 2 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/112049.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 1 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 1 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87227.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 1 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 1 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/87226.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 10 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 10 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89979.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 2 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 2 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89542.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 2 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 2 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89546.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 3 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 3 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89543.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 4 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 4 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89544.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 4 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 4 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89973.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 5 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 5 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89974.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 6 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 6 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89975.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 7 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 7 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89976.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 8 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 8 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89977.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 9 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 9 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89978.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série D (A)" tvg-logo="https://i.imgur.com/fhOavDU.png" group-title="Canais | Brasileirão",Brasileirão Série D (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89545.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série D 01 (B)" tvg-logo="https://i.imgur.com/fhOavDU.png" group-title="Canais | Brasileirão",Brasileirão Série D 01 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89583.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série D 02 (B)" tvg-logo="https://i.imgur.com/fhOavDU.png" group-title="Canais | Brasileirão",Brasileirão Série D 02 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/89584.ts
-#EXTINF:-1 tvg-id="SportyNet 01 - Serie C (B)" tvg-name="SportyNet 01 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 01 - Serie C (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/956178.ts
-#EXTINF:-1 tvg-id="SportyNet 02 - Serie C (B)" tvg-name="SportyNet 02 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 02 - Serie C (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/956179.ts
-#EXTINF:-1 tvg-id="SportyNet 03 - Serie C (B)" tvg-name="SportyNet 03 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 03 - Serie C (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/956180.ts
-#EXTINF:-1 tvg-id="SportyNet 04 - Serie C (B)" tvg-name="SportyNet 04 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 04 - Serie C (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/956181.ts
-#EXTINF:-1 tvg-id="SportyNet 05 - Serie C (B)" tvg-name="SportyNet 05 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 05 - Serie C (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/956182.ts
-#EXTINF:-1 tvg-id="SportyNet 06 - Serie C (B)" tvg-name="SportyNet 06 - Serie C (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Brasileirão",SportyNet 06 - Serie C (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/956183.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 1 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 1 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/99871.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 1 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 1 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/63216.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 2 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 2 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/63113.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 2 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 2 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/99872.ts
-#EXTINF:-1 tvg-id="DAZN 2 (B)" tvg-name="DAZN 2 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 2 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/168288.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 3 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 3 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/99873.ts
-#EXTINF:-1 tvg-id="DAZN 3 (B)" tvg-name="DAZN 3 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 3 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/168289.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 4 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 4 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/99874.ts
-#EXTINF:-1 tvg-id="DAZN 4 (B)" tvg-name="DAZN 4 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 4 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952370.ts
-#EXTINF:-1 tvg-id="DAZN 5 (A)" tvg-name="DAZN 5 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 5 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176793.ts
-#EXTINF:-1 tvg-id="DAZN 6 (A)" tvg-name="DAZN 6 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 6 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176794.ts
-#EXTINF:-1 tvg-id="DAZN 7 (A)" tvg-name="DAZN 7 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 7 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176795.ts
-#EXTINF:-1 tvg-id="DAZN 8 (A)" tvg-name="DAZN 8 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 8 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176796.ts
-#EXTINF:-1 tvg-id="DAZN 9 (A)" tvg-name="DAZN 9 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 9 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176797.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UFC Fight Pass (A)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/100815.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UFC Fight Pass 1 HD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass 1 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/94688.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UFC Fight Pass 2 HD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass 2 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/92272.ts
-#EXTINF:-1 tvg-id="UFC Fight Pass FHD (B)" tvg-name="UFC Fight Pass 3 HD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass 3 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/177136.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 1 (A)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 1 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/105804.ts
-#EXTINF:-1 tvg-id="Paramount+ 1 FHD (B)" tvg-name="Paramount+ 1 FHD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 1 FHD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952468.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 1 HD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 1 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/105801.ts
-#EXTINF:-1 tvg-id="Paramount+ 1 SD (B)" tvg-name="Paramount+ 1 SD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 1 SD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952463.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 2 (A)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 2 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/105805.ts
-#EXTINF:-1 tvg-id="Paramount+ 2 FHD (B)" tvg-name="Paramount+ 2 FHD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 2 FHD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952469.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 2 HD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 2 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/105802.ts
-#EXTINF:-1 tvg-id="Paramount+ 2 SD (B)" tvg-name="Paramount+ 2 SD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 2 SD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952464.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 3 (A)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 3 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/105806.ts
-#EXTINF:-1 tvg-id="Paramount+ 3 FHD (B)" tvg-name="Paramount+ 3 FHD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 3 FHD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952470.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 3 HD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 3 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/105803.ts
-#EXTINF:-1 tvg-id="Paramount+ 3 SD (B)" tvg-name="Paramount+ 3 SD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 3 SD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952465.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 4 (A)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 4 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/105807.ts
-#EXTINF:-1 tvg-id="Paramount+ 4 FHD (B)" tvg-name="Paramount+ 4 FHD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 4 FHD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952471.ts
-#EXTINF:-1 tvg-id="Paramount+ 4 (J)" tvg-name="Paramount+ 4 HD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 4 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/107583.ts
-#EXTINF:-1 tvg-id="Paramount+ 4 SD (B)" tvg-name="Paramount+ 4 SD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 4 SD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952466.ts
-#EXTINF:-1 tvg-id="Paramount+ 5 HD (B)" tvg-name="Paramount+ 5 HD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 5 HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/952467.ts
-#EXTINF:-1 tvg-id="" tvg-name="Copa Verde 01 (A)" tvg-logo="https://i.imgur.com/kwDIIm9.png" group-title="Canais | Estaduais",Copa Verde 01 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/184010.ts
-#EXTINF:-1 tvg-id="" tvg-name="Copa Verde 02 (A)" tvg-logo="https://i.imgur.com/kwDIIm9.png" group-title="Canais | Estaduais",Copa Verde 02 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/184011.ts
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 01 (B)" tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 01 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1000556.ts
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 02 (B)" tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 02 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1000557.ts
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 03 (B)" tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 03 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1000558.ts
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 04 (B)" tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 04 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/1000559.ts
-#EXTINF:-1 tvg-id="sportynet.plus.1.br" tvg-name="SportyNet 01 (A)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet 01 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/99255.ts
-#EXTINF:-1 tvg-id="sportynet.plus.1.br" tvg-name="SportyNet 01 (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet 01 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/97175.ts
-#EXTINF:-1 tvg-id="sportynet.plus.1.br" tvg-name="SportyNet 01 HD (A)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet 01 HD (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/101025.ts
-#EXTINF:-1 tvg-id="sportynet.plus.2.br" tvg-name="SportyNet 02 (A)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet 02 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/99257.ts
-#EXTINF:-1 tvg-id="sportynet.plus.2.br" tvg-name="SportyNet 02 (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet 02 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/97177.ts
-#EXTINF:-1 tvg-id="sportynet.plus.2.br" tvg-name="SportyNet 02 HD (A)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet 02 HD (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/101026.ts
-#EXTINF:-1 tvg-id="sportynet.plus.3.br" tvg-name="SportyNet 03 (A)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet 03 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/99258.ts
-#EXTINF:-1 tvg-id="sportynet.plus.3.br" tvg-name="SportyNet 03 (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet 03 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/97179.ts
-#EXTINF:-1 tvg-id="sportynet.plus.3.br" tvg-name="SportyNet 03 HD (A)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet 03 HD (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/101027.ts
-#EXTINF:-1 tvg-id="" tvg-name="SportyNet 04 (A)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet 04 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/99261.ts
-#EXTINF:-1 tvg-id="" tvg-name="SportyNet 04 HD (A)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet 04 HD (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/101028.ts
-#EXTINF:-1 tvg-id="sportynet.br" tvg-name="SportyNet HD (B)" tvg-logo="https://i.imgur.com/tSmGWQv.png" group-title="Canais | Estaduais",SportyNet HD (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/210162.ts
-#EXTINF:-1 tvg-id="NBA League Pass 01 (A)" tvg-name="NBA League Pass 01 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 01 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176855.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 01 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 01 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/85565.ts
-#EXTINF:-1 tvg-id="NBA League Pass 02 (A)" tvg-name="NBA League Pass 02 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 02 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176856.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 02 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 02 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/85566.ts
-#EXTINF:-1 tvg-id="NBA League Pass 03 (A)" tvg-name="NBA League Pass 03 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 03 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176857.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 03 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 03 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/85567.ts
-#EXTINF:-1 tvg-id="NBA League Pass 04 (A)" tvg-name="NBA League Pass 04 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 04 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/176858.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 04 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 04 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/85568.ts
-#EXTINF:-1 tvg-id="NBA League Pass 05 (A)" tvg-name="NBA League Pass 05 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 05 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/221801.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 05 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 05 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/85569.ts
-#EXTINF:-1 tvg-id="NBA League Pass 06 (A)" tvg-name="NBA League Pass 06 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 06 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931984.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 06 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 06 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/85570.ts
-#EXTINF:-1 tvg-id="NBA League Pass 07 (A)" tvg-name="NBA League Pass 07 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 07 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931985.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 07 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 07 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/85571.ts
-#EXTINF:-1 tvg-id="NBA League Pass 08 (A)" tvg-name="NBA League Pass 08 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 08 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931986.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 08 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 08 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/85572.ts
-#EXTINF:-1 tvg-id="NBA League Pass 09 (A)" tvg-name="NBA League Pass 09 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 09 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931987.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 09 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 09 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/85573.ts
-#EXTINF:-1 tvg-id="NBA League Pass 10 (A)" tvg-name="NBA League Pass 10 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 10 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931988.ts
-#EXTINF:-1 tvg-id="NBA League Pass 10 (B)" tvg-name="NBA League Pass 10 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 10 (B)
-http://torrestv.online/live/18997653214/g3eua8zn9q/221800.ts
-#EXTINF:-1 tvg-id="NBA League Pass 11 (A)" tvg-name="NBA League Pass 11 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 11 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931989.ts
-#EXTINF:-1 tvg-id="NBA League Pass 12 (A)" tvg-name="NBA League Pass 12 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 12 (A)
-http://torrestv.online/live/18997653214/g3eua8zn9q/931990.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/NS2k4oJ.png" group-title="Canais | NBA League Pass",NBA TV
-http://torrestv.online/live/18997653214/g3eua8zn9q/85564.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 1" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 1
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015057.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 10" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 10
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015067.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 11" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 11
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015069.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 12" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 12
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015086.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 13" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 13
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015087.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 14" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 14
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015089.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 15" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 15
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015090.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 16" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 16
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015092.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 17" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 17
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015094.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 18" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 18
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015095.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 19" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 19
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015097.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 2" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 2
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015058.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 20" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 20
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015099.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 21" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 21
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015100.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 22" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 22
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015102.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 3" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 3
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015059.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 4" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 4
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015060.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 5" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 5
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015061.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 6" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 6
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015062.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 7" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 7
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015063.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 8" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 8
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015064.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 9" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 9
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015065.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Data" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Data
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015055.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Driver" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Driver
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015056.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Main" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Main
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015053.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Presentation" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Presentation
-http://torrestv.online/live/18997653214/g3eua8zn9q/1015054.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 TV" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",Fórmula 1 TV
-http://torrestv.online/live/18997653214/g3eua8zn9q/78760.ts
+#EXTM3U x-tvg-url="http://nitrohd.xyz:80/xmltv.php?username=317183441&password=945713147"
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Apple TV 01 HD" tvg-logo="https://image.hotice.site/icones_channels/Apple_TV+.png" group-title="Esportes PPV",Apple TV 01 HD
+http://64.31.43.226:80/317183441/945713147/5376198.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Apple TV 02 HD" tvg-logo="https://image.hotice.site/icones_channels/Apple_TV+.png" group-title="Esportes PPV",Apple TV 02 HD
+http://64.31.43.226:80/317183441/945713147/5376199.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Apple TV 03 HD" tvg-logo="https://image.hotice.site/icones_channels/Apple_TV+.png" group-title="Esportes PPV",Apple TV 03 HD
+http://64.31.43.226:80/317183441/945713147/5970217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 04 HD" tvg-logo="https://image.hotice.site/icones_channels/Apple_TV+.png" group-title="Esportes PPV",Apple TV 04 HD
+http://64.31.43.226:80/317183441/945713147/6575240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 05 HD" tvg-logo="https://image.hotice.site/icones_channels/Apple_TV+.png" group-title="Esportes PPV",Apple TV 05 HD
+http://64.31.43.226:80/317183441/945713147/6575241.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate 4K" tvg-logo="https://img.nnl.pw/draco/combate.png" group-title="4k",Combate 4K
+http://64.31.43.226:80/317183441/945713147/5376240.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="https://img.nnl.pw/draco/combate.png" group-title="Combate UFC",Combate FHD
+http://64.31.43.226:80/317183441/945713147/631019.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://img.nnl.pw/draco/combate.png" group-title="Combate UFC",Combate HD
+http://64.31.43.226:80/317183441/945713147/5376126.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="https://img.nnl.pw/draco/combate.png" group-title="Combate UFC",Combate SD
+http://64.31.43.226:80/317183441/945713147/5376128.ts
+#EXTINF:-1 tvg-id="DAZN1.pt" tvg-name="Dazn 01 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes",Dazn 01 HD
+http://64.31.43.226:80/317183441/945713147/6422157.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 01 Br HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN.png" group-title="Eleven Esports DAZN",Dazn 01 Br HD
+http://64.31.43.226:80/317183441/945713147/765728.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 01 Pt HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN.png" group-title="Eleven Esports DAZN",Dazn 01 Pt HD
+http://64.31.43.226:80/317183441/945713147/34698.ts
+#EXTINF:-1 tvg-id="DAZN2.pt" tvg-name="Dazn 02 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes",Dazn 02 HD
+http://64.31.43.226:80/317183441/945713147/6422156.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 02 Br HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN_2.png" group-title="Esportes PPV",Dazn 02 Br HD
+http://64.31.43.226:80/317183441/945713147/5376179.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 02 Pt HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN_2.png" group-title="Esportes PPV",Dazn 02 Pt HD
+http://64.31.43.226:80/317183441/945713147/5376180.ts
+#EXTINF:-1 tvg-id="DAZN3.pt" tvg-name="Dazn 03 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes",Dazn 03 HD
+http://64.31.43.226:80/317183441/945713147/6422155.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 03 Br HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="Esportes PPV",Dazn 03 Br HD
+http://64.31.43.226:80/317183441/945713147/5437038.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 03 Pt HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="Esportes PPV",Dazn 03 Pt HD
+http://64.31.43.226:80/317183441/945713147/5437039.ts
+#EXTINF:-1 tvg-id="DAZN4.pt" tvg-name="Dazn 04 HD" tvg-logo="http://top-logos.xyz/pt/eleven1.png" group-title="Portugal Esportes",Dazn 04 HD
+http://64.31.43.226:80/317183441/945713147/6422154.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 04 Br HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN_4.png" group-title="Esportes PPV",Dazn 04 Br HD
+http://64.31.43.226:80/317183441/945713147/5437040.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 04 Pt HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN_4.png" group-title="Esportes PPV",Dazn 04 Pt HD
+http://64.31.43.226:80/317183441/945713147/5437041.ts
+#EXTINF:-1 tvg-id="DAZN5.pt" tvg-name="Dazn 05 HD" tvg-logo="http://top-logos.xyz/pt/eleven1.png" group-title="Portugal Esportes",Dazn 05 HD
+http://64.31.43.226:80/317183441/945713147/6422153.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn Sports 03" tvg-logo="https://image.hotice.site/icones_channels/ELEVEN_SPORTS_3_PT.png" group-title="Esportes PPV",Dazn Sports 03
+http://64.31.43.226:80/317183441/945713147/1233161.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn Sports 04" tvg-logo="https://image.hotice.site/icones_channels/ELEVEN_SPORTS_4_PT.png" group-title="Esportes PPV",Dazn Sports 04
+http://64.31.43.226:80/317183441/945713147/1233162.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Eleven Sports 01" tvg-logo="https://img.nnl.pw/draco/eleven-sports.png" group-title="Eleven Esports DAZN",Eleven Sports 01
+http://64.31.43.226:80/317183441/945713147/1233159.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Eleven Sports 02" tvg-logo="https://img.nnl.pw/draco/eleven-sports.png" group-title="Eleven Esports DAZN",Eleven Sports 02
+http://64.31.43.226:80/317183441/945713147/1233160.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Eleven Sports 03" tvg-logo="https://img.nnl.pw/draco/eleven-sports.png" group-title="Eleven Esports DAZN",Eleven Sports 03
+http://64.31.43.226:80/317183441/945713147/1233163.ts
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="Espn 01 FHD" tvg-logo="https://img.nnl.pw/draco/espn.png" group-title="Espn",Espn 01 FHD
+http://64.31.43.226:80/317183441/945713147/631064.ts
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="Espn 01 HD" tvg-logo="https://img.nnl.pw/draco/espn.png" group-title="Espn",Espn 01 HD
+http://64.31.43.226:80/317183441/945713147/5365164.ts
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="Espn 01 SD" tvg-logo="https://img.nnl.pw/draco/espn.png" group-title="Espn",Espn 01 SD
+http://64.31.43.226:80/317183441/945713147/5365179.ts
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="Espn 02 FHD" tvg-logo="https://img.nnl.pw/draco/espn-2.png" group-title="Espn",Espn 02 FHD
+http://64.31.43.226:80/317183441/945713147/5181930.ts
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="Espn 02 HD" tvg-logo="https://img.nnl.pw/draco/espn-2.png" group-title="Espn",Espn 02 HD
+http://64.31.43.226:80/317183441/945713147/5365216.ts
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="Espn 02 SD" tvg-logo="https://img.nnl.pw/draco/espn-2.png" group-title="Espn",Espn 02 SD
+http://64.31.43.226:80/317183441/945713147/5365231.ts
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="Espn 03 FHD" tvg-logo="https://img.nnl.pw/draco/espn-3.png" group-title="Espn",Espn 03 FHD
+http://64.31.43.226:80/317183441/945713147/631061.ts
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="Espn 03 HD" tvg-logo="https://img.nnl.pw/draco/espn-3.png" group-title="Espn",Espn 03 HD
+http://64.31.43.226:80/317183441/945713147/5365946.ts
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="Espn 03 SD" tvg-logo="https://img.nnl.pw/draco/espn-3.png" group-title="Espn",Espn 03 SD
+http://64.31.43.226:80/317183441/945713147/5366032.ts
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="Espn 04 FHD" tvg-logo="https://img.nnl.pw/draco/espn-4.png" group-title="Espn",Espn 04 FHD
+http://64.31.43.226:80/317183441/945713147/631082.ts
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="Espn 04 HD" tvg-logo="https://img.nnl.pw/draco/espn-4.png" group-title="Espn",Espn 04 HD
+http://64.31.43.226:80/317183441/945713147/5366385.ts
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="Espn 04 SD" tvg-logo="https://img.nnl.pw/draco/espn-4.png" group-title="Espn",Espn 04 SD
+http://64.31.43.226:80/317183441/945713147/5366461.ts
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="Espn 05 FHD" tvg-logo="https://img.nnl.pw/draco/espn-5.png" group-title="Espn",Espn 05 FHD
+http://64.31.43.226:80/317183441/945713147/631079.ts
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="Espn 05 HD" tvg-logo="https://img.nnl.pw/draco/espn-5.png" group-title="Espn",Espn 05 HD
+http://64.31.43.226:80/317183441/945713147/5366788.ts
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="Espn 05 SD" tvg-logo="https://img.nnl.pw/draco/espn-5.png" group-title="Espn",Espn 05 SD
+http://64.31.43.226:80/317183441/945713147/5366938.ts
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="Espn 06 FHD" tvg-logo="https://img.nnl.pw/draco/espn-6.png" group-title="Espn",Espn 06 FHD
+http://64.31.43.226:80/317183441/945713147/631067.ts
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="Espn 06 HD" tvg-logo="https://img.nnl.pw/draco/espn-6.png" group-title="Espn",Espn 06 HD
+http://64.31.43.226:80/317183441/945713147/5368062.ts
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="Espn 06 SD" tvg-logo="https://img.nnl.pw/draco/espn-6.png" group-title="Espn",Espn 06 SD
+http://64.31.43.226:80/317183441/945713147/5368127.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Ge TV HD" tvg-logo="https://img.nnl.pw/draco/ge-tv.png" group-title="Esportes PPV",Ge TV HD
+http://64.31.43.226:80/317183441/945713147/5559054.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 01 HD²" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 01 HD²
+http://64.31.43.226:80/317183441/945713147/1632604.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 01 HD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 01 HD
+http://64.31.43.226:80/317183441/945713147/1632603.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 02 HD²" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 02 HD²
+http://64.31.43.226:80/317183441/945713147/5376122.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 02 HD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 02 HD
+http://64.31.43.226:80/317183441/945713147/1632605.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 03 HD²" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 03 HD²
+http://64.31.43.226:80/317183441/945713147/5376124.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 03 HD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 03 HD
+http://64.31.43.226:80/317183441/945713147/5376123.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 04 HD²" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 04 HD²
+http://64.31.43.226:80/317183441/945713147/5428366.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 04 HD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 04 HD
+http://64.31.43.226:80/317183441/945713147/5376125.ts
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 01 Clubes FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 01 Clubes FHD
+http://64.31.43.226:80/317183441/945713147/5365026.ts
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 01 Clubes HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 01 Clubes HD
+http://64.31.43.226:80/317183441/945713147/5365030.ts
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 01 Clubes SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 01 Clubes SD
+http://64.31.43.226:80/317183441/945713147/5365032.ts
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 02 Clubes FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 02 Clubes FHD
+http://64.31.43.226:80/317183441/945713147/631354.ts
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 02 Clubes HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 02 Clubes HD
+http://64.31.43.226:80/317183441/945713147/5365039.ts
+#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 02 Clubes SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 02 Clubes SD
+http://64.31.43.226:80/317183441/945713147/5365044.ts
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 03 Clubes FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 03 Clubes FHD
+http://64.31.43.226:80/317183441/945713147/631358.ts
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 03 Clubes HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 03 Clubes HD
+http://64.31.43.226:80/317183441/945713147/5365049.ts
+#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 03 Clubes SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 03 Clubes SD
+http://64.31.43.226:80/317183441/945713147/5365051.ts
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 04 Clubes FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 04 Clubes FHD
+http://64.31.43.226:80/317183441/945713147/631362.ts
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 04 Clubes HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 04 Clubes HD
+http://64.31.43.226:80/317183441/945713147/5365055.ts
+#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 04 Clubes SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 04 Clubes SD
+http://64.31.43.226:80/317183441/945713147/5365058.ts
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 05 Clubes FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 05 Clubes FHD
+http://64.31.43.226:80/317183441/945713147/631365.ts
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 05 Clubes HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 05 Clubes HD
+http://64.31.43.226:80/317183441/945713147/5365066.ts
+#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 05 Clubes SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 05 Clubes SD
+http://64.31.43.226:80/317183441/945713147/5365068.ts
+#EXTINF:-1 tvg-id="br#premiere-6-hd" tvg-name="Premiere 06 Clubes FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 06 Clubes FHD
+http://64.31.43.226:80/317183441/945713147/631368.ts
+#EXTINF:-1 tvg-id="br#premiere-6-hd" tvg-name="Premiere 06 Clubes HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 06 Clubes HD
+http://64.31.43.226:80/317183441/945713147/5365073.ts
+#EXTINF:-1 tvg-id="br#premiere-6-hd" tvg-name="Premiere 06 Clubes SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 06 Clubes SD
+http://64.31.43.226:80/317183441/945713147/5365075.ts
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 07 Clubes FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 07 Clubes FHD
+http://64.31.43.226:80/317183441/945713147/631371.ts
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 07 Clubes HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 07 Clubes HD
+http://64.31.43.226:80/317183441/945713147/5365079.ts
+#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 07 Clubes SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 07 Clubes SD
+http://64.31.43.226:80/317183441/945713147/5365082.ts
+#EXTINF:-1 tvg-id="br#premiere-8" tvg-name="Premiere 08 Clubes FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 08 Clubes FHD
+http://64.31.43.226:80/317183441/945713147/4476103.ts
+#EXTINF:-1 tvg-id="br#premiere-8" tvg-name="Premiere 08 Clubes HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 08 Clubes HD
+http://64.31.43.226:80/317183441/945713147/5365088.ts
+#EXTINF:-1 tvg-id="br#premiere-8" tvg-name="Premiere 08 Clubes SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere",Premiere 08 Clubes SD
+http://64.31.43.226:80/317183441/945713147/5365091.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Prime Video 01 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/la-chaine-amazon-prime-video.png" group-title="Prime Videos",Prime Video 01 HD
+http://64.31.43.226:80/317183441/945713147/6422478.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Prime Video 02 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/la-chaine-amazon-prime-video.png" group-title="Prime Videos",Prime Video 02 HD
+http://64.31.43.226:80/317183441/945713147/6422479.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Prime Video 03 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/la-chaine-amazon-prime-video.png" group-title="Prime Videos",Prime Video 03 HD
+http://64.31.43.226:80/317183441/945713147/6422480.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Prime Video 04 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/la-chaine-amazon-prime-video.png" group-title="Prime Videos",Prime Video 04 HD
+http://64.31.43.226:80/317183441/945713147/6422486.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Prime Video 05 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/la-chaine-amazon-prime-video.png" group-title="Prime Videos",Prime Video 05 HD
+http://64.31.43.226:80/317183441/945713147/6422487.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Prime Video 06 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/la-chaine-amazon-prime-video.png" group-title="Prime Videos",Prime Video 06 HD
+http://64.31.43.226:80/317183441/945713147/6422488.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Prime Video 07 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/la-chaine-amazon-prime-video.png" group-title="Prime Videos",Prime Video 07 HD
+http://64.31.43.226:80/317183441/945713147/6422489.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Prime Video 08 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/la-chaine-amazon-prime-video.png" group-title="Prime Videos",Prime Video 08 HD
+http://64.31.43.226:80/317183441/945713147/6422490.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Prime Video 09 HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/la-chaine-amazon-prime-video.png" group-title="Prime Videos",Prime Video 09 HD
+http://64.31.43.226:80/317183441/945713147/6422491.ts
+#EXTINF:-1 tvg-id="SporTV 2 SD" tvg-name="Sportv 01 FHD" tvg-logo="https://img.nnl.pw/draco/sportv.png" group-title="Sportv",Sportv 01 FHD
+http://64.31.43.226:80/317183441/945713147/631418.ts
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="Sportv 01 HD" tvg-logo="https://img.nnl.pw/draco/sportv.png" group-title="Sportv",Sportv 01 HD
+http://64.31.43.226:80/317183441/945713147/5365103.ts
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="Sportv 01 SD" tvg-logo="https://img.nnl.pw/draco/sportv.png" group-title="Sportv",Sportv 01 SD
+http://64.31.43.226:80/317183441/945713147/5365106.ts
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv 02 FHD" tvg-logo="https://img.nnl.pw/draco/sportv2.png" group-title="Sportv",Sportv 02 FHD
+http://64.31.43.226:80/317183441/945713147/631421.ts
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="Sportv 02 HD" tvg-logo="https://img.nnl.pw/draco/sportv2.png" group-title="Sportv",Sportv 02 HD
+http://64.31.43.226:80/317183441/945713147/5428385.ts
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv 02 SD" tvg-logo="https://img.nnl.pw/draco/sportv2.png" group-title="Sportv",Sportv 02 SD
+http://64.31.43.226:80/317183441/945713147/5365113.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="Sportv 03 FHD" tvg-logo="https://img.nnl.pw/draco/sportv3.png" group-title="Sportv",Sportv 03 FHD
+http://64.31.43.226:80/317183441/945713147/5427855.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="Sportv 03 HD" tvg-logo="https://img.nnl.pw/draco/sportv3.png" group-title="Sportv",Sportv 03 HD
+http://64.31.43.226:80/317183441/945713147/5365119.ts
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="Sportv 03 SD" tvg-logo="https://img.nnl.pw/draco/sportv3.png" group-title="Sportv",Sportv 03 SD
+http://64.31.43.226:80/317183441/945713147/5365122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sportynet HD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3348x902/Y2gwMTAwMDAwMDAwMTU1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3348x902.png?timestamp=1751958614345" group-title="Esportes PPV",Sportynet HD
+http://64.31.43.226:80/317183441/945713147/6568687.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Sportynet+ 01 HD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3348x902/Y2gwMTAwMDAwMDAwMTU1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3348x902.png?timestamp=1751958614345" group-title="Esportes PPV",Sportynet+ 01 HD
+http://64.31.43.226:80/317183441/945713147/5376114.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Sportynet+ 02 HD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3348x902/Y2gwMTAwMDAwMDAwMTU1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3348x902.png?timestamp=1751958614345" group-title="Esportes PPV",Sportynet+ 02 HD
+http://64.31.43.226:80/317183441/945713147/5376119.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Sportynet+ 03 HD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3348x902/Y2gwMTAwMDAwMDAwMTU1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3348x902.png" group-title="Esportes PPV",Sportynet+ 03 HD
+http://64.31.43.226:80/317183441/945713147/5448698.ts
